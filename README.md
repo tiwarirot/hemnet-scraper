@@ -28,3 +28,16 @@ If you wish to use Google API to calculate the distance to central station and a
 
 The resulting CSV file is written to CSV directory.
 
+## Install Requirements
+A requirements file is provided. To install all requirements, run:
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
+Simply run the script with:
+
+```
+python hemnet_scraper.py
+```
