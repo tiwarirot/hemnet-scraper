@@ -1,0 +1,2444 @@
+region,location,street_address,num_of_rooms,size,fee,final_price,initial_price,year_built
+Solna,Vireberg,"Virebergsvägen 9, 9 tr",3,75.5 ,1957,4200000,3695000,1957
+Stockholm,Midsommarkransen,Flygelgatan 4,2,45.3 ,3139,2500000,2095000,2012
+Stockholm,Årsta,"Glindragränd 3, vån 5/5",5,114 ,6024,6220000,6150000,2016
+Stockholm,Örnsberg,"Hägerstensvägen 209, vån 2/3",2,41 ,3445,2560000,1995000,1939
+Sundbyberg,Ursvik,Grönlingens väg 2,2,44 ,2698,2200000,1995000,2012
+Stockholm,Östermalm,"Kommendörsgatan 33A, 5tr",1,18 ,984,2900000,2495000,1929
+Nacka,Orminge,Ormingeringen 70,1.5,37 ,2700,1670000,1495000,1929
+Sundbyberg,Ör,Kavaljersbacken 10,2,71.5 ,2698,2440000,2500000,1929
+Solna,Huvudsta,Släggbacken 2,6,153 ,7846,4750000,4395000,1965
+Stockholm,Hagsätra,Lerbäcksgränd 10,2,60 ,3817,1850000,1695000,1956
+Sollentuna,Kärrdal,Lomvägen 641,1.5,42.5 ,2410,1730000,1690000,1974
+Stockholm,Hornstull,Liljeholmsbron 8,1.5,44 ,2462,3500000,3250000,1974
+Stockholm,HammarbySjöstad,"Hammarby allé 157, pl 7",3,74 ,4643,4500000,4295000,2003
+Stockholm,Kista,Langelandsgatan 43,3,76.5 ,4401,2400000,2095000,1979
+Stockholm,Traneberg,Hallebergsvägen 22,3,74 ,3996,4900000,4495000,1938
+Stockholm,Vällingby,Mörsilsgatan 6,2,29 ,1977,1700000,1495000,1955
+Stockholm,Traneberg,Nipfjällsvägen 8,3,62 ,2681,3900000,3395000,1984
+Stockholm,Bagarmossen,Emågatan 37,2,57 ,3501,2700000,2250000,1954
+Stockholm,Vällingby,"Jämtlandsgatan 107, Vån 3 (11031)",2,66 ,3493,3000000,2795000,2019
+Nacka,Nacka,Skarpövägen 31,4,81 ,5530,2300000,2095000,2019
+Stockholm,Östermalm,Grevgatan 12,2,78 ,3226,9000000,7995000,1939
+Stockholm,Sätra,Kungssätravägen 8,3,77 ,5099,2250000,1990000,1965
+Stockholm,Hornstull,"Heleneborgsgatan 15 B, 5 tr",2,54 ,3608,5650000,4650000,1911
+Stockholm,Vasastan,Upplandsgatan 67,3,77 ,3760,9000000,9000000,1901
+Stockholm,Katarina,Ringvägen 131,4,88 ,4473,7900000,6995000,1928
+Stockholm,Vällingby,"Råckstavägen 25, Vån 4",3,84 ,4509,2880000,2750000,2009
+Sollentuna,Edsberg,Kruthornsvägen 22,1,33 ,2874,1550000,1495000,1962
+Stockholm,Gröndal,Ormbergsvägen 7,3,68 ,3890,4800000,4295000,1947
+Stockholm,Bromma,Enhörningsgränd 6,3.5,85 ,5535,5030000,4995000,2003
+Stockholm,Kungsholmen,Jaktvarvsplan 3,2,37 ,2270,3650000,2895000,1931
+Solna,Järvastaden,Dammtorps Allé 12,4,92 ,4765,4700000,4450000,2013
+Stockholm,Midsommarkransen,"Bäckvägen 48, 3tr",3,61 ,3204,4500000,3495000,1943
+Stockholm,Midsommarkransen,Cedergrensvägen 36,2,35 ,2235,2710000,2195000,1940
+Stockholm,Stockholm,Ulriksborgsgatan 9 Lgh 1703,2,59.5 ,3340,4300000,3995000,2006
+Nacka,Finnberget,Finnbergsvägen 68,2,66 ,3929,3100000,2750000,2006
+Stockholm,Stockholm,"Storskärsgatan 5, 4 tr",2.5,76 ,3578,7050000,6950000,1935
+Stockholm,Södermalm,Wollmar Yxkullsgatan 52B,1.5,38 ,2170,3210000,2995000,1935
+Stockholm,Åkeshov,Snörmakarvägen 3,2,42 ,3750,2310000,1995000,1942
+Stockholm,NorraDjurgårdsstaden,"Madängsgatan 22, Vån 5",2,52 ,3324,3900000,3995000,2014
+Solna,Hagalund,"Hagalundsgatan 10, 1 tr",2,59 ,2915,2720000,2495000,1973
+Stockholm,Kungsholmen,"Kellgrensgatan 10, 6 tr",2,53.5 ,3473,4150000,3995000,2015
+Stockholm,Aspudden,Hertigvägen 2,3,70 ,4133,4800000,3995000,1948
+Stockholm,Farsta,Rottnerosbacken 3,2,46 ,2787,2250000,1795000,2015
+Sollentuna,Rotebro,Timotejvägen 10,3,73.5 ,4470,1770000,1800000,1974
+Stockholm,Stureby,Bjulevägen 26B,1.5,35 ,2821,1950000,1495000,1949
+Stockholm,Skarpnäck,"Segelflygsgatan 37, 3tr",4,101.5 ,6802,3830000,3095000,1985
+Stockholm,Östermalm,"Rindögatan 19, 7 tr",2,41 ,2140,4525000,3795000,1939
+Stockholm,Johannesfred,Ståltrådsvägen 44,1,28.7 ,1665,2040000,1895000,1945
+Stockholm,Telefonplan,Hökmossevägen 68,2.5,51 ,3494,2400000,2195000,1943
+Nacka,Ekudden,"Ekuddsvägen 2, 4 tr",4,87.8 ,6564,3570000,3495000,1957
+Stockholm,Sofia,"Borgmästargatan 9, 3 tr ",2,36 ,1888,3320000,2895000,1930
+Nacka,Finntorp,Blomstervägen 40,2,48 ,2398,2400000,2375000,1977
+Stockholm,Midsommarkransen,Kyndelsmässogränd 12,3,54.5 ,3893,3200000,2795000,1943
+Stockholm,Björkhagen,Skanörvägen 5,3,67.5 ,3806,3800000,3495000,1949
+Stockholm,Bromma,Kinnekullevägen 32 3tr,2,38 ,2939,2660000,2275000,1936
+Solna,Solna,Gustafsvägen 8,2,38 ,2189,2895000,2495000,1939
+Stockholm,Södermalm,Bastugatan 25,2,47 ,1595,3850000,3495000,1930
+Stockholm,Stockholm,Krakel Spektakels gata 3,3,81.5 ,4068,3945000,3945000,2010
+Stockholm,Enskede,Lingvägen 122,4.5,94 ,5943,4350000,3700000,2009
+Solna,Råsunda,Mauritz Stillers väg 3,3,67 ,4036,3550000,3550000,2007
+Stockholm,Aspudden,"Pilgrimsvägen 54 A, vån 2",1,34.5 ,2028,2700000,2250000,1939
+Stockholm,Årsta,"Siljansvägen 74, vån 7/7",2,55 ,3848,3180000,2395000,1947
+Sundbyberg,Sundbybergcentrum,"Rosengatan 11, Vån 3",3,50 ,2951,3230000,2795000,1945
+Stockholm,Vällingby,"Östersundsgatan 7, vån 15",1,47 ,2982,2200000,2200000,2015
+Stockholm,Bandhagen,Kallforsvägen 19,3,76 ,4306,2985000,2595000,1952
+Stockholm,Vasastan,Gästrikegatan 10,2,29 ,1148,3230000,2995000,1968
+Stockholm,Katarina,"Hallandsgatan 32, 4 tr.",3,75 ,4247,7800000,6250000,1927
+Stockholm,Hammarbyhöjden,Boråsvägen 4,3,68 ,4193,4550000,3495000,1939
+Stockholm,Södermalm,"Götgatan 79, 5 tr",4,112 ,4820,8850000,8475000,1941
+Stockholm,Gärdet,Rindögatan 40,1,25 ,1538,2890000,2890000,1938
+Stockholm,Vällingby,Abiskovägen 20,1,26 ,1581,1700000,1495000,1954
+Stockholm,Akalla,"Kotkagatan 27, 3tr",3,79 ,4574,2100000,1950000,1975
+Nacka,Alphyddan,Alphyddevägen 29,3,75.5 ,3716,3550000,2995000,1975
+Stockholm,Bromma,Pelle Svanslös Gata 1,3,81 ,4853,3720000,3395000,2012
+Solna,Råsunda,Östervägen 25B,2,40 ,2498,2800000,2395000,1940
+Solna,Huvudsta,"Jungfrudansen 18, 6 tr",1,36 ,1786,2620000,2295000,1970
+Sundbyberg,Ursvik,Milstensvägen 33,2,55 ,3312,2220000,2295000,2013
+Stockholm,Kungsholmen,Bergsgatan 51,2,37 ,1577,3530000,2995000,1963
+Solna,Råsunda,"Rosstigen 9, 2 tr",2,48 ,3035,3060000,2795000,1944
+Stockholm,Södermalm,"Bergsunds Strand 42, 2 tr",2.5,56 ,1834,4325000,3995000,1965
+Solna,Frösunda,Signe Tillischgatan 11,2,46 ,2712,3010000,2495000,2006
+Stockholm,Södermalm,"Östgötagatan 83, 2 tr",3,78 ,2937,6900000,6475000,1913
+Stockholm,Enskede,Sofielundsvägen 14,2,54 ,2769,3000000,2695000,1943
+Stockholm,Södermalm,"Rutger fuchsgatan 4, 2tr",1,23 ,1211,2650000,2195000,1929
+Stockholm,StoraEssingen,Skogsmarksvägen 16,3,106 ,5570,7395000,7395000,1929
+Solna,HagaNorra,Slottsvägen 2,2,46 ,2666,2935000,2495000,1999
+Stockholm,Gröndal,Skonertvägen 9A,2,62 ,4038,2770000,2495000,1990
+Nacka,Henriksdal,Henriksdalsringen 25,2,46 ,2300,2290000,1995000,1971
+Stockholm,Bromma,"Söderberga Allé 58, 4 tr.",4,101 ,5804,2800000,2495000,1995
+Sundbyberg,Sundbyberg,Brunnsgatan 2A,2,62 ,4383,2900000,2900000,1940
+Stockholm,Södermalm,Kocksgatan 36,1,30 ,1863,3250000,2850000,1943
+Stockholm,Kungsholmen,Runiusgatan 7,3,75 ,3437,4200000,3790000,1931
+Stockholm,Vasastan,Karlbergsvägen 32B,3,61 ,2234,6525000,5495000,1889
+Stockholm,Farsta,Kumminvägen 14,2,53 ,3812,2350000,1995000,1947
+Stockholm,Östermalm,"Östhammarsgatan 64, 3tr",2,55 ,3499,4320000,3995000,1947
+Sollentuna,Edsbacka,Platåvägen 24,3,81 ,5004,3000000,3000000,1986
+Stockholm,Gamla Stan,"Skinnarviksringen 2, 1 tr",2,33 ,2364,3100000,2850000,1930
+Solna,Skytteholm,"Nybodagatan 2, 3 tr",2,62.5 ,3110,2700000,2395000,1930
+Solna,Råsunda,"Förrådsgatan 5, 3tr",1,40 ,2081,2720000,2195000,1938
+Stockholm,Farsta,Larsbodavägen 72,1,40.5 ,2590,2090000,1795000,1957
+Sollentuna,Kärrdal,Lomvägen 651,3,83 ,4034,2560000,2350000,1975
+Stockholm,Vasastan,"Roslagsgatan 28, 2 tr",2,55 ,2039,4175000,3975000,1972
+Stockholm,Bromma,"Kratsboda Backe 4, högst upp!",3,74 ,3306,3925000,3750000,1993
+Stockholm,Gröndalstrand,Storsegelvägen 12,2,51 ,2763,3675000,3700000,2017
+Solna,VästraSkogen,"Armégatan 36F, vån 7",4,102 ,5321,5250000,4995000,2016
+Stockholm,Vällingby,"Jämtlandsgatan 99, Vån 8 (13084)",1,36 ,1905,2135000,1750000,2018
+Stockholm,Vasastan,"Tegnérgatan 55 B, 6 tr",1,30 ,2089,3350000,2650000,1929
+Nacka,Hedvigslund,Lillvägen 36,5,106 ,5919,3500000,2995000,1993
+Stockholm,Kungsholmen,Warfvinges väg 18,4,88 ,4981,7150000,6700000,2015
+Stockholm,Vasastan,"Birkagatan 21B, över gård",1,33 ,924,3425000,2850000,1905
+Stockholm,Södermalm,"Pokalvägen 5, 5 tr",2,40 ,2436,3650000,3150000,1944
+Stockholm,Gärdet,Östhammarsgatan 67,4.5,114 ,6063,9325000,8900000,1943
+Stockholm,Fagersjö,"Skrakgränd 11, 3 tr",3,76 ,4061,2260000,2095000,1943
+Stockholm,Vasastan,Atlasgatan 7,2,39 ,1960,3775000,3495000,1929
+Stockholm,Södermalm,Kocksgatan 51,1,26 ,2137,2675000,2395000,1939
+Stockholm,Norrmalm,Drottninggatan 73A,2,57 ,1014,5725000,5295000,1886
+Stockholm,Vasastan,Gästrikegatan 22,2,67 ,2401,8300000,7700000,1897
+Stockholm,Traneberg,Sulitelmavägen 23,3,79 ,4362,5900000,5900000,1938
+Stockholm,Östermalm,Styrmansgatan 6,5,183 ,8940,29000000,29000000,1883
+Stockholm,Kungsholmen,Pär Lagerkvists Gata 2,4,88 ,3975,6200000,5795000,2008
+Nacka,Nacka,Skeppsmäklargatan 51,3,81 ,3728,4495000,4495000,2019
+Stockholm,Årsta,"Glindragränd 12, 3/4tr",3,67 ,3978,3760000,3295000,2016
+Sollentuna,Helenelund,Stupvägen 39,3,73 ,4464,2160000,1995000,1970
+Nacka,FinnbodaHamn,Finnboda Kajväg 12C,3,78.5 ,4247,6150000,5995000,2017
+Stockholm,Vasastan,Rådmansgatan 77A,2,39 ,1503,4100000,3325000,1876
+Sundbyberg,CentralaSundbyberg,"Järnvägsgatan 58, 4tr",2,43 ,2701,2810000,2495000,1965
+Stockholm,Liljeholmskajen,Vingårdsgatan 8,3,68.5 ,3379,5400000,5400000,2008
+Stockholm,Högalid,"Flintbacken 18, 7 tr",2,60 ,2482,5050000,4490000,1964
+Stockholm,Skärholmen,Ekholmsvägen 301,2,54 ,2883,2200000,2250000,2014
+Stockholm,Högdalen,Skebokvarnsvägen 245,4,85 ,4276,2750000,2375000,1956
+Stockholm,Riksby,"Synålsvägen 18, 2tr",2,60 ,3062,2950000,2495000,1943
+Stockholm,Kista,Sorögatan 1 ,4,119 ,6341,2500000,2399000,1979
+Stockholm,Bromma,"Karen Blixens Gata 7, vån 7",2,50 ,3088,2670000,2350000,2014
+Stockholm,Södermalm,"Hästholmsvägen 17, 5tr",1.5,44 ,2839,3300000,2995000,1945
+Stockholm,Årsta,Årstavägen 4,2,46 ,2677,2830000,2495000,2017
+Stockholm,NorraDjurgårdsstaden,"Lövängsgatan 12, 4tr",2,55 ,3474,4170000,3995000,2016
+Stockholm,Aspudden,"Torsten Alms gata 8, vån 3 av 3",1,40 ,2967,2450000,2095000,1948
+Stockholm,Råcksta,Njurundagatan 6,1,30 ,1878,1640000,1495000,1959
+Stockholm,Bromma,Björnsonsgatan 142,1,31 ,1632,2060000,1725000,1952
+Stockholm,Akalla,"Mariehamnsgatan 24, 2tr",4,105 ,5822,2320000,2195000,1977
+Stockholm,Johanneshov,Pelargatan 7,2,50 ,2442,2970000,2700000,1942
+Stockholm,Katarina,"Gotlandsgatan 67, 5tr",1,43 ,2044,3465000,2995000,1926
+Solna,Råsunda,Lövgatan 49,2,43 ,3258,2550000,2295000,1992
+Stockholm,Årsta,Siljansvägen 33,2,45 ,3294,2700000,2800000,1945
+Sundbyberg,Rissne,Rissneleden 165,3.5,82 ,4269,3095000,3095000,2018
+Sundbyberg,Sundbyberg,"Tulegatan 72, 2 tr",2,40 ,2354,2500000,2190000,1942
+Solna,Råsunda,Tottvägen 4 A,2,67 ,3172,4350000,3950000,1910
+Stockholm,Kungsholmen,"Alströmergatan 51, 1,5tr",1,29 ,1307,2850000,2595000,1930
+Stockholm,Aspudden,"Ivar Vidfamnes gata 2, vån 2 av 3",3,68 ,3790,4850000,3795000,1948
+Solna,Järvastaden,Järva Skjutbaneväg 52,5,112 ,5327,5500000,5275000,2013
+Stockholm,Fruängen,Agnes Lagerstedts gata 12,2,55 ,3008,2675000,2195000,1955
+Stockholm,Skarpnäck,Skarpnäcks Allé 60,3,80.3 ,4642,2390000,2195000,1985
+Stockholm,Rinkeby,Almbygatan 10,2,47 ,2742,2070000,2070000,2017
+Stockholm,Kungsholmen,Essinge Brogata 22,1,24 ,1777,2200000,1795000,1939
+Stockholm,Södermalm,"Bondegatan 74B, 5 tr",3.5,103 ,5176,10675000,8695000,1914
+Solna,Hagastaden,"Olof Af Acrels Väg 5, 2 tr.",1,26 ,1858,2350000,1995000,1959
+Stockholm,Kungsholmen,"Garvar Lundins Gränd 8, 1,5 tr",2.5,60.5 ,1488,5800000,4995000,1929
+Stockholm,Södermalm,Götgatan 101,1,45 ,1920,3250000,2495000,1926
+Stockholm,Stureby,Skönviksvägen 321,3,59 ,3495,3300000,2695000,1952
+Stockholm,Gärdet,Sandhamnsgatan 55,3,72 ,3900,6000000,5750000,1966
+Stockholm,Aspudden,Hövdingagatan 35,1.5,38 ,2242,2820000,2195000,1942
+Stockholm,Vasastan,"Markvardsgatan 1, 2tr",2,57.3 ,628,5530000,4995000,1891
+Stockholm,Farsta,"Värmlandsvägen 7A, 3 tr",2,45.5 ,2819,2400000,1995000,2011
+Stockholm,Kungsholmen,"Atterbomsvägen 30, 2tr",1,25 ,1527,2580000,2250000,1937
+Sollentuna,SollentunaCentrum,"Cirkusgränd 11, 5 tr",3,73 ,4472,3500000,3500000,2008
+Stockholm,Kungsholmen,"Messeniusgatan 6, 3tr",1.5,32 ,2226,3050000,2595000,1936
+Nacka,JärlaSjö,Winborgs Väg 21,1,36 ,2100,2550000,2550000,2017
+Sundbyberg,LillaAlby,Hamngatan 31A,3,79 ,3864,4825000,4990000,2009
+Stockholm,Hägerstensåsen,Bäckvägen 159,2,54 ,2365,3200000,3200000,2009
+Solna,Råsunda,"Uppfartsvägen 9, 5 tr",1,38 ,1759,2800000,2395000,1944
+Stockholm,Södermalm,"Anders Reimers Väg 6, 3+4 tr",3,69 ,3860,5750000,5750000,1943
+Solna,Råsunda,"Solparksvägen 3, 2 tr",2,40 ,2330,3350000,2795000,1912
+Stockholm,Stockholm,Älvsåkersgränd 27,3,83 ,5260,2200000,1995000,1968
+Nacka,Orminge,"Ornövägen 34, 1 tr",2,61 ,3459,1870000,1695000,1970
+Solna,VästraSkogen,"Johan Enbergs Väg 7, 4 tr",3,78 ,3645,4410000,3995000,1969
+Solna,Frösunda,"Gustav III:s Boulevard 83, 5 vån",2,51 ,3474,3050000,2950000,2004
+Nacka,Finntorp,Helgesons väg 8B,3.5,64 ,3663,4100000,3595000,2001
+Nacka,Saltsjöbaden,Ljuskärrsvägen 32,2,63.3 ,3360,1865000,1695000,1972
+Sundbyberg,LillaAlby,Franstorpsvägen 9,2,63.3 ,3840,3250000,2895000,1963
+Stockholm,Västertorp,Skridskovägen 12,2,54 ,3044,2920000,2395000,1950
+Stockholm,Katarina,"Grindsgatan 35, 2 tr",4,90 ,4174,7200000,6250000,1905
+Solna,VästraSkogen,"Trubadurvägen 1, vån 3",2,47 ,2524,3125000,2695000,2016
+Stockholm,Sköndal,"Mandelbrödsvägen 2, 3tr",3,71 ,4664,2510000,2245000,2016
+Stockholm,Hammarbyhöjden,Wahlbergsgatan 7,3,53 ,3120,3475000,2895000,1937
+Sollentuna,Häggvik,Klasrovägen 31,1,34.6 ,1853,1995000,1995000,2014
+Stockholm,Årsta,Sköntorpsvägen 93,2,55 ,2947,2910000,2495000,1945
+Nacka,JärlaSjö,Turbinvägen 8B,2,78 ,3500,4600000,4495000,1945
+Stockholm,Vasastan,Vulcanusgatan 3,2,50 ,2954,4350000,4350000,1929
+Stockholm,Högdalen,"Skebokvarnsvägen 251, 1tr",1,27 ,1513,1700000,1495000,1929
+Stockholm,Kungsholmen,"Inedalsgatan 23, 2 tr",2,62 ,2458,5050000,4850000,1914
+Solna,Solna,Kyrkbacken 14,1,18.5 ,1450,1750000,1780000,1973
+Stockholm,Högdalen,Sjösavägen 71 1tr,3,70 ,4471,2680000,1995000,1954
+Stockholm,Bromma,Ulvsundavägen 1,2,72 ,4389,3250000,3295000,2017
+Stockholm,Södermalm,Krukmakarbacken 4B 4tr,3,81 ,2835,6210000,5495000,1987
+Stockholm,Södermalm,"Verkstadsgatan 11, 2 tr",3,84 ,4456,7000000,6495000,1931
+Nacka,Nacka,"Ängsbacken 1, 3 tr",3.5,80 ,6219,2450000,2295000,1931
+Stockholm,Årsta,"Sandfjärdsgatan 120, 12+13 tr",5,105.5 ,5820,4300000,4395000,1931
+Stockholm,Södermalm,Högbergsgatan 24,2,45 ,2802,4410000,3995000,1930
+Stockholm,Örby,Gamla huddingevägen 446,3,70 ,3105,3005000,2495000,1957
+Nacka,Nacka,"Ornövägen 28, 2 tr",3,61 ,3667,2015000,1695000,1957
+Stockholm,Odenplan,Vegagatan 3,3,90 ,3443,8650000,7950000,1884
+Stockholm,Östermalm,"Kommendörsgatan 26, 6tr",2,50 ,1895,6000000,5495000,1966
+Nacka,VästraOrminge,"Skarpövägen 57, 4 tr",3,81 ,5530,2100000,2100000,1969
+Stockholm,Gärdet,"Sehlstedtsgatan 7, 3tr",2,43 ,2150,3550000,3450000,2014
+Stockholm,Kungsholmen,"Scheelegatan 11, 2 tr",2,61 ,2065,5710000,4695000,1886
+Stockholm,HammarbySjöstad,Korphoppsgatan 22,2,45 ,3316,2930000,2995000,2003
+Stockholm,Vasastan,"Dannemoragatan 14, 1,5tr.",1,32 ,1689,3350000,2850000,1923
+Stockholm,Högalid,Rosenlundsgatan 32B,2,50 ,3057,4950000,3995000,2015
+Stockholm,Högalid,Långholmsgatan 5,3,72 ,3296,6900000,5950000,1913
+Stockholm,Hornstull,"Bergsunds Strand 42, 3 tr",2,55 ,1801,4550000,4150000,1965
+Stockholm,NorraDjurgårdsstaden,"Bobergsgatan 75, 5 tr ",4,102.8 ,2881,10500000,10500000,2018
+Stockholm,Östermalm,"Erik Dahlbergsgatan 41- 43, 5 tr. ",2,44 ,2434,3760000,3495000,1941
+Stockholm,Mariaberget,"Tavastgatan 5, 4tr",2,50 ,3201,5670000,4450000,1939
+Stockholm,Hökarängen,Pepparvägen 45,2,47 ,3438,2410000,1995000,2011
+Stockholm,Kungsholmen,"Alströmergatan 9, 4 tr",1,28 ,1850,2780000,2250000,1952
+Stockholm,Kungsholmen,Strålgatan 19,1.5,32 ,1984,2770000,2395000,1938
+Stockholm,Midsommarkransen,Lötmogatan 7,2,37 ,3145,2710000,1995000,1940
+Stockholm,Kungsholmen,Essinge Brogata 10 ,3,69 ,3717,6200000,5950000,1938
+Stockholm,Vasastan,"Döbelnsgatan 55, 6tr Vindsvåning",2,65 ,3084,6750000,6250000,1909
+Sundbyberg,Hallonbergen,Lötsjövägen 53,3,82.1 ,3693,2650000,2295000,1970
+Sundbyberg,Ursvik,Stallgatan 19,3,78 ,3799,3400000,2995000,2016
+Sundbyberg,Sundbyberg,Brännarvägen 3,2,47 ,2733,2300000,2300000,2018
+Stockholm,Vasastan,"Kammakargatan 21, 2tr",2,39 ,2428,3700000,3395000,1944
+Stockholm,Vasastan,"Karlbergsvägen 83B, 4 tr",2,48 ,2046,4330000,4095000,1982
+Stockholm,Sätra,Kungssätravägen 8,2,57 ,3904,2300000,1995000,1965
+Stockholm,Stockholm,Fogdevägen 39,2,48 ,3301,2330000,1995000,2009
+Stockholm,Bromma,Drachmannsgatan 4,3,74 ,4117,4250000,3790000,2012
+Stockholm,Stockholm,Fridhemsgatan 60,3,65 ,2680,5600000,4995000,1943
+Stockholm,Kungsholmen,"John Ericssonsgatan 18, 5 tr",3,64 ,3178,6460000,5745000,1935
+Stockholm,Vasastan,"Valentin Sabbats Gata 1, 6tr",2,43.5 ,2217,4525000,3795000,2009
+Solna,HagaNorra,"Andersvägen 3A, Vån 1",4,96.8 ,4636,4650000,4750000,1993
+Stockholm,Bromma,Tummelisas Gata 3,3,80 ,4740,3500000,3395000,2015
+Stockholm,HammarbySjöstad,"Hammarby Allé 7, 10 tr",3,83 ,4469,6500000,6500000,2016
+Sundbyberg,CentralaSundbyberg,Starrbäcksgatan 11C,2,54 ,3117,2825000,2495000,1989
+Nacka,Sickla,Atlasvägen 35,1,25 ,1627,2000000,1995000,1958
+Stockholm,Södermalm,"Hallandsgatan 48, 2tr",2,47 ,2696,4450000,3895000,1928
+Stockholm,Södermalm,"Klippgatan 14B, 1 tr",2,47 ,2551,3850000,3495000,1930
+Stockholm,Årsta,Borensvägen 40,2,40 ,2957,2500000,2175000,1945
+Stockholm,Årsta,Åmänningevägen 21,3,71 ,5089,3700000,2995000,2004
+Stockholm,Hägerstensåsen,Valutavägen 25,1,20 ,1659,2000000,1595000,1947
+Stockholm,Fruängen,"Ada Nilssons gata 13, 6 tr",2,43 ,2307,2650000,2390000,2007
+Stockholm,Stockholm,Svartviksvägen 4A,1,26 ,1578,2050000,1695000,1938
+Stockholm,Södermalm,Sågargatan 17,1,22 ,1673,2580000,2095000,1938
+Stockholm,Årsta,Sandfjärdsgatan 33,1,27 ,2081,2180000,1750000,1962
+Stockholm,Östermalm,Gumshornsgatan 7,1,28.5 ,1489,3300000,2795000,1931
+Stockholm,Bagarmossen,Rusthållarvägen 127,2,53 ,3907,2687000,2295000,1953
+Stockholm,Bromma,"Alpvägen 8, 1 tr",3,62 ,4397,3000000,2695000,2002
+Stockholm,Södermalm,"Kocksgatan 40, 3 tr",2,34 ,2118,3340000,2750000,1939
+Stockholm,Stockholm,"Pilotgatan 5C, 2tr",1,50 ,3568,2000000,1495000,1985
+Stockholm,Hammarbyhöjden,"Malmövägen 24, 2tr",2,58 ,3253,3500000,2950000,1949
+Stockholm,Bromma,Tummelisas gata 3,1.5,36 ,2784,2300000,1995000,2015
+Stockholm,Gärdet,Sandhamnsgatan 13,1.5,28 ,2355,2600000,2495000,1943
+Stockholm,Hammarbyhöjden,"Skarabacken 47, 2 tr",3,66 ,4644,3620000,3395000,1942
+Stockholm,Hässelby,"Melongatan 14, 4 tr",2,53 ,3167,2220000,1995000,2011
+Stockholm,Traneberg,Minnebergsvägen 27,2,51 ,2973,3125000,2895000,1939
+Stockholm,Kristineberg,"Love Almqvists Väg 4B, 4 tr",2,38 ,3042,3250000,2495000,1934
+Stockholm,Bromma,Spångavägen 32,2,56 ,3870,2650000,2095000,1940
+Stockholm,Sundby,Gamla bromstensvägen 123A,4,97 ,5067,4270000,3975000,2006
+Stockholm,Farsta,Ågesta Broväg 40,3,82 ,5157,2900000,2800000,2009
+Stockholm,Årsta,Slätbaksvägen 46,2,42.5 ,2641,2460000,2175000,1943
+Stockholm,Södermalm,"Kattgränd 6, 2 tr",2,45 ,2138,4540000,3995000,1945
+Stockholm,Aspudden,Husabyvägen 12,1,29 ,1636,2375000,1895000,1944
+Solna,Råsunda,"Gränsgatan 22, vån 3",3,55 ,3015,3695000,3695000,2019
+Stockholm,Mariatorget,Krukmakargatan 5,3,77 ,2882,7350000,6795000,1916
+Solna,Järvastaden,"Honnörsgatan 3, 3 tr",4,89 ,5221,4700000,4395000,1916
+Stockholm,Årsta,"Årstavägen 66, 5 tr",3,73 ,3863,4080000,3695000,1946
+Stockholm,Kungsholmen,Sankt Eriksgatan 8,2,55 ,3553,3520000,3495000,1925
+Sollentuna,Edsängen,"Frestavägen 32, 1 tr",3,54 ,2809,2350000,1995000,2011
+Solna,VästraSkogen,"Arvid Tydéns Allé 20, 3tr",3,56 ,2899,3600000,3195000,2017
+Stockholm,Södermalm,Erstagatan 22,2,35.2 ,2117,3540000,2995000,1939
+Stockholm,Östermalm,Brantingsgatan 50,2,52 ,2965,4470000,3575000,1937
+Nacka,Skogalundsklippan,Skogalundsklippan 21,3.5,69 ,4403,2770000,2595000,1984
+Stockholm,Vasastan,"Birger Jarlsgatan 110, 2 tr",2,35 ,987,3900000,3295000,1905
+Sollentuna,Sollentuna,Stupvägen 37,3,73 ,4134,2300000,2295000,1970
+Sundbyberg,CentralaSundbyberg,Gjuteribacken 16C,3,60 ,3273,3325000,2895000,1947
+Stockholm,Vasastan,Rådmansgatan 75,1.5,36 ,1534,3550000,3150000,1971
+Stockholm,Minneberg,Svartviksslingan 112,3,67.5 ,3458,3520000,3495000,1985
+Stockholm,Bagarmossen,Ätravägen 22,1,32 ,2350,2110000,1695000,2016
+Stockholm,HornsbergsStrand,"Pär Lagerkvists Gata 30, 7tr",3,74 ,3648,6150000,5995000,2012
+Solna,Solna,Infanterigatan 6,3,75.5 ,3768,3500000,3500000,1962
+Nacka,Strandparksområdet,"Oxelvägen 55, 4 tr",4,91 ,5795,2250000,2295000,1967
+Stockholm,Telefonplan,"Hökmossevägen 27, 2tr",2,43.7 ,2800,2610000,1995000,1967
+Stockholm,Kungsholmen,Sankt Göransgatan 102,2,45 ,2518,3300000,2995000,1992
+Stockholm,Kungsholmen,Sankt Eriksgatan 52,3,72 ,3136,6650000,5950000,1926
+Stockholm,Hornstull,"Lundagatan 46, 2 tr",2,36 ,1880,3530000,2995000,1926
+Stockholm,Gärdet,Brantingsgatan 22,1.5,36 ,2114,2800000,2695000,1939
+Solna,Solna,"Lövgatan 55, vån 3 av 7",2,43 ,2401,2950000,2950000,2019
+Stockholm,Örby,Gamla huddingevägen 419,3,81 ,3463,3630000,2995000,1959
+Stockholm,Östermalm,"Sibyllegatan 83, 3tr",2,72 ,2081,6850000,6495000,1889
+Stockholm,Hägerstensåsen,"Arvodesvägen 19, 2tr",2,52 ,3437,2800000,2495000,1942
+Stockholm,Södermalm,"Katarina Bangata 55, 2tr",1,32 ,2022,3100000,2795000,1929
+Stockholm,Östermalm,"Rindögatan 19, 3 tr",2,34 ,1936,3575000,2995000,1939
+Stockholm,Södermalm,"Ringvägen 66, 2tr",2,58.5 ,3715,4240000,3995000,2002
+Stockholm,Mariehäll,Askängsbacken 20,5,106 ,6285,6300000,6100000,2013
+Stockholm,Katarina,"Hökens gata 7, 3 tr",2,65 ,3466,6725000,5450000,1904
+Stockholm,Vasastan,Surbrunnsgatan 15,2,53 ,2538,5100000,4500000,1896
+Stockholm,Bromma,Kratsbodavägen 46C,3,76 ,3825,4800000,4800000,2018
+Stockholm,Vasastan,Torsplan 8,2,60 ,3704,6425000,6425000,2019
+Solna,Huvudsta,Lundagatan 1B,3,80 ,4738,4830000,4195000,2008
+Stockholm,Vasastan,"Sveavägen 95, 2tr",2,44.5 ,2006,3800000,3395000,1926
+Stockholm,Kista,"Sorögatan 13, 1 tr",2,45 ,2728,1870000,1595000,1978
+Stockholm,Akalla,"Helsingforsgatan 23, 2 tr",1,39 ,2701,1600000,1095000,1976
+Nacka,SaltsjöbadenNeglinge,Freyvägen 2C,1.5,43.5 ,2611,1780000,1675000,1961
+Nacka,Finntorp,Finntorpsvägen 8 våning 5,2,58 ,3065,2925000,2850000,1951
+Stockholm,Spånga,"Stadingeplan 7, 2 tr ",4,109 ,6535,1695000,1695000,1968
+Stockholm,Vasastan,Torsgatan 33,3,78 ,3622,6350000,5995000,1927
+Stockholm,Vasastan,Rådmansgatan 35,3,72 ,2287,6400000,5995000,1890
+Stockholm,Kungsholmen,Essingestråket 21,2,38 ,1596,2850000,2595000,1938
+Sundbyberg,Hallonbergen,Hallonbergsplan 6,2,58 ,2331,2450000,2195000,1972
+Stockholm,Bromma,Holbergsgatan 121,3,69 ,4322,3100000,2790000,1952
+Stockholm,Kungsholmen,Sankt Göransgatan 153,3,65 ,3090,4350000,3495000,1950
+Stockholm,Södermalm,Wollmar Yxkullsgatan 52 A,2,50 ,2611,4750000,3995000,1935
+Stockholm,Vasastan,Surbrunnsgatan 26,2,44 ,1541,4200000,3995000,1906
+Stockholm,HammarbySjöstad,"Hammarby Allé 7, 9 tr",3,83 ,4469,6725000,6000000,2014
+Sundbyberg,Järvastaden,"Vinthundsgatan 113, 2tr",3,62 ,3186,3345000,3095000,2012
+Stockholm,Gamla Stan,"Timmermansgatan 37, 4 tr",1,32 ,1772,2700000,2350000,1935
+Sundbyberg,Rissne,Mjölnerbacken 32,3,77 ,3972,2600000,2395000,1985
+Stockholm,Kungsholmen,Essinge Brogata 15,2,52 ,2596,3375000,2895000,1939
+Stockholm,Södermalm,Heleneborgsgatan 27,2,64 ,3295,6250000,5495000,1914
+Stockholm,Kungsholmen,Kungsklippan 14,1,30 ,2424,2950000,2295000,1934
+Stockholm,Vasastan,"Västmannagatan 79 A, 1 tr ö.g",2,55 ,1905,5220000,4850000,1903
+Stockholm,Abrahamsberg,"Arkitektvägen 67, vån 2",3,74 ,4720,5060000,4195000,1938
+Stockholm,Gullmarsplan,"Grafikvägen 22, 1 tr",1,21 ,1089,2150000,1795000,1946
+Stockholm,Älvsjö,Johan Skyttes väg 394,2,59 ,4036,2800000,2800000,2013
+Solna,Råsunda,"Östervägen 15, 3tr",1,36 ,2052,2425000,2395000,1938
+Nacka,Sickla,"Atlasvägen 19, vån 3/3",1,45 ,2569,2725000,1995000,1960
+Stockholm,Östermalm,Grevgatan 53,3,71 ,1378,7950000,6795000,1939
+Stockholm,Vasastan,"Birger Jarlsgatan 104A, 2 tr",2,42 ,3058,4050000,3495000,1928
+Stockholm,Gärdet,Furusundsgatan 18,1,26 ,1190,2800000,2395000,1939
+Stockholm,Södermalm,"Bergsunds Strand 15, 5tr",2,42 ,1899,4650000,3595000,1939
+Solna,SolnaHuvudsta,Jungfrudansen 13,2,65 ,3645,3000000,2495000,1973
+Stockholm,Aspudden,"Husabyvägen 15, 1tr",2,45 ,2551,3180000,2495000,1945
+Stockholm,Björkhagen,Båstadsvägen 7,3,72 ,3629,4800000,3795000,1949
+Solna,Råsunda,"S:t Ansgars väg 10A, 5/5 tr",2,32 ,2189,2580000,2295000,1940
+Solna,Råsunda,"Näckrosvägen 43, 3tr",2,50 ,2957,3250000,2895000,1945
+Stockholm,Björkhagen,Ronnebyvägen 14,2,53 ,3204,3150000,2700000,1948
+Sollentuna,Edsängen,Frestavägen 26,2.5,69 ,3995,2450000,2495000,2017
+Stockholm,Kista,"Sorögatan 3, BV",3,83.5 ,4512,2300000,2300000,1978
+Stockholm,Sätra,Gransätragränd 16,3,89.5 ,4846,2435000,2395000,1965
+Stockholm,Traneberg,Käglestigen 4,2,53 ,3835,2950000,2950000,1939
+Solna,Råsunda,Greta Garbos väg 21 B,3,86 ,5969,4950000,4650000,2006
+Stockholm,HammarbySjöstad,"Hammarby allé 53b, 3tr",3,77 ,4222,6125000,5495000,2014
+Solna,Huvudsta,"Lundagatan 1B, 3 tr",3,80.5 ,4704,4450000,3895000,2008
+Stockholm,Östermalm,Linnégatan 63,2,62 ,2263,7200000,5995000,1885
+Stockholm,Mälarhöjden,Edsbergsgränd 8,1,25 ,1207,1895000,1895000,1942
+Stockholm,Akalla,Borgågatan 14,4,92 ,6034,2650000,2595000,1976
+Stockholm,Stockholm,"Sonja Kovalevskys Gata 8, 4tr",3,65 ,3350,5630000,5600000,2018
+Stockholm,Hammarbyhöjden,Boråsvägen 20,2,45 ,2026,3100000,2495000,1939
+Stockholm,Hammarbyhöjden,Boråsvägen 20,2,45 ,2026,3100000,2495000,1939
+Stockholm,Sofia,Katarina bangata 61,2,38 ,2251,3500000,2795000,1933
+Stockholm,Bromma,Alviksvägen 53 B,2,66 ,2837,5150000,4495000,1924
+Stockholm,Vasastan,"Holländargatan 9A, 4tr",3,71 ,3984,7200000,6495000,1939
+Stockholm,Kungsholmen,"Pontonjärgatan 45 A, 3 tr",1.5,32 ,1935,3550000,2795000,1939
+Stockholm,Södermalm,Alsnögatan 18,4,105.8 ,5986,7400000,7400000,2000
+Stockholm,HammarbySjöstad,"Fartygsgatan 6, 2 tr",2,55.5 ,3733,3670000,3700000,2007
+Stockholm,Östermalm,"Sandelsgatan 23 B, 3 tr",4,99 ,4293,9350000,8350000,1951
+Stockholm,Kungsholmen,"Kungsholms Strand 107, 1 tr",2,43 ,3242,3400000,3250000,1997
+Stockholm,Vasastan,Norrbackagatan 26,2,66 ,3242,6000000,5495000,1926
+Stockholm,Södermalm,"Bohusgatan 27A, 2 tr",1,34 ,1947,2880000,2595000,1926
+Sundbyberg,Hallonbergen,Lötsjövägen 37,4,95 ,4287,3100000,2495000,1969
+Stockholm,Aspudden,Styrbjörnsvägen 28,2,52 ,2809,3200000,2795000,1948
+Nacka,Nacka,"Barnhemsvägen 6, 1 tr",3,73 ,4131,3000000,2895000,1948
+Nacka,Sickla,"Sickla allé 13, 11tr",1,38 ,2246,2800000,2695000,1948
+Stockholm,Vasastan,"Birkagatan 21B, 3tr",1,34 ,1239,3600000,2995000,1905
+Nacka,Saltsjöbaden,Torggatan 4B,1,44 ,2922,1700000,1495000,1905
+Stockholm,Skarpnäck,Pilotgatan 11,4,101.5 ,5944,3340000,2895000,1905
+Nacka,Kvarnholmen,Mjölnarvägen 24,3,88.5 ,4510,5800000,5800000,1898
+Stockholm,Högalid,"Bergsundsgatan 23, 3 tr",2.5,60 ,2923,5350000,4550000,1931
+Sundbyberg,LillaAlby,"Trädgårdsgatan 21, 5tr",1,27 ,1583,2100000,1995000,1931
+Stockholm,Östermalm,Melodislingan 30,2,49 ,4117,5375000,5395000,2019
+Stockholm,Årsta,Sköntorpsvägen 4,2,61 ,3312,3010000,2495000,1947
+Stockholm,Enskededalen,Talmansgränd 3,2,69 ,4215,3600000,2995000,1930
+Stockholm,Midsommarkransen,Responsgatan 12,1.5,46 ,2883,2770000,2790000,2019
+Solna,Råsunda,Solnavägen 55,4,108 ,3797,6000000,5795000,1938
+Stockholm,Bromma,"Tappvägen 30, 4 tr.",3,85 ,4373,4400000,4400000,2011
+Stockholm,Skärholmen,Falkholmsgränd 37,2,68 ,4667,1900000,1495000,1967
+Stockholm,Akalla,Helsingforsgatan 25,3,74 ,4582,2300000,1995000,1975
+Stockholm,Spånga,"Sotingeplan 12, 1tr",3,75 ,4407,1840000,1795000,1969
+Stockholm,Bromma,Gubbkärrsvägen 29T 4tr,1,38 ,2512,2420000,1825000,1950
+Stockholm,Vasastan,Frejgatan 37,3,72 ,3682,5800000,5495000,1980
+Stockholm,Hammarbyhöjden,"Mariestadsvägen 5, 2 tr",2,47.5 ,3985,3050000,2650000,1942
+Stockholm,Bromma,"Pippi Långstrumps Gata 46, vån 5/5",2.5,66 ,3824,3450000,3095000,2011
+Stockholm,Vasastan,Rörstrandsgatan 48,2,49 ,2681,6995000,6995000,1908
+Stockholm,Abrahamsberg,Arkitektvägen 73,3,66 ,4008,4175000,3495000,1938
+Stockholm,Kista,"Borgarfjordsgatan 21 B, våning 4",4,106 ,5671,3510000,3590000,2015
+Solna,Råsunda,"Råsundavägen 178, VÅN 3, 4-1303",2,50 ,2792,3200000,3200000,2019
+Nacka,Saltsjö,Tollare Ängsväg 26,1,40 ,2761,2250000,1995000,2018
+Stockholm,Årsta,Årstavägen 9,4,97 ,5511,5275000,4575000,2016
+Stockholm,Östermalm,Breitenfeldsgatan 8,2,58 ,2313,6050000,5495000,1923
+Sundbyberg,Rissne,Rissneleden 159,2,47.5 ,2747,2095000,2095000,2018
+Sundbyberg,Ursvik,Oxenstiernas allé 19,3,64 ,3694,3050000,3150000,2014
+Stockholm,Vasastan,"Dalagatan 43, 3 tr",2,58 ,2573,5600000,5195000,1913
+Stockholm,Akalla,"Sibeliusgången 26, 2tr",1,49 ,2116,1700000,1695000,1975
+Stockholm,Bromma,Björkbacksvägen 45,3,72.5 ,4091,4050000,3195000,1918
+Stockholm,ÄlvsjöHagsätra,Axbergsgränd 19,1,36 ,2128,1600000,1450000,1957
+Sundbyberg,Rissne,"Kavallerivägen 20B, 5tr",3,80 ,4474,2575000,2600000,1980
+Stockholm,Stockholm,"Lorensbergsgatan 3A, 4 tr",3,73 ,3238,7000000,5795000,1927
+Stockholm,Vasastan,"Rörstrandsgatan 4, 2tr",4,105 ,1361,11000000,9950000,1914
+Solna,VästraSkogen,"Wiboms Väg 17, vån 3",3,86.5 ,4292,4200000,3995000,1966
+Stockholm,Kungsholmen,"Kungsholms Strand 185, 7tr",3.5,103 ,3353,10400000,8995000,1929
+Stockholm,Kungsholmen,"John Ericssonsgatan 18, 1tr",2,66 ,3277,4700000,4495000,1935
+Stockholm,Kungsholmen,Sysslomansgatan 11,1,28 ,1981,2825000,2495000,1939
+Stockholm,Kungsholmen,Arbetargatan 30,4,89 ,4073,8075000,7950000,1883
+Stockholm,Stockholm,Mariagränd 1,3,77 ,1412,8150000,6250000,1883
+Stockholm,NorraDjurgårdsstaden,"Storängsgatan 3, 7 tr av 7 tr! ",4,89.5 ,5296,8150000,7750000,2015
+Stockholm,Vasastan,Surbrunnsgatan 15,1.5,40 ,2001,3900000,3495000,1896
+Stockholm,Vasastan,Västmannagatan 101,2,57 ,2864,5400000,4250000,1924
+Solna,CentralaSolna,Klippgatan 16A,1,46 ,2505,2500000,2500000,1924
+Stockholm,Kärrtorp,Vikstensvägen 25,3,69 ,4370,3900000,3450000,1950
+Stockholm,Bromma,"Krakel Spektakels Gata 3, 2tr",3,81.5 ,4068,3950000,3495000,2010
+Stockholm,Södermalm,Ölandsgatan 44,2,39 ,2204,3500000,2950000,1928
+Nacka,Finnberget,Finnbergsvägen 10,3,71 ,3787,3625000,3650000,1948
+Nacka,Saltängen,Beckasinvägen 37,2,53 ,3216,2450000,2250000,1955
+Stockholm,Kista,"Sibeliusgången 50, 4tr",3,80.9 ,4777,1850000,1695000,1955
+Stockholm,Vasastan,Torsgatan 69 1tr,1,37 ,1783,3100000,3125000,1926
+Stockholm,ÄlvsjöCentrum,"Prästgårdsgränd 13,1tr",2,63 ,3091,2800000,2495000,1985
+Stockholm,Vällingby,"Abiskovägen 6, vån 3",3,70 ,3557,2725000,2495000,1985
+Stockholm,HammarbySjöstad,Jan Inghes Torg 16,2,75 ,2566,4772500,4695000,2010
+Stockholm,Kungsholmen,Wivalliusgatan 21,5,117 ,6076,9400000,8650000,1961
+Stockholm,Vasastan,"Tre Liljor 5, 3tr",2,49 ,2288,4500000,3995000,1926
+Stockholm,Vasastan,"Norrbackagatan 27A, 4tr",3,66 ,2898,6450000,5995000,1913
+Stockholm,Kungsholmen,Hornsbergs strand 15 B,2,64 ,3200,3995000,4050000,2016
+Solna,VästraSkogen,"Armégatan 11B, 5tr",3,78 ,4225,4650000,4195000,2016
+Stockholm,Årsta,Skagersvägen 6,2,45 ,3069,2600000,2275000,1944
+Stockholm,Telefonplan,Huvudfabriksgatan 8,3,78 ,4576,4800000,4250000,2009
+Solna,Frösunda,"Anders Lundströms gata 9, 3 tr",1,42 ,2464,2400000,2295000,2005
+Stockholm,JohanneshovGloben,Konstgjutarvägen 4,2,47 ,1508,3200000,2695000,1944
+Nacka,Jarlaberg,Diligensvägen 7,2,63 ,4546,2100000,1995000,1989
+Nacka,Nacka,"Skarpövägen 1,1 tr",3,81 ,4281,2350000,2095000,1989
+Stockholm,HammarbySjöstad,"Lumaparksvägen 1, 4tr",3,75 ,4337,5800000,5295000,2016
+Stockholm,Södermalm,"Götgatan 101 A, 3 tr",1,35 ,1535,3090000,2795000,2016
+Stockholm,Kungsholmen,"Lindhagensterrassen 9, vån 8",1.5,39 ,1843,3325000,2995000,2009
+Stockholm,Olovslund,Gustav III:s väg 80,3,74 ,4279,4000000,3495000,2009
+Stockholm,Hägerstensåsen,Förskottsvägen 7,3,56 ,3337,3450000,2495000,1946
+Stockholm,Hagsätra,"Hallsbergsgatan 22, 1 tr",4,78 ,4764,2710000,2295000,2014
+Sundbyberg,CentralaSundbyberg,Järnvägsgatan 40,1.5,43 ,2514,3000000,2595000,1963
+Stockholm,Högalid,"Krukmakargatan 59, högst upp",2,50 ,3101,4900000,3950000,1942
+Stockholm,Skarpnäck,"Skarpnäcks Allé 5, 3tr",2,63.5 ,4014,2370000,1895000,1986
+Stockholm,Östermalm,"Värtavägen 13, 2 tr.",1,31 ,1812,3050000,2695000,1932
+Stockholm,Vasastan,"Vanadisvägen 36, 2,5 tr.",4,134 ,4229,11850000,10995000,1922
+Stockholm,HammarbySjöstad,"Korphoppsgatan 20, 5tr",1,39 ,2926,3350000,3350000,2002
+Stockholm,Aspudden,Hägerstensvägen 160,2,39.5 ,2337,2860000,2375000,1949
+Stockholm,Stockholm,"Fartygsgatan 4, vån 4",2,55.5 ,3733,4100000,3595000,2007
+Nacka,Saltängen,Beckasinvägen 39,2,54 ,3554,2450000,2250000,1956
+Stockholm,Kista,Helsingörsgatan 50 5tr,3,81 ,4902,2195000,2195000,1979
+Stockholm,Bromma,"Bällstavägen 201, 3tr *ACCEPTPRIS*",2,47 ,3358,2250000,2250000,1937
+Stockholm,HammarbySjöstad,Jan Inghes Torg 32,3,102 ,5218,10000000,9795000,2011
+Stockholm,Vasastan,"Sveavägen 140, 4tr",3,72 ,1800,6700000,6395000,1927
+Solna,Arenastaden,"Evenemangsgatan 18, VÅNING 16 AV 21",3,73 ,3265,4430000,3995000,2014
+Sundbyberg,Hallonbergen,Bergshöjden 50,1.5,50.5 ,2369,1785000,1695000,1972
+Sundbyberg,Ursvik,Ladugårdsgatan 4,2,44 ,2767,2260000,1995000,2017
+Stockholm,Södermalm,"Magnus Ladulåsgatan 25, 5 tr",4.5,144 ,6780,10300000,9650000,1987
+Sundbyberg,CentralaSundbyberg,Vintergatan 1,3,88 ,4018,5765000,4995000,2016
+Stockholm,Södermalm,Hornsgatan 75,3,117 ,4683,10670000,10050000,1910
+Nacka,Björknäs,"Ängsbacken 6, med en möjlig uthyrningsdel",5,107.4 ,8061,3600000,2995000,1991
+Stockholm,Midsommarkransen,Svandammsvägen 17B,3,98 ,5950,5800000,5295000,2014
+Stockholm,Bromma,Beckombergavägen 218,2,63.5 ,3459,2550000,2475000,2014
+Stockholm,Bromma,"Broderivägen 13 , 3 tr",2,43 ,2509,2700000,1995000,1945
+Stockholm,Bromma,Tranebergsvägen 9,2,48 ,2824,3250000,2895000,1939
+Stockholm,Södermalm,Stigbergsgatan 32A,1.5,33 ,1614,3100000,2995000,1939
+Stockholm,Aspudden,Sigurd Rings Gata 10,2,54 ,3512,3400000,3095000,1949
+Nacka,Saltsjöqvarn,Bageribacken 8,2,77.3 ,3624,4400000,3995000,1999
+Stockholm,Enskededalen,Täppgränd 9,3,82 ,3115,3685000,2995000,1982
+Stockholm,Mälarhöjden,Västertorpsvägen 162,3,79 ,4296,3650000,2995000,1989
+Stockholm,Hässelby,"Astrakangatan 113, 1tr",1,40 ,2948,1700000,1595000,1955
+Stockholm,Hagsätra,"Axbergsgränd 19, 3 tr",2,61 ,3574,2140000,2180000,1959
+Stockholm,Årsta,Skagersvägen 15,3,58 ,3617,2940000,2495000,1946
+Stockholm,Södermalm,Folkungagatan 91/Nytorgsgatan 21,3,77 ,3199,7600000,6495000,1902
+Stockholm,Gullmarsplan,Grafikvägen 22,4,78 ,4044,4595000,4700000,1946
+Sundbyberg,Sundbybergcentrum,Prästgårdsgatan 2,2,50 ,2291,3625000,3625000,2016
+Stockholm,Årsta,Siljansvägen 25,3,56.5 ,3830,3100000,2675000,1945
+Stockholm,Årsta,Möckelvägen 34,2,42 ,3281,2500000,2190000,1944
+Stockholm,Vasastan,Kammakargatan 19,2,52 ,2631,3850000,3695000,1937
+Stockholm,Södermalm,"Beckbrännarbacken 6, 3 tr",3,76 ,4231,8450000,6495000,1928
+Stockholm,Årsta,Ymsenvägen 1,3,68 ,2844,4100000,3895000,1948
+Sundbyberg,LillaAlby,Stamgårdsparken 4,1,39 ,2996,2195000,2195000,1942
+Stockholm,Abrahamsberg,Byggmästarvägen 25,2,40 ,2778,2500000,2500000,1939
+Stockholm,Högdalen,Harpsundsvägen 86B,1.5,41 ,2571,2420000,1995000,2013
+Stockholm,Årsta,Borensvägen 17,2,55 ,3059,2850000,2375000,1944
+Nacka,Ektorp,Edinsvägen 14,4,72.5 ,4355,2875000,2875000,1960
+Stockholm,Södermalm,"Sankt Paulsgatan 9, 4 + 5 tr.",5,133 ,8028,9900000,8975000,1991
+Sundbyberg,SundbybergJärvastaden,Brotorpsvägen 5,4,100 ,4975,4650000,4695000,2012
+Stockholm,Liljeholmskajen,"Årgångsgatan 7, 2tr",3,77 ,4236,4740000,4595000,2016
+Solna,Råsunda,Råsundavägen 133A,1,25 ,1523,2200000,1795000,1940
+Stockholm,Hägerstensåsen,Sparbanksvägen 77,2,51 ,3410,2850000,2395000,1946
+Nacka,Saltsjö,Soldatvägen 16E,1,20 ,1354,1400000,1150000,2017
+Sollentuna,Sollentuna,Cymbalvägen 12,2,51 ,3764,1775000,1695000,1987
+Stockholm,Vasastan,Valhallavägen 8,4,88 ,1978,6725000,5995000,1969
+Stockholm,EnskedeBlåsut,"Skärmarbrinksvägen 38, 3tr",2,57 ,2330,3150000,2750000,1944
+Stockholm,Östermalm,"Styrmansgatan 11,  3 tr.",2,59 ,1926,6500000,6500000,1897
+Sundbyberg,Sundbyberg,Humblegatan 15,3,75 ,5542,3850000,3495000,1967
+Stockholm,Södermalm,"Krukmakargatan 12, 2tr",1.5,44 ,2070,3800000,2995000,1981
+Stockholm,Riksby,Spångavägen 15,2,39 ,2162,2510000,1995000,1940
+Stockholm,Älvsjö,Götalandsvägen 236,3,79 ,4242,3990000,3695000,2018
+Stockholm,Vasastan,Norrbackagatan 24,2,59 ,2395,5350000,4950000,1926
+Sundbyberg,Hallonbergen,Bergshöjden 12,2,68.8 ,3191,1950000,1950000,1972
+Stockholm,Högdalen,Skebokvarnsvägen 281,3,72 ,3799,2650000,2195000,1956
+Solna,Huvudsta,Storgatan 72A,2,62 ,3539,3420000,3195000,2013
+Solna,Råsunda,"Råsundavägen 178, vån 7/8",4,97 ,5416,6350000,6350000,2019
+Solna,Frösunda,"Brevduvegatan 2, vån 4",1,27.5 ,2101,1950000,1650000,1998
+Stockholm,Hammarbyhöjden,Mariestadsvägen 25,3,66 ,4719,3900000,3495000,1998
+Stockholm,Norrmalm,Rådmansgatan 46,1,22 ,1455,2500000,2395000,1959
+Stockholm,Örby,"Turingevägen 51, 2 tr",2.5,57.5 ,3831,2500000,2275000,1959
+Stockholm,Liljeholmskajen,"Vingårdsgatan 7, 3 tr",2,64 ,3938,3950000,3695000,2004
+Stockholm,Midsommarkransen,Tellusborgsvägen 41,2,51 ,2384,3000000,2695000,2004
+Stockholm,Kungsholmen,Sankt Göransgatan 146,3,77 ,4456,4637000,4695000,1967
+Stockholm,Hammarbyhöjden,Per Lindeströms Väg 74,2,42 ,2982,2630000,2095000,1967
+Stockholm,Södermalm,Tegelviksgatan 33,3,80.2 ,5071,4700000,4395000,2000
+Stockholm,Vasastan,Roslagsgatan 53,1,28 ,1560,2800000,2395000,1929
+Stockholm,Stureby,Bäckaskiftsvägen 74,1,18 ,1508,1700000,1495000,1952
+Stockholm,Östermalm,Sibyllegatan 52A,2,64 ,2057,6200000,5750000,1893
+Stockholm,Vasastan,"Gävlegatan 4, 5,5 tr",3,86 ,3510,8050000,6995000,1929
+Stockholm,Fruängen,Fruängsgatan 39,4,127 ,6282,6450000,5295000,2008
+Nacka,Kvarnholmen,Kvarngränd 3,3.5,93 ,4325,12100000,12500000,2014
+Stockholm,Hornstull,Drakenbergsgatan 8,3,60 ,2494,4150000,4150000,2014
+Stockholm,Högdalen,"Skebokvarnsvägen 243, 2 tr",3,75.5 ,3948,2800000,2250000,1955
+Stockholm,Aspudden,Schlytersvägen 71,2,58 ,3776,3020000,2395000,1947
+Sollentuna,Tureberg,Blåklockevägen 5,3,76 ,4750,2995000,2995000,2016
+Stockholm,Vällingby,"Kirunagatan 23A, Vån 1",3,65 ,5042,2150000,1995000,2005
+Nacka,Saltsjöqvarn,Sjökvarnsbacken 4,1.5,43 ,2944,2625000,2495000,2005
+Stockholm,Katarina,Råggatan 10,2,43 ,2495,3400000,3150000,1938
+Stockholm,Hässelby,"Hundlokegränd 30, Vån 2",2,54 ,3343,2170000,1895000,2017
+Stockholm,Blackeberg,Elias Lönnrots Väg 3,2.5,59 ,3329,2400000,2095000,1952
+Sollentuna,Edsberg,Kruthornsvägen 3B,3,66 ,3489,2100000,2195000,1963
+Stockholm,NorraDjurgårdsstaden,"Storängsgatan 1, 2 tr",2,54 ,3213,4125000,4250000,2014
+Stockholm,NorraÄngby,"Björketorpsvägen 9, 3tr - ACCEPTERAT PRIS",3,76 ,4190,3300000,3300000,2009
+Stockholm,Sätra,Kungssätravägen 18,3,60.5 ,3843,2490000,2490000,2014
+Stockholm,Kungsholmen,Disponentgatan 6,3,68 ,3810,5150000,4495000,1932
+Stockholm,Kungsholmen,"Vänskapsvägen 53, 2 tr",2,50 ,3395,3700000,2995000,1944
+Solna,Huvudsta,"Jungfrudansen 34, vån 4",2,60.5 ,3383,3410000,3195000,1971
+Stockholm,Bagarmossen,"Svartågatan 65, 2tr",1,42 ,3088,2410000,1850000,1954
+Nacka,Ekudden,Ekuddsvägen 25,3,77.5 ,4526,4250000,3995000,1966
+Nacka,Saltsjö,Hedenströms väg 11,2,46 ,2725,2595000,2595000,2017
+Stockholm,Akalla,Mariehamnsgatan 14 2 tr ,2,65 ,3984,1750000,1695000,1978
+Stockholm,Kungsholmen,"John Bergs plan 7, 2 tr",2,38 ,2760,3380000,2995000,1937
+Solna,Huvudsta,Infanterigatan 17,4,100.5 ,4356,4250000,4150000,1962
+Stockholm,Vasastan,"Upplandsgatan 34, 5tr",3,84 ,3624,7250000,6995000,1974
+Solna,Järvastaden,Järva skjutbaneväg 58 ,3,80 ,3449,4300000,3795000,2011
+Stockholm,Annedal,Suddagummans Gata 12,1,32 ,2665,2230000,1995000,2013
+Stockholm,Fruängen,Fruängstorget 9,1,32 ,1801,2220000,1795000,2012
+Stockholm,Kistagård,"Skagafjordsgatan 13, 6 tr",3,67 ,3130,2540000,2600000,2010
+Stockholm,Kungsholmen,"Kellgrensgatan 16, vån 7/7",3,81 ,4016,5700000,5750000,2011
+Solna,SolnaCentrum,"Klippgatan 16C, 1tr",2,57.5 ,2982,3050000,3050000,1965
+Stockholm,Sätra,Hållsätrabacken 34,3,75 ,4894,2600000,2495000,1966
+Stockholm,Midsommarkransen,"Radiusbacken 6, vån 4",2,55 ,3143,3600000,2995000,2011
+Stockholm,Älvsjö,Gamla Huddingevägen 453,2,50 ,2896,2450000,2195000,1945
+Stockholm,Västertorp,Västertorpsvägen 80,2,69 ,3867,2600000,2550000,1995
+Stockholm,Midsommarkransen,Cedergrensvägen 45,2,51 ,2981,3275000,2850000,1939
+Sollentuna,Silverdal,Margreteborgsvägen 28,3,68 ,3963,3400000,3195000,2013
+Nacka,Stensö,Oxelvägen 37,4,91 ,5861,2120000,1995000,1967
+Stockholm,LillaEssingen,Luxgatan 27,2,47 ,3080,3695000,3695000,2007
+Stockholm,Kungsholmen,"Garvar Lundins Gränd 7, vån 4",3,64.5 ,1594,6820000,5795000,1927
+Stockholm,Vällingby,Vittangigatan 10,2,58 ,3526,2110000,1995000,1953
+Stockholm,Östermalm,Östermalmsgatan 42A,2,47 ,1764,5400000,5000000,1903
+Stockholm,Södermalm,Södermannagatan 10,2,39 ,2217,3850000,3295000,1930
+Stockholm,Östermalm,Grev Turegatan 25,2,46 ,2757,4550000,4595000,1937
+Stockholm,SpångaSolhem,Salagatan 21,2,50.5 ,3844,2020000,1890000,2003
+Stockholm,Traneberg,Sulitelmavägen 23,3,80 ,4362,5950000,4995000,1938
+Stockholm,Vasastan,"Frejgatan 20, 5tr",2,48 ,2229,4875000,4195000,1940
+Stockholm,Vasastan,"Observatoriegatan 7A, gårdshus",3,70 ,2293,9700000,8495000,1897
+Stockholm,SpångaSolhem,Salagatan 20,2,57 ,3772,2330000,1990000,2008
+Solna,SolnaC,"Centrumslingan 51, 6tr",3,78 ,3988,4360000,3995000,1991
+Stockholm,Vasastan,"Sveavägen 139, 5 tr",2,37 ,2052,3220000,2950000,1927
+Sundbyberg,Sundbybergcentrum,"Vintergatan 1, 4tr",2,46 ,2276,3350000,2995000,2017
+Stockholm,Södermalm,Högalidsgatan 52A,1,34 ,2212,2950000,2550000,1911
+Stockholm,Kungsholmen,Frödingsvägen 9,2,39.5 ,2260,3400000,2995000,1931
+Sundbyberg,Storskogen,Stenbrottsgatan 1,3,73 ,4258,4050000,3790000,1950
+Stockholm,Bromma,Gustavslundsvägen 155 A,3,76 ,4450,5350000,4995000,2014
+Solna,Ritorp,Enköpingsvägen 19C,2,54.6 ,2639,2630000,1995000,1954
+Stockholm,Johanneshov,Arkadvägen 6,1.5,35 ,2581,2470000,2150000,1942
+Stockholm,Bromma,Kamomillagatan 17,3,71 ,3106,3725000,3395000,2014
+Stockholm,Södermalm,"Färgargårdstorget 10, 4 tr",3,72.5 ,3228,5420000,4850000,1981
+Solna,Frösunda,Gustav III:s Boulevard 86,3,84 ,4294,4400000,4400000,2011
+Stockholm,Årsta,"Bränningevägen 44, 2 tr",3,76 ,5326,4200000,3175000,1951
+Solna,Järvastaden,"Fridensborgsvägen 143, 2 tr",3,76 ,4198,4180000,3795000,2016
+Solna,Bergshamra,Carl Malmstens Väg 4,3,81.1 ,3758,4100000,3795000,1985
+Stockholm,Bromma,Tomtebobarnens Gata 5,2.5,64.5 ,3371,3425000,2995000,2015
+Stockholm,Stockholm,Eldsbergagränd 7,3,83 ,5163,2250000,2300000,1960
+Stockholm,Gröndal,Ormbergsvägen 9,3,70 ,3959,5710000,4995000,1947
+Stockholm,Södermalm,Folkungagatan 142,2,39 ,1372,3210000,2875000,1915
+Stockholm,Vasastan,"Upplandsgatan 54E, 3 tr",3,78 ,3276,9500000,7450000,1905
+Stockholm,Hammarbyhöjden,Olaus Magnus Väg 19,2,43 ,3056,2790000,2295000,1936
+Stockholm,Bromma,"Ödmårdsvägen 18, 3tr",2,60 ,2147,3400000,3095000,1938
+Stockholm,HammarbySjöstad,Hammarby allé 173,2,41 ,1647,3150000,2995000,2003
+Solna,Råsunda,Södra Långgatan 33,2,58.5 ,3087,3000000,2695000,1947
+Stockholm,Kungsholmen,"Ernst Ahlgrens Väg 3, 2tr",2,43 ,2416,3700000,3295000,1931
+Nacka,Nacka,Gillevägen 3,3,70.5 ,3733,3495000,3495000,1955
+Stockholm,Södermalm,"Vintertullstorget 28, 3tr",4,107 ,6020,7850000,6495000,1983
+Stockholm,StoraEssingen,"Vänskapsvägen 49, bv/soutteräng",2,47 ,3265,3200000,3200000,1944
+Stockholm,Kungsholmen,"Stagneliusvägen 38, 1tr",2,45 ,2235,3100000,3100000,1936
+Stockholm,Östermalm,"Furusundsgatan 11, 1tr",2,34 ,2094,2975000,2695000,1939
+Stockholm,Bromma,Snörmakarvägen 7,2,42 ,3750,2350000,1995000,1942
+Solna,SolnaJärvastaden,"Järva Skjutbaneväg 45, 3tr",2,43 ,2714,2605000,2275000,2013
+Stockholm,Aspudden,Erik Segersälls Väg 15,2,43 ,3068,2800000,2450000,1937
+Stockholm,Hässelby,Hundlokegränd 26,1,32 ,2292,1595000,1595000,2017
+Nacka,Finnberget,Finnbergsvägen 16,2,55 ,3151,2690000,2295000,2017
+Stockholm,HammarbySjöstad,Heliosgatan 16B,3,86 ,4478,5950000,6595000,2019
+Stockholm,Årsta,Eklångsvägen 13,2,42.7 ,2225,2550000,2190000,1945
+Solna,Råsunda,"Uppfartsvägen 5, 3tr",2,45 ,2774,3110000,2695000,1939
+Stockholm,Älvsjö,Vibyholmsvägen 2,2,57 ,3114,2450000,1995000,1949
+Stockholm,Enskede,Skebokvarnsvägen 376,1,33 ,2382,1850000,1495000,2007
+Stockholm,Östermalm,"Sandhamnsgatan 47, 2 tr",2.5,55 ,2821,4600000,4195000,2007
+Stockholm,Kungsholmen,Ture Nermans Gränd 6,2,47 ,1056,4100000,3795000,1930
+Stockholm,Södermalm,"Bergsundsgatan 13, 5tr",1,19.4 ,1428,2490000,2095000,1930
+Stockholm,Kungsholmen,Kungsholms Strand 183,1,30 ,1847,3000000,3000000,1929
+Solna,SolnaHagaNorra,Hagavägen 16,2,54 ,3430,2800000,2495000,1946
+Stockholm,Årsta,"Sandfjärdsgatan 124,7tr",3,75.5 ,4109,3100000,2795000,1960
+Stockholm,Maria,"Fredmansgatan 7, gårdshus",2,34 ,1639,3560000,3095000,1878
+Solna,Järvastaden,"Järva Skjutbaneväg 60, 4  tr",3,80 ,3449,4410000,3995000,2012
+Stockholm,Liljeholmen,"Liljeholmsvägen 12, 6tr",3,80 ,4989,5250000,5250000,2008
+Stockholm,Kungsholmen,Kronobergsgatan 20,1,28 ,2013,2975000,2995000,1911
+Stockholm,Södermalm,"Bellmansgatan 26A, 3tr.",2,68 ,1247,6640000,5750000,1938
+Sollentuna,Häggvik,Ugglevägen 1,4,93 ,5386,3700000,3495000,2014
+Stockholm,Kungsholmen,Ola Hanssonsgatan 3,1.5,28 ,1709,2450000,2500000,1934
+Solna,Bergshamra,Björnstigen 117,2,58 ,2706,3180000,2795000,1959
+Stockholm,Riksby,Stramaljvägen 32,2,51 ,2856,3000000,2690000,1942
+Stockholm,Högdalen,Harpsundsvägen 123,2,59.5 ,3193,2425000,1995000,1955
+Stockholm,Midsommarkransen,"Valborgsmässovägen 1, vån 3 av 3",2,51 ,2950,3380000,2695000,1939
+Stockholm,Södermalm,"Tideliusgatan 35, 5 tr",3,80 ,2301,6650000,6250000,1939
+Solna,Råsunda,Näckrosvägen 34,2,53 ,3106,3500000,2895000,1948
+Stockholm,Aspudden,Vapengatan 5,2,52 ,2992,3500000,2995000,1945
+Stockholm,Östermalm,Danderydsgatan 28a,3,68 ,2654,6475000,6475000,1903
+Stockholm,Aspudden,Hägerstensvägen 159A,3,70.5 ,3909,5000000,3995000,1947
+Stockholm,Stockholm,"Larsbodavägen 76, 9tr",3.5,109.5 ,6417,3300000,2995000,1958
+Stockholm,Högdalen,"Stenkvistavägen 10, 1 tr",3,66 ,3946,3300000,2995000,2018
+Solna,Råsunda,Rosstigen 9,2,53 ,3187,3100000,2595000,1944
+Nacka,NackaForum,Serenadvägen 18,3,84.5 ,5788,3800000,3800000,1944
+Stockholm,Östermalm,Valhallavägen 49,3,61 ,2885,5200000,4995000,1944
+Stockholm,Kungsholmen,"Fleminggatan 71, vån 2",2,38.5 ,2465,3360000,2990000,1898
+Solna,Råsunda,"Gränsgatan 26, Plan 6",1.5,37 ,2066,2700000,2795000,1898
+Stockholm,Liljeholmskajen,Sjöviksvägen 88,3,70 ,4133,4580000,4495000,2015
+Stockholm,Björkhagen,Skanörvägen 10,3,76 ,4238,4400000,3975000,1949
+Stockholm,Vasastan,"Atlasgatan 13, 2tr",2,42 ,1933,4200000,4200000,1928
+Stockholm,Högdalen,"Skebokvarnsvägen 51D, 3tr",2,54.5 ,3389,2430000,2095000,1928
+Stockholm,Traneberg,"Tranebergsvägen 26, 2tr",1.5,32 ,2432,2750000,2390000,1936
+Nacka,Nacka,"Gustaf de Lavals torg 8, 3 tr",2,45 ,2625,3395000,3395000,1936
+Stockholm,Östermalm,Grevgatan 18 A,2,54 ,2777,6260000,5495000,1883
+Stockholm,Östermalm,Armfeltsgatan 24,3,73 ,2470,7600000,6750000,1950
+Stockholm,Östermalm,Linnégatan 48B,2,67 ,1469,6850000,6495000,1905
+Stockholm,Katarina,Åsögatan 106,2,70 ,3609,5125000,4875000,1999
+Stockholm,Kungsholmen,Vitalisvägen 5,1,27 ,1623,2460000,2150000,1931
+Stockholm,Vasastan,Sigtunagatan 13,2,62 ,2246,5500000,5395000,1901
+Stockholm,Vasastan,Birger Jarlsgatan 104M,2,31.5 ,2339,3350000,2995000,1928
+Stockholm,Hornstull,Bergsundsgatan 12,2,35.8 ,2028,3425000,2995000,1938
+Solna,Ulriksdal,Gyllene Hästens Torg 7,2,67 ,3490,3300000,3095000,1938
+Stockholm,Aspudden,Typografvägen 6 ,2,42 ,2619,3060000,2495000,1929
+Stockholm,Enskededalen,"Slåttervägen 3, 3tr",3.5,73 ,4471,4125000,3995000,1930
+Stockholm,Katarina,Dalslandsgatan 3,1.5,43 ,2371,3420000,2995000,1931
+Sundbyberg,Ursvik,Milstensvägen 33,2,55 ,2803,2460000,2295000,2012
+Stockholm,Norrmalm,Wallingatan 30,3,87 ,2242,7800000,7295000,1907
+Stockholm,Mariatorget,"Maria Prästgårdsgata 27, 5 tr",4,85 ,3574,8350000,7650000,1912
+Stockholm,Årsta,Slätbaksvägen 32,2,43.5 ,2445,2410000,1895000,1943
+Stockholm,Vasastan,Birger Jarlsgatan 122,1.5,27.7 ,834,2850000,2900000,1973
+Stockholm,Vasastan,"Tegnérgatan 19, 4tr",2,60 ,2791,5525000,4795000,1934
+Stockholm,Kista,Jyllandsgatan 251,3,86 ,4410,2850000,2695000,1975
+Stockholm,Beckomberga,Beckombergavägen 217,3,71 ,4419,3250000,3195000,2013
+Stockholm,Vasastan,"Rödabergsgatan 10, 3 tr",2,66 ,2941,5200000,4995000,1925
+Stockholm,Södermalm,Hornsgatan 154,2,53 ,2462,4350000,3950000,1904
+Stockholm,Kungsholmen,Sysslomansgatan 26,2,36 ,2218,3200000,2795000,1939
+Stockholm,Blåsut,Finngrundsvägen 3,2,41 ,2197,3130000,2495000,2019
+Stockholm,Riksby,Kvarnbacksvägen 107,2,53 ,2893,2950000,2495000,1942
+Stockholm,Kungsholmen,"Igeldammsgatan 38, 4tr",1,23 ,1691,2500000,1995000,1930
+Solna,VästraSkogen,Infanterigatan 3,2,56.5 ,2840,2920000,2595000,1962
+Stockholm,Stockholm,Engelbrektsgatan 12A,2,54 ,1960,5550000,5000000,1906
+Stockholm,Bromma,Gustavslundsvägen 165,2,40 ,1972,2750000,2750000,1931
+Stockholm,Vasastan,"Karlbergsvägen 33B, 1tr",2,57 ,2185,5460000,4950000,1900
+Stockholm,Gamla Stan,"Skinnarviksringen 2, 1 tr",1,25 ,1924,2655000,2150000,1930
+Stockholm,Kungsholmen,"Karlsviksgatan 9, 4 tr",1.5,42 ,1831,3950000,3450000,1926
+Stockholm,Södermalm,Råggatan 14,1.5,31 ,1864,2800000,2395000,1931
+Stockholm,Midsommarkransen,"Tellusborgsvägen 92, vån 6/6",1,30 ,1670,2600000,2195000,1972
+Solna,Råsunda,Östervägen 14A,1,36 ,2139,2510000,1795000,1938
+Sollentuna,Silverdal,"Margreteborgsvägen 19, 3tr",3,73 ,3837,3550000,3200000,2011
+Stockholm,Hägerstensåsen,"Arvodesvägen 8, 1 tr",2,50 ,3823,2670000,2095000,1944
+Stockholm,Södermalm,Hornsgatan 178,2.5,54 ,2343,4800000,4495000,1883
+Stockholm,Kungsholmen,"Alströmergatan 23, 4 tr",2,38.5 ,1450,3725000,3095000,1959
+Solna,Huvudsta,Wiboms Väg 4,4,103 ,5120,4900000,4595000,1966
+Stockholm,StoraEssingen,"Bergsmarksvägen 8, 2tr",1.5,37 ,1940,2820000,2495000,1966
+Stockholm,Kungsholmen,"Fredhällsgatan 13, 1,5tr",2,46 ,2156,3650000,3150000,1931
+Solna,Frösunda,"Anders Lundströms gata 16, 4 tr",2,56 ,3113,3330000,2795000,2005
+Stockholm,Hammarbyhöjden,Malmövägen 24,2,58 ,3196,3205000,2750000,1949
+Stockholm,Kungsholmen,"Vitalisvägen 6, 3tr",2,38.5 ,2135,3110000,2795000,1931
+Stockholm,Bromma,Almstigen 5,2,41 ,3485,2405000,1950000,1944
+Solna,Vireberg,"Virebergsvägen 3, 6 tr",2,60.7 ,2957,3675000,2895000,1954
+Stockholm,ÖrbySlott,Reuterholmsvägen 29,3,74 ,3783,2750000,2495000,1949
+Solna,Järvastaden,Dammtorps allé 13,5,123 ,5456,6170000,5795000,2015
+Stockholm,Vasastan,"Roslagsgatan 37, 1tr",3,117 ,5503,10500000,9695000,1897
+Stockholm,Södermalm,"Maria Prästgårdsgata 12A, 2 tr",2,36 ,995,3600000,2995000,1907
+Stockholm,Årsta,"Slätbaksvägen 26, 3 tr",3,53 ,3540,3025000,2575000,1943
+Stockholm,Södermalm,Brännkyrkagatan 90,2,56 ,3146,4710000,3975000,1929
+Stockholm,Vasastan,Birger Jarlsgatan 120C,2,62 ,1445,4375000,3995000,1970
+Stockholm,Sofia,Ringvägen 130,2,40 ,1516,3050000,2850000,1964
+Stockholm,Hammarbyhöjden,Hasselquistvägen 27,2,40 ,2678,2720000,2350000,1939
+Stockholm,Årsta,Eklångsvägen 27,2,42.7 ,2523,2540000,2295000,1944
+Stockholm,Vasastan,"Torsgatan 33, 1tr / Völundsgatan 12, 4tr",2,49 ,2431,5275000,4375000,1928
+Stockholm,Högalid,Kristinehovsgatan 5B,1,33 ,2274,3050000,2595000,1941
+Stockholm,Riksby,"Vadmalsvägen 2, 3/3tr",2,53.5 ,2893,2980000,2495000,1942
+Stockholm,Midsommarkransen,Pingstvägen 64,2,44.5 ,3589,2950000,2490000,1939
+Stockholm,Enskede,Yrkesvägen 3,1,30 ,1264,2500000,1995000,1925
+Solna,HagaNorra,"Broddgatan 1, 3tr",2,63 ,2839,3100000,2995000,1950
+Sundbyberg,Sundbyberg,Götgatan 4B,1,38.5 ,2280,2660000,2295000,1928
+Stockholm,Midsommarkransen,Kyndelsmässogränd 18,2,42 ,3066,2650000,2095000,1944
+Stockholm,Bromma,"Klädesvägen 30, vån 3",1,33 ,1927,2520000,1995000,2017
+Stockholm,Östermalm,"Östermalmsgatan 61, 1tr",1,26 ,1015,3210000,2495000,1939
+Stockholm,Södermalm,Hornsgatan 178,2,47 ,2521,4160000,3475000,1883
+Stockholm,Snösätra,Bäverbäcksgränd 48,3,86.5 ,5899,2495000,2495000,1982
+Stockholm,Kungsholmen,"Essinge brogata 15, vån 6/6",2,53 ,2645,4250000,3495000,1939
+Stockholm,Södermalm,"Bondegatan 16D ÖG, 1TR",1,39 ,1586,3700000,3250000,1909
+Solna,Arenastaden,"Evenemangsgatan 40, vån 15",2,57 ,3634,3200000,2995000,2018
+Stockholm,Gröndal,"Bryggvägen 17, vån 5/5",3,85 ,4334,6000000,5495000,2018
+Stockholm,Kärrtorp,Karlsövägen 1,2,49 ,3769,2600000,2295000,2008
+Stockholm,Kungsholmen,Ture Nermans Gränd 4,2,37.5 ,845,3835000,3350000,1930
+Stockholm,Blåsut,Fyrvaktarkroken 8,3,85 ,4958,4100000,4100000,2015
+Stockholm,Vasastan,"Surbrunnsgatan 7, 4 tr",2,44 ,1553,4420000,3975000,1895
+Solna,Råsunda,"Lövgatan 64, 3 tr",1,40 ,1883,2650000,2395000,1911
+Stockholm,Hagsätra,Lerbäcksgränd 3,5,117 ,6560,2250000,2350000,1956
+Sundbyberg,Sundbyberg,Humblegatan 15,2,61.5 ,4951,2600000,2395000,1966
+Stockholm,Vasastan,Observatoriegatan 21,2,34 ,1603,3450000,3250000,1880
+Stockholm,Bandhagen,Mosstenabacken 5,2,49.5 ,3069,2525000,1995000,1953
+Stockholm,Kungsholmen,"Chapmansgatan 5, 4 tr",3,76 ,3387,7960000,6950000,1931
+Stockholm,HammarbySjöstad,"Per Ludvig Lindgrens Terrass 4, 3tr",2,66 ,3485,4330000,4195000,2011
+Sollentuna,Helenelundscentrum,Åkervägen 8,4,76 ,5247,2495000,2495000,1944
+Stockholm,Vasastan,"Hagagatan 16, 2 tr",3,84 ,3727,7950000,7250000,1906
+Stockholm,Östermalm,"Skeppargatan 77, 3tr",2,41.5 ,2173,4150000,3495000,1933
+Solna,Huvudsta,Lundagatan 3A,2,58 ,2963,3325000,2750000,1952
+Stockholm,GamlaEnskede,Handelsvägen 28,5,132 ,7251,8100000,6975000,1910
+Stockholm,Södermalm,"Hornsgatan 29E, 1 tr",2,41 ,1944,4650000,3495000,1900
+Stockholm,Akalla,Saimagatan 7,3,73 ,3919,2000000,1895000,1976
+Stockholm,Enskede,Majrovägen 27,4,93 ,6229,4300000,3495000,1996
+Solna,Hagalund,Hagalundsgatan 10,1.5,49.5 ,2246,2450000,2095000,1973
+Stockholm,Kungsholmen,"Garvargatan 14, 1 tr",3.5,100 ,870,8900000,7900000,1929
+Nacka,Saltsjöbaden,Ringvägshamnen 2C,2,71 ,4332,4250000,4150000,1929
+Nacka,Kvarnholmen,"Kvarnholmsvägen 80, 5tr",2,48 ,2868,3550000,3575000,2017
+Stockholm,Vällingby,"Jämtlandsgatan 107, Vån 11 (11112)",3,79 ,4180,3795000,3795000,2019
+Stockholm,Kungsholmen,"Kungsklippan 12, 5tr",1,32 ,2514,3020000,2695000,1934
+Nacka,Nacka,"Utövägen 26, 1 tr",4,93 ,5565,2600000,2395000,1934
+Stockholm,Södermalm,"Fatburs Kvarngata 14, 4 tr",3,72 ,2404,5750000,4895000,1991
+Stockholm,Östermalm,Ruddammsvägen 4,2,50 ,2390,4025000,3750000,1943
+Stockholm,Gärdet,Sandhamnsgatan 23,1,24 ,440,2700000,2195000,1962
+Stockholm,Högdalen,Harpsundsvägen 157,2,66 ,3300,2400000,1995000,1962
+Stockholm,Kungsholmen,"Hornsbergs strand 15 B, 6tr",3,75 ,3750,7225000,6450000,2016
+Stockholm,Kungsholmen,"Kungsholmsgatan 36, 1/2 tr",2,52 ,2820,4620000,4725000,1898
+Stockholm,Östermalm,"Grev Magnigatan 15 B, 3tr",2,86 ,3737,8450000,7995000,1895
+Stockholm,Traneberg,Kebnekaisevägen 9,2,43 ,2510,2950000,2495000,1945
+Stockholm,HammarbySjöstad,Heliosgatan 14A,2,55 ,3251,3900000,4050000,2018
+Stockholm,Stockholm,Högalidsgatan 29,1,24 ,1278,2600000,2195000,2018
+Stockholm,Vasastan,Dalagatan 40 2tr ö.g.,1,33 ,1655,3850000,3475000,1886
+Stockholm,Bandhagen,Fågelstavägen 12A,2,55 ,3225,2350000,1995000,1886
+Stockholm,Södermalm,"Fatburstrappan 18, vån 16",2,42.5 ,3288,4000000,3295000,1996
+Stockholm,Bagarmossen,"Voxnegränd 9, Högst upp!",2,55 ,4059,2800000,2295000,1953
+Solna,Huvudsta,Krysshammarvägen 30,3,82.3 ,4023,3810000,3495000,1966
+Stockholm,Katarina,Gotlandsgatan 60,2,40 ,2339,4025000,3395000,1935
+Solna,Karolinska,Fogdevreten 10,1,34 ,2150,2200000,2200000,1972
+Stockholm,Östermalm,Grevgatan 26,2,53 ,2118,5100000,4995000,1902
+Stockholm,Sofia,Beckbrännarbacken 7,3,82 ,3793,6395000,6395000,1929
+Stockholm,Hornstull,Slipgatan 5,2,32 ,1680,3300000,2750000,1938
+Sundbyberg,CentralaSundbyberg,Tulegatan 18,1.5,39 ,1990,2915000,2900000,2015
+Sundbyberg,Ursvik,Forskargränd 5,2,58 ,3393,2600000,2295000,2018
+Stockholm,EnskedeGård,"Lindevägen 50, 3tr",2,62 ,4037,2550000,2695000,1989
+Stockholm,Farsta,"Torsbygatan 34, 2 tr",1,25 ,1371,1700000,1495000,1958
+Sundbyberg,LillaAlby,"Hamngatan 13B, 7/7 tr",2,67 ,3396,4670000,4395000,2017
+Solna,Arenastaden,"Evenemangsgatan 40, 7 tr",3,69 ,4399,4000000,3995000,2019
+Stockholm,Östermalm,"Studentbacken 34, 1tr",3.5,86 ,4958,4990000,4990000,2007
+Stockholm,HammarbySjöstad,Korphoppsgatan 23,2.5,71 ,3537,4350000,3995000,2002
+Stockholm,Årsta,"Slätbaksvägen 14, 3 tr",3,55.5 ,4434,3590000,2995000,1943
+Stockholm,Kungsholmen,Sankt Göransgatan 153,2,42 ,1996,2900000,2995000,1950
+Solna,Skytteholm,Nybodagatan 16,2,54 ,2154,3000000,2495000,1957
+Sundbyberg,CentralaSundbyberg,"Sundbybergs Torg 1J, Högst upp",3,93 ,5596,6000000,5395000,2013
+Stockholm,Liljeholmskajen,"Sturehillsvägen 6, 3tr",4,103 ,5994,6040000,5495000,2016
+Stockholm,Södermalm,"Bondegatan 51, 5tr",2,44 ,2433,4160000,3550000,1937
+Stockholm,Kista,Sibeliusgången 46,2,46 ,2960,1670000,1495000,1976
+Stockholm,Västertorp,Broddgränd 10,2,58 ,2930,2620000,2295000,1949
+Stockholm,Hässelby,Astrakangatan 100,4,91 ,5500,2425000,2275000,1984
+Stockholm,Vasastan,"Upplandsgatan 47, 3tr",3,90 ,3551,8650000,8495000,1885
+Stockholm,Vasastan,Teknologgatan 8C,1.5,35 ,2312,4150000,3295000,1898
+Stockholm,Vasastan,"Rörstrandsgatan 40A, 4 tr ög",3,72 ,2459,7725000,6150000,1908
+Solna,GamlaFilmstaden,Mauritz Stillers väg 16,5,121 ,7070,7550000,6595000,2006
+Stockholm,Aspudden,"Sverkersgatan 6, vån 2",2,54 ,2934,3750000,2750000,1946
+Stockholm,Kungsholmen,"Vänskapsvägen 49, 2 tr",2,50 ,3546,4225000,2995000,1944
+Nacka,Jarlaberg,Trillans väg 4,2,63 ,4095,2285000,1995000,1988
+Stockholm,Traneberg,"Sulitelmavägen 4, 2 tr",3,78 ,5031,4200000,3895000,1936
+Stockholm,Svedmyra,Oppundavägen 35,3,74 ,4243,3700000,2895000,1950
+Stockholm,Kristineberg,Ola Hanssonsgatan 9,1.5,31 ,1892,2600000,2395000,1934
+Stockholm,Södermalm,"Folkskolegatan 3, 3 tr",1,40 ,2144,3250000,2950000,1931
+Stockholm,Årsta,Siljansvägen 15,3,56.5 ,4004,3105000,2675000,1945
+Stockholm,HammarbySjöstad,"Rorgängargatan 17b, pl 5",3,66.5 ,3850,4950000,4795000,2008
+Stockholm,Liljeholmen,Nybohovsbacken 31,2.5,72 ,2864,4010000,3395000,1962
+Stockholm,Hagsätra,Axbergsgränd 6,3,73 ,4484,2100000,2100000,1959
+Nacka,VästraOrminge,Skarpövägen 57,2,61 ,4350,1995000,1995000,1969
+Stockholm,Vasastan,"Frejgatan 99, 2 tr",2,46 ,1921,5225000,4195000,1904
+Stockholm,Vasastan,"Norrtullsgatan 63, 6 tr",3,50 ,2531,5150000,4395000,1947
+Solna,Huvudsta,"Jonstorpsvägen 12, 3 tr",2,66 ,3445,2730000,2495000,1968
+Stockholm,Fruängen,Eva Bonniers gata 13,3,71 ,3997,3340000,2495000,1955
+Stockholm,Bromma,Granbacken 16,2,46.5 ,3621,2460000,1995000,1939
+Stockholm,Vasastan,"Roslagsgatan 47, 1,5tr",2,47 ,2244,4050000,3650000,1929
+Stockholm,Hökmossen,Klensmedsvägen 11,2,43 ,2589,2600000,1950000,1944
+Stockholm,Bromma,Vävstolsvägen 11,2,42 ,2880,2475000,1995000,1944
+Stockholm,Spånga,Ladbacksvägen 43,3,64.3 ,3516,3200000,2995000,1996
+Nacka,NackaStrand,Augustendalsvägen 21,3,62 ,3358,3995000,3995000,2019
+Stockholm,Vasastan,Torbjörn Klockares Gata 18B,2,51 ,2451,4600000,4095000,1925
+Stockholm,Kungsholmen,Rålambsvägen 72,4,93 ,4599,5695000,5695000,1932
+Solna,Bergshamra,Åbergssons väg 17,2,63 ,2851,3450000,2950000,1990
+Stockholm,Älvsjö,"Älvsjö Stationsgata 2A, 4tr",2,55 ,3165,2900000,2695000,2018
+Solna,Råsunda,"Gränsgatan 26, 2 tr",2,56 ,3127,3250000,3250000,2019
+Stockholm,Älvsjö,Stamgatan 9,1.5,37 ,2762,2000000,1695000,1958
+Solna,Skytteholm,Nybodagatan 16,2,54 ,2154,3210000,2795000,1957
+Solna,SolnaUlriksdal,Drottning Kristinas Esplanad 63,2,42 ,2415,2700000,2395000,2014
+Solna,GamlaFilmstaden,Ingrid Bergmans Väg 19,2,66 ,3435,3800000,3595000,2003
+Stockholm,Vasastan,Torbjörn Klockares gata 13,2,47 ,2272,4150000,3990000,1925
+Stockholm,Högdalen,"Sjösabrinken 30, 2tr",1,30 ,1721,1600000,1600000,1955
+Stockholm,Hägerstensåsen,"Valutavägen 29, 3 tr",3,67 ,4322,4725000,3495000,1947
+Stockholm,Vasastan,"Hagagatan 20A, 2tr",2,31 ,1240,3800000,3195000,1906
+Stockholm,Kungsholmen,Lidnersplan 10,1,24 ,1410,3100000,2995000,1939
+Stockholm,Södermalm,Bondegatan 63,3,61.5 ,2866,5350000,4495000,1932
+Stockholm,Vasastan,Tegnérgatan 16,2,44 ,639,4300000,3995000,1884
+Nacka,Saltsjöbaden,Vinterbrinksvägen 55 C,2,59.2 ,2775,2045000,1995000,1884
+Stockholm,Kungsholmen,"Ulriksborgsgatan 7, 16tr",1,40 ,2467,3375000,2995000,2007
+Nacka,Ältacentrum,Stensövägen 9,3,78 ,4946,2350000,2195000,1971
+Stockholm,Älvsjöstaden,Götalandsvägen 230 6 tr,4,93 ,4824,4450000,4395000,2017
+Stockholm,Kungsholmen,"Industrigatan 2A, 6tr",3,73 ,3984,7050000,7100000,1927
+Stockholm,Södermalm,Tideliusgatan 13 2tr.,3,80 ,2301,6950000,6800000,1968
+Stockholm,Kungsholmen,"Polhemsgatan 5, 5 tr",2.5,63 ,2763,5850000,5650000,1931
+Stockholm,Vasastan,Tomtebogatan 13B,3,82 ,2801,7725000,6995000,1909
+Stockholm,Kungsholmen,"Garvargatan 20, 4 tr",2,53 ,2702,4625000,4275000,1932
+Stockholm,Kungsholmen,Fridhemsgatan 68,2,58 ,2639,6600000,5795000,1904
+Stockholm,Kungsholmen,"Fleminggatan 95A, 3tr ö.g.",3,101 ,3370,8730000,8475000,1904
+Stockholm,Östermalm,Sibyllegatan 21A,2,31 ,940,3525000,2975000,1896
+Sollentuna,Kvarnskogen,Kvarnskogsvägen 6,2,55 ,3069,1985000,1995000,2008
+Stockholm,Stureby,Skönviksvägen 333,3,88 ,5258,3900000,3595000,1952
+Stockholm,Ulvsunda,Almstigen 1,2,41 ,3227,2250000,2250000,1944
+Stockholm,Sätra,Kungssätravägen 23 A,3,70.7 ,3889,2480000,1990000,2001
+Nacka,ÄltaHedvigslund,Lobeliavägen 3,3,66 ,3623,3200000,3295000,2017
+Stockholm,Maria,Fatbursgatan 33,2,41 ,2779,3800000,3925000,1901
+Stockholm,Åkeslund,"Tunnlandsvägen 45, 2tr",2,47 ,2752,2700000,2700000,1942
+Stockholm,Traneberg,"Tranebergsvägen 46, 3tr",1.5,43 ,1870,2950000,2495000,1934
+Stockholm,Duvbo,Duvkullavägen 36B,4,85.5 ,3845,2900000,2900000,1934
+Stockholm,Vasastan,"Tulegatan 42, 3tr",4,106 ,4477,8000000,7795000,1973
+Solna,Råsunda,"Klövervägen 3, VÅNING 3",1,24 ,1562,2250000,1995000,1943
+Stockholm,Bandhagen,Olshammarsgatan 58,4,87.5 ,5476,2420000,2190000,1960
+Stockholm,HammarbySjöstad,Hammarby Allé 11,5,128 ,6617,8700000,8700000,2017
+Solna,SolnaSkytteholm,Ankdammsgatan 27,5,145 ,6629,6000000,4995000,1958
+Nacka,Saltsjöqvarn,"Hästholmsvägen 25, 9+10 tr",4,124.5 ,5389,7550000,7500000,2000
+Stockholm,Mälarhöjden,Edsbergsgränd 8,1,33 ,1568,2400000,1995000,1942
+Stockholm,Kungsholmen,Bergsgatan 49,2,44 ,2148,4200000,3995000,1931
+Stockholm,Hjorthagen,Motalavägen 19,2,40 ,2661,3025000,2650000,1935
+Solna,Råsunda,"Råstavägen 8 B, vån 4",2,65 ,3419,5100000,5100000,1911
+Solna,Ulriksdal,"Cronhielms Allé 33, vån 3",2,59 ,3442,3100000,2995000,2016
+Stockholm,Sofia,"Malmgårdsvägen 30L, 4tr",2,58 ,3438,4650000,3950000,2005
+Stockholm,Hässelby,"Maltesholmsvägen 163, 1tr",3,76 ,4540,2500000,2295000,1957
+Stockholm,Råcksta,Östersundsgatan 7,1,39 ,1972,1970000,1795000,1957
+Stockholm,Bagarmossen,Kolbäcksgränd 25,2,58 ,3866,2865000,2395000,1954
+Sollentuna,Kärrdal,Lomvägen 37,1,29.5 ,1746,1335000,1000000,1975
+Stockholm,Midsommarkransen,Pingstvägen 12,1,35 ,2235,2780000,2195000,1949
+Stockholm,Vällingby,"Råcksta Gårdsväg 23, 5tr",2,42 ,3149,2300000,1995000,2012
+Stockholm,HammarbySjöstad,"Hammarby Kaj 42, 3tr",3,76 ,4281,6500000,5725000,2008
+Nacka,VästraOrminge,Skarpövägen 13,3,81 ,4281,2350000,1995000,2008
+Stockholm,Fruängen,Ada Nilssons gata 19 våning 10,3,74 ,3970,3775000,3695000,2009
+Solna,Frösunda,Gustav III:s Boulevard 91,3,74 ,4307,3600000,3600000,2004
+Stockholm,Vasastan,Torbjörn Klockares Gata 18A,2,42 ,2241,4300000,3795000,1925
+Solna,Råsunda,"Näckrosvägen 41, 5tr",2,62 ,3578,3800000,3295000,1946
+Stockholm,Årsta,Årstavägen 68,2,56 ,3464,2825000,2495000,1946
+Stockholm,Katarina,"Tjärhovsgatan 52, 3tr",2,61 ,1933,4700000,4395000,1975
+Stockholm,Bromma,"Askängsbacken 8, 2tr",4,87 ,5437,4950000,4595000,2012
+Solna,VästraSkogen,Diktarvägen 8,3,87.5 ,4508,4300000,3795000,2016
+Stockholm,Kungsholmen,"Lustgårdsgatan 20, vån 9",2,49 ,2413,4050000,3895000,2013
+Stockholm,Årsta,"Slätbaksvägen 38, 3 tr",2,44 ,3002,2700000,2395000,1943
+Stockholm,Mälarhöjden,"Hägerstensvägen 308, vån 2 av 3",2,53 ,3526,3100000,2895000,1926
+Stockholm,Älvsjö,Götalandsvägen 243,3,76 ,3927,3350000,2995000,2008
+Stockholm,Kungsholmen,"Baltzar Von Platens Gata 6, 4tr",2,48 ,2741,4100000,4100000,1931
+Stockholm,Östermalm,Nybrogatan 44,2,35 ,1482,3675000,3150000,1963
+Stockholm,HammarbySjöstad,Virkesvägen 13,1,22 ,1513,2250000,1950000,1963
+Stockholm,Södermalm,Fatburs Kvarngata 28,2,67 ,4076,4630000,4150000,1992
+Stockholm,Globen,Pastellvägen 13,1,25 ,1641,2140000,1795000,1943
+Stockholm,Bagarmossen,Ljusnevägen 6,3,77 ,4057,3950000,3295000,2009
+Stockholm,Örby,Gamla Huddingevägen 441,1,26 ,1551,1725000,1495000,2015
+Solna,Huvudsta,"Wiboms Väg 10, 10tr",4,103 ,4910,4370000,4195000,1967
+Stockholm,ÄlvsjöHagsätra,Porlabacken 13,2,62 ,4364,1800000,1795000,1958
+Stockholm,Kungsholmen,Kungsholmsgatan 17b - vindsvåning,3,77 ,4430,7120000,6995000,1909
+Stockholm,Gullmarsplan,Gullmarsvägen 2,3,75 ,3863,4550000,4195000,1946
+Stockholm,Östermalm,Östermalmsgatan 21,2,66 ,3174,6200000,6390000,1912
+Stockholm,JohanneshovGloben,"Bildhuggarvägen 23, 3 tr",1.5,28 ,1758,2325000,1995000,1945
+Sundbyberg,Sundbyberg,"Lavettvägen 41, 3 tr",3,79.5 ,4292,2650000,2495000,1983
+Stockholm,Johannesfred,Stångjärnsvägen 15,3,64 ,3865,2925000,2595000,1946
+Stockholm,Kungsholmen,Hantverkargatan 76 D,2.5,66 ,1344,6200000,5590000,1946
+Stockholm,Traneberg,Sulitelmavägen 37,3,73 ,3737,5300000,5300000,1946
+Stockholm,Östermalm,"Sibyllegatan 11B, 2 tr",1,31 ,1928,4200000,3495000,1906
+Stockholm,Södermalm,"Bergsunds Strand 42, 1+2 tr etage",2.5,68 ,2162,5340000,4695000,1964
+Stockholm,Älvsjö,Förlandagränd 84,2,57 ,3128,2000000,1795000,1968
+Stockholm,Södermalm,Katarina Bangata 25 5 tr,2,43 ,2002,3900000,3995000,1968
+Stockholm,Kungsholmen,"Arbetargatan 28D, 4 tr",3,83 ,3096,6310000,5950000,1969
+Nacka,JärlaSjö,Turbinvägen 5B,4,84 ,4900,5400000,5400000,2017
+Nacka,Nacka,"Tollarevägen 53, 6tr",4,101 ,4888,4900000,4695000,2017
+Stockholm,HammarbySjöstad,Lumaparksvägen 3,4,92 ,5066,5995000,5995000,2016
+Stockholm,Stockholm,Kransbindarvägen 41,2.5,51 ,2950,3100000,2595000,1940
+Stockholm,Kungsholmen,"Pipersgatan 16, 3 tr",2,43.5 ,3255,3900000,3900000,1934
+Stockholm,Fruängen,Ada Nilssons gata 11 ,2,43 ,2259,2550000,2395000,2010
+Stockholm,NorraDjurgårdsstaden,"Fågelhundsgatan 20, 3tr",3,84 ,4765,6700000,2395000,2013
+Stockholm,Birkastan,Robert Almströmsgatan 6,2.5,62 ,3578,5800000,5250000,1929
+Stockholm,Farsta,"Ölmevägen 10, 3tr",3,78 ,4209,2330000,2395000,1958
+Stockholm,Västertorp,Slalomvägen 34,2.5,53 ,2988,3020000,2495000,1950
+Stockholm,Kungsholmen,Fridhemsgatan 70,3,106 ,4959,10125000,8695000,1906
+Nacka,VästraOrminge,Skarpövägen 1,2,61 ,3224,1970000,1795000,1971
+Stockholm,GamlaEnskede,"Nynäsvägen 309, 2 tr högst upp",1.5,43 ,2541,2900000,2500000,1915
+Stockholm,Annedal,Tummelisas Gata 4,4,95 ,5460,4900000,4750000,2014
+Stockholm,Stockholm,Borgarfjordsgatan 21B,3,83 ,4700,2800000,2900000,2016
+Stockholm,Hägerstensåsen,"Sparbanksvägen 40, 3tr",2,45 ,2959,2780000,2495000,2016
+Stockholm,Gullmarsplan,"Grafikvägen 1, 2tr",1,25 ,1305,2260000,1995000,2016
+Stockholm,Kista,Helsingörsgatan 34 1 tr,3,81 ,4799,2250000,2300000,2016
+Stockholm,Sofia,"Ringvägen 122, 1 tr",1,38 ,1422,2815000,2495000,1964
+Stockholm,Kungsholmen,Alströmergatan 49,1,24 ,1672,2550000,2145000,1929
+Stockholm,Åkeshov,Snörmakarvägen 35A,2,43 ,2343,2600000,2150000,2016
+Stockholm,Östermalm,Melodislingan 22,4,105.5 ,6869,10400000,10495000,2019
+Sundbyberg,Ör,"Örsvängen 7, 4 tr",4,87 ,3656,3700000,3395000,1965
+Stockholm,Årsta,Skedviksvägen 1,3,60 ,3175,3050000,2495000,1965
+Nacka,HammarbySjöstad,Skeppsmäklargatan 49,4,95 ,4241,5325000,5400000,2019
+Stockholm,Katarina,Götgatan 99,2,59 ,1806,4900000,4250000,1907
+Stockholm,Östermalm,"Furusundsgatan 13, 7 tr.",3,81 ,3144,6710000,6495000,1939
+Stockholm,Årsta,Hummelvägen 2,3,70 ,4310,3150000,2995000,1951
+Stockholm,Hägerstensåsen,Inteckningsvägen 56,3,56 ,3902,2950000,3050000,1945
+Sollentuna,Helenelund,"Stupvägen 71, 4tr",3,73.1 ,3625,2235000,2350000,1970
+Stockholm,Gubbängen,"Skåpvägen 3, 1tr",2,57 ,2932,2550000,2095000,1946
+Stockholm,Kungsholmen,"Vitalisvägen 6, 1,5 tr ",2,38.5 ,2048,3250000,2795000,1931
+Stockholm,Östermalm,Banérgatan 50,1,30 ,2110,3000000,3100000,1937
+Solna,VästraSkogen,"Epistelvägen 1B, 2tr",2,36 ,1950,2740000,2740000,2016
+Stockholm,Södermalm,Vindragarvägen 2,2,61 ,3484,5200000,4650000,1945
+Stockholm,Fruängen,Lina Sandells Plan 22,1,27 ,2083,2100000,1595000,1955
+Solna,Frösunda,"Gustav III:s Boulevard 6, Vån 4",3,69 ,4016,4310000,3495000,1998
+Stockholm,Hässelby,Maltesholmsvägen 167,5,112 ,6529,2915000,2750000,1958
+Solna,Råsunda,Vasavägen 7,3,81 ,3789,4850000,4750000,2007
+Stockholm,Bagarmossen,Ljusnevägen 4,3,77 ,4035,3900000,3295000,2009
+Stockholm,Östermalm,Nybrogatan 50,1,25 ,561,2850000,2495000,1942
+Stockholm,Kungsholmen,"John Ericssonsgatan 11, vån 5",3,50 ,2905,4700000,4395000,1935
+Sundbyberg,Sundbyberg,Solvallavägen 46B,4,85.5 ,3845,3070000,2895000,1957
+Stockholm,Hammarbyhöjden,Finn Malmgrens väg 59,2,38 ,3130,2400000,2095000,1943
+Stockholm,Aspudden,Torsten Alms gata 13,3,73 ,3608,4950000,3895000,1948
+Stockholm,NorraDjurgårdsstaden,"Jaktgatan 9, 7tr",4,101 ,5892,9100000,8495000,2013
+Stockholm,Stockholm,"Ola Hanssonsgatan 6, 2tr",2,50 ,3148,3900000,3495000,2013
+Nacka,JärlaSjö,Fingerörtsvägen 10,1,45 ,2881,2325000,2085000,2007
+Stockholm,Husby,"Lofotengatan 11, 3tr",3,80 ,5212,2500000,2295000,1974
+Stockholm,Fruängen,"Kata Dalströms gata 3, 2½ tr",2,55 ,3102,2750000,2250000,1955
+Solna,Huvudsta,Krysshammarvägen 16,2.5,61.2 ,2028,3000000,2695000,1965
+Stockholm,Bromma,Stångjärnsvägen 3,2,46 ,2713,2450000,1995000,1965
+Stockholm,Södermalm,"Gotlandsgatan 68, 5 tr",3,65 ,4632,5850000,5475000,1910
+Stockholm,Vasastan,"Observatoriegatan 12 A, 2tr",2,54 ,2290,6060000,4950000,1888
+Sundbyberg,Sundbyberg,Oxenstiernas Allé 20,4,87 ,4843,3515000,3550000,2015
+Stockholm,Kungsholmen,"Lindhagensterrassen 19, 14 tr",3,79 ,3297,6600000,6195000,2009
+Stockholm,Vasastan,"Surbrunnsgatan 13, 3tr",4,115 ,5071,9250000,9450000,1885
+Stockholm,Abrahamsberg,Arkitektvägen 45,2,50 ,2901,3470000,3495000,2017
+Stockholm,Södermalm,Högalidsgatan 46A,2,66 ,3390,5680000,5250000,1913
+Stockholm,Vasastan,Karlbergsvägen 38,4,80.4 ,3455,7400000,6995000,1913
+Stockholm,AndelibostadsföreningEnskede,Fågelkärrsvägen 2C,1,44 ,2473,2580000,2350000,1927
+Stockholm,Stockholm,"Folkungagatan 74A, 2tr",2,59 ,2393,5200000,4850000,1913
+Stockholm,Årsta,Slätbaksvägen 6,2,44.5 ,2758,2470000,2250000,1943
+Sollentuna,Tureberg,"Turebergs Allé 47, 2tr",2,44 ,2255,2150000,2095000,2017
+Stockholm,Bromma,Follingbogatan 14,2,73.5 ,3271,3450000,2995000,2017
+Stockholm,Vasastan,"Norrbackagatan 30, 1 tr",3,81 ,2523,8000000,6895000,1925
+Stockholm,Bromma,Gubbkärrsvägen 19A,2,66 ,3948,3150000,3150000,2016
+Stockholm,Östermalm,"Brahegatan 37, 1 ½ tr",2,56 ,3178,5950000,5595000,1880
+Nacka,Nacka,Stensövägen 7,4,97 ,6316,2650000,2495000,1971
+Nacka,JärlaSjö,"Järla Gårdsväg 13, 1 tr",3,78 ,5304,4005000,3695000,2006
+Stockholm,Kungsholmen,"Igeldammsgatan 22A, 4 tr",3,84 ,4584,7550000,7550000,1897
+Stockholm,Telefonplan,"Responsgatan 5, 1tr",2,49 ,2850,3350000,2795000,2008
+Stockholm,Hägerstensåsen,Bokbindarvägen 55,2,40 ,2060,2600000,2095000,1944
+Stockholm,Aspudden,"Hägerstensvägen 129, vån 2 av 3",2,61 ,3774,4475000,3795000,1912
+Stockholm,Årsta,"Tämnarvägen 30, 2 tr",2,55 ,2947,2700000,2275000,1945
+Stockholm,Hammarbyhöjden,"Petrejusvägen 49, 2 tr",3,62 ,4179,3800000,3350000,1939
+Stockholm,Årsta,"Dellensvägen 26, 2tr",2,62 ,3438,3300000,2850000,1946
+Stockholm,Kista,Borgarfjordsgatan 21A våning 35 av 35,2,59 ,3645,2995000,2995000,2015
+Stockholm,Kungsholmen,"P O Hallmans Gata 15, 8tr",2.5,83.2 ,3778,6210000,5995000,1998
+Stockholm,NedreGärdet,Storskärsgatan 3,1,31 ,1523,3150000,2995000,1938
+Solna,SolnaHuvudsta,"Släggbacken 4, vån 1",3,91 ,4839,3235000,2895000,1965
+Solna,Frösunda,"Signalistgatan 6, 5 tr",3,83.7 ,4026,5750000,3995000,2002
+Stockholm,Vasastan,Körsbärsvägen 20,2,36 ,1972,3280000,2895000,1936
+Stockholm,Södermalm,Anders Reimers Väg 10,2,50 ,3289,4830000,3995000,1942
+Sundbyberg,Rissne,"Kavallerivägen 20B, 6tr",4,86 ,4681,3100000,2695000,2004
+Stockholm,Kungsholmen,"Strålgatan 33, vån 3/3",2.5,56 ,3395,4250000,3795000,1939
+Solna,Huvudsta,"Huvudstagatan 29, 1 tr",1,20 ,1137,2100000,1980000,1953
+Stockholm,Bandhagen,Stjärnsundsgatan 5,3,67 ,3437,2100000,1750000,1960
+Stockholm,Vasastan,"Tre Liljor 5, 2tr",3.5,126 ,4621,9820000,8450000,1926
+Stockholm,Vasastan,"Gävlegatan 3, 4tr",2,46 ,1668,4350000,3950000,1926
+Stockholm,Östermalm,"Karlaplan 21 A, 6 tr",1.5,42 ,1485,3900000,3795000,1973
+Solna,Järvastaden,Fridensborgsvägen 54,2,42 ,2367,2750000,2495000,2009
+Stockholm,Södermalm,Tideliusgatan 13 1tr.,3,80 ,2301,6800000,6495000,1968
+Stockholm,Birkastan,Karlbergsvägen 87B,2,53 ,2609,4900000,4195000,1912
+Stockholm,HammarbySjöstad,"Redargatan 3, 4tr",3,93 ,5135,5410000,4995000,2005
+Stockholm,Enskede,"Bordsvägen 53, 3 tr",3,68 ,3812,3100000,2895000,1946
+Stockholm,Vasastan,Rörstrandsgatan 42,2,52 ,1827,5300000,4795000,1906
+Stockholm,Vasastan,Gävlegatan 26,2,65 ,3250,5560000,5560000,2017
+Stockholm,Stockholm,"Bergsmarksvägen 12, 2 tr",4,111 ,6302,7325000,7495000,1938
+Stockholm,Gubbängen,Victor Balcks Väg 194,3,68 ,5071,2990000,2500000,2004
+Nacka,Bastuområdet,"Bastuvägen 3, älta",4,82.8 ,4992,3195000,3195000,1985
+Stockholm,Hammarbyhöjden,Paternostervägen 36,1,26 ,1206,2350000,1995000,1985
+Stockholm,Stureby,Tussmötevägen 134A (31-1103),2,51 ,3422,3130000,3130000,2019
+Stockholm,Vasastan,Frejgatan 20,3,71 ,3446,5550000,5495000,1940
+Stockholm,HammarbySjöstad,"Hammarby Kaj 48, 1 tr",3,68 ,3131,4875000,4550000,2008
+Stockholm,Svedmyra,"Brevvägen 6, 2 tr",2,40 ,2734,2410000,1995000,1949
+Stockholm,Vasastan,"Upplandsgatan 77A, 2 tr ö.g",2,58 ,3055,5800000,5395000,1899
+Stockholm,LångbroPark,Stora Kvinns Väg 68,3,86 ,5252,5400000,4395000,2008
+Nacka,Nacka,"Ornövägen 12, 1 tr",1.5,37 ,2445,1600000,1495000,2008
+Stockholm,Östermalm,Valhallavägen 14,3,67 ,2170,6190000,5995000,1903
+Stockholm,Södermalm,Lundagatan 38A,2,41.5 ,2020,3550000,3195000,1903
+Stockholm,Örby,Gamla Huddingevägen 419 2tr,4,83 ,3502,3450000,2975000,1958
+Stockholm,GamlaEnskede,Nynäsvägen 366A 2tr,4,68 ,4979,3050000,2950000,1939
+Nacka,Nacka,Norrholmsvägen 89,5,122 ,6069,3550000,3495000,1939
+Nacka,Nacka,"Ormingeringen 19, Bv",3,70 ,4109,2200000,1995000,1939
+Stockholm,Kista,Sorögatan 1,3,77 ,4426,2200000,2195000,1976
+Stockholm,Olovslund,Gustav III:s väg 70,4,85 ,2443,4500000,4395000,1968
+Stockholm,Högalid,Krukmakargatan 48,3,105 ,5309,8200000,7450000,1906
+Stockholm,Kungsholmen,Svarvargatan 3,4,83 ,3423,7670000,6995000,1933
+Stockholm,Skärholmen,Ekholmsvägen 250 A,4,91.5 ,6533,2340000,2290000,1990
+Solna,Råsunda,Charlottenburgsvägen 26,1,23 ,1277,2260000,1795000,1990
+Sollentuna,SollentunaCentrum,Attundagränd 5,3,71 ,4119,3450000,3495000,2016
+Stockholm,Vasastan,"Birger Jarlsgatan 104 J, 1tr",1,21 ,1559,2670000,2195000,1939
+Sollentuna,CentralaSollentuna,Sollentunavägen 166 ,2,43 ,3105,2525000,2600000,2014
+Stockholm,Hägerstensåsen,Inteckningsvägen 85,2,46 ,2193,2700000,2295000,1945
+Stockholm,Bromma,Slaggvägen 9,2,61 ,3206,2500000,2500000,1945
+Stockholm,Bagarmossen,"Bergsrådsvägen 32, 2tr",3,68 ,4430,3725000,3195000,1954
+Stockholm,Spånga,Norrskensbacken 1B,3,81.5 ,5814,2200000,2275000,1999
+Stockholm,Vällingby,Duvedsvägen 13,2,60 ,3676,2250000,1995000,1955
+Stockholm,Fruängen,Kata Dalströms gata 3,2,55 ,3120,2510000,1995000,1955
+Stockholm,Bandhagen,Mosstenabacken 5,2,49.5 ,3069,2500000,1995000,1955
+Stockholm,Vasastan,"Karlbergsvägen 57, 2tr.",3.5,74 ,2999,8100000,7395000,1903
+Stockholm,HammarbySjöstad,Henriksdalsallén 36,4,100.5 ,5131,9125000,8500000,2012
+Stockholm,Midsommarkransen,Valborgsmässovägen 30,2,34.5 ,2291,2700000,2195000,1940
+Stockholm,GamlaEnskede,Tallkrogsvägen 8E,4,100 ,5277,5275000,4995000,1927
+Sundbyberg,CentralaSundbyberg,Råstensgatan 13,1,35 ,2566,2400000,1995000,1945
+Stockholm,HammarbySjöstad,Virkesvägen 19B,2,49 ,2764,3495000,3495000,2018
+Stockholm,Stockholm,Mariehällsvägen 8,2,57.2 ,3827,3212500,3212500,2004
+Sundbyberg,Sundbyberg,Råstensgatan 1B,3,71 ,4864,4430000,3995000,2004
+Stockholm,Kungsholmen,Gyllenborgsgatan 13,3,68 ,3439,5510000,4795000,1927
+Stockholm,Mariaberget,Brännkyrkagatan 52,3,67 ,3146,6650000,5795000,1892
+Stockholm,Hjorthagen,"Älvkarleövägen 8, 2tr",2,44 ,2961,3240000,3250000,1936
+Sollentuna,HäggvikStrand,Sollentunavägen 295,1,38 ,2264,2075000,1995000,2018
+Stockholm,Annedal,Tappvägen 22,5,118 ,6181,6000000,5495000,2017
+Solna,Bergshamra,Björnstigen 125,2,60.5 ,2933,3325000,2850000,1960
+Solna,Hagalundsparken,"Solgatan 10, våning 7",3,73.5 ,4350,4080000,3975000,2012
+Solna,Råsunda,"Råsundavägen 125, 4 tr",3,105 ,3960,7055000,6495000,1911
+Nacka,Ljuskärrsberget,Ljuskärrsvägen 53,3,77.8 ,3829,2010000,1995000,1911
+Stockholm,Stockholm,"Sankt Eriksgatan 11, 4 tr",2,39 ,1843,3620000,3350000,1913
+Sundbyberg,CentralaSundbyberg,Vegagatan 18,1,24 ,1310,2300000,1995000,1947
+Stockholm,Vasastan,Birger Jarlsgatan 79,2,66 ,1105,6110000,5495000,1916
+Sundbyberg,LillaAlby,Högklintavägen 15,3,80.5 ,4308,4350000,3850000,1965
+Stockholm,Bromma,Broderivägen 15A,2,39 ,2686,2800000,2350000,1945
+Solna,Huvudsta,Huvudstagatan 19,1,17 ,1118,1800000,1595000,1953
+Sollentuna,Tureberg,Vänortsstråket 71B,3,87.3 ,3974,2350000,1895000,1967
+Stockholm,Ruddammen,"Ruddammsvägen 27, 3 tr",2,64.5 ,3616,4100000,3895000,1992
+Stockholm,Årsta,Johanneshovsvägen 110,4,97 ,5291,5000000,4695000,2016
+Solna,Järvastaden,"Fridensborgsvägen 121, Vån 1",1,42 ,2693,2225000,2250000,2019
+Sollentuna,Silverdal,Margreteborgsvägen 22,3,79 ,4857,3500000,3500000,2013
+Stockholm,Telefonplan,"Valborgsmässovägen 38, vån 3 av 3",2,35 ,2291,2800000,2195000,1939
+Stockholm,Liljeholmskajen,"Sjöviksvägen 39, 2 tr",2,62 ,3109,4300000,3795000,1939
+Stockholm,Skarpnäck,Segelflygsgatan 23,3,71 ,4933,2730000,2395000,1985
+Stockholm,Vällingby,Råckstavägen 27,4,66 ,3768,2600000,2475000,2009
+Stockholm,Råcksta,"Bättringsvägen 4, 4 tr",2,67.5 ,4209,2150000,1995000,2010
+Stockholm,Kungsholmen,"Norra Agnegatan 32, vån 5",4,83 ,2762,9060000,8250000,1887
+Solna,SolnaC,Skytteholmsvägen 41,2,60 ,3516,3450000,3450000,2003
+Stockholm,Fredhäll,Snoilskyvägen 38,2.5,67 ,3300,5125000,4750000,1935
+Stockholm,Södermalm,"Hornstulls Strand 13, 1 tr",2,46 ,2540,3990000,3495000,1938
+Stockholm,Hägerstensåsen,Inteckningsvägen 21,2,51 ,2964,2850000,2195000,1945
+Stockholm,Bromma,Allévägen 14 C,4,92 ,5205,7300000,6495000,1945
+Stockholm,Östermalm,"Nybergsgatan 8, 3 tr",4,106 ,4908,11100000,10500000,1968
+Stockholm,Södermalm,Gotlandsgatan 67,3,71 ,3280,6220000,5395000,1926
+Stockholm,Södermalm,Flintbacken 6,1,29.5 ,1275,2500000,2295000,1964
+Solna,Frösunda,Rosenborgsgatan 13,5,119 ,5699,6200000,5950000,2013
+Stockholm,Årsta,Skälderviksplan 2,4,72 ,4632,3250000,3175000,1951
+Stockholm,Bromma,Sulitelmavägen 16,2,61.7 ,3053,3660000,2975000,1938
+Sundbyberg,CentralaSundbyberg,"Vegagatan 11B, vån 5",3,88.5 ,5990,4495000,4495000,1999
+Stockholm,HammarbySjöstad,Sickla kanalgata 21,4,84 ,6355,8850000,7995000,2001
+Stockholm,Aspudden,Hövdingagatan 40,2.5,71 ,3450,4530000,3795000,1949
+Stockholm,Bromma,Pelle Svanslös Gata 3 vån 3,3,80.5 ,4302,3970000,3795000,2012
+Stockholm,Årsta,Marviksvägen 7,2,64.5 ,3849,3900000,3295000,2008
+Stockholm,Gärdet,"Öregrundsgatan 17, 3 tr",2,60.5 ,2545,4795000,4795000,2010
+Stockholm,Hässelby,Aprikosgatan 25,3,73 ,4552,2410000,2195000,1958
+Solna,Huvudsta,Storgatan 56 vån 7/7,3,76 ,3432,3650000,3395000,1983
+Solna,Råsunda,"Näckrosvägen 5, 6 tr",3,74.5 ,4226,5100000,4295000,1944
+Stockholm,Bromma,Björketorpsvägen 13,1,28 ,1850,1815000,1475000,1967
+Stockholm,Kista,Helsingörsgatan 46,4,100 ,5853,2995000,2995000,1977
+Stockholm,Vasastan,"Dalagatan 60, 2 tr",4,98 ,3835,10300000,9475000,1895
+Stockholm,Södermalm,"Gotlandsgatan 71, 4 tr",2.5,70 ,3508,6350000,5475000,1926
+Solna,Råsunda,Södra Långgatan 34,4,86 ,2769,5800000,5800000,1932
+Stockholm,Liljeholmen,"Liljeholmstorget 14, vån 2",3,78.5 ,3575,4800000,4495000,2005
+Stockholm,Årsta,Sköntorpsvägen 126,3,67.5 ,3745,3450000,3450000,1962
+Stockholm,Katarina,Åsögatan 192,2,66.5 ,3223,4950000,4495000,1930
+Stockholm,HammarbySjöstad,Virkesvägen 9G,1.5,44.5 ,2727,2975000,2950000,2019
+Stockholm,Södermalm,"Högalidsgatan 52A, 3tr",1,33 ,2212,2980000,2550000,1911
+Stockholm,Årsta,Bråviksvägen 22,3,58.5 ,3861,2900000,2475000,1944
+Stockholm,Midsommarkransen,"Lötmogatan 7, vån 2",2,31 ,2635,2670000,1995000,1940
+Stockholm,Skarpnäck,Pilotgatan 20,3,71 ,4455,2510000,1995000,1940
+Solna,SolnaVästraSkogen,"Infanterigatan 11, Vån 7",1,44.5 ,2225,2350000,1995000,1962
+Stockholm,Vasastan,Roslagsgatan 47,1,28 ,1560,2700000,2395000,1929
+Stockholm,Vasastan,Torsgatan 74,2.5,72 ,3893,5170000,4995000,1924
+Stockholm,Södermalm,"Fatburs Kvarngata 22, 4tr",3,77 ,4533,4740000,4595000,1991
+Sundbyberg,SundbybergStrand,Hamngatan 18D,2,54.5 ,3480,3200000,2995000,2017
+Stockholm,Fruängen,Vantörsvägen 285,2,43 ,2410,2650000,1995000,2014
+Stockholm,Västertorp,Västertorpsvägen 20A,3,75 ,3312,3700000,2995000,1949
+Stockholm,Farsta,Farstavägen 110A 1 tr,2,64 ,5085,2235000,1595000,1949
+Stockholm,Johanneshov,Vänersborgsvägen 22,2,52 ,3575,3250000,2995000,1943
+Stockholm,NedreGärdet,"Erik Dahlbergsgatan 18, 4 tr",3,83 ,4305,8300000,6895000,1932
+Stockholm,Vasastan,Roslagsgatan 53,2,46 ,2480,4150000,3995000,1929
+Nacka,Sickla,"Sickla Sjöväg 1, pl 3",4,100 ,4153,7495000,7495000,2009
+Stockholm,Kungsholmen,Strålgatan 21,2,39 ,2735,3285000,2895000,1939
+Stockholm,Midsommarkransen,Valborgsmässovägen 7,2,35 ,2235,2830000,2195000,1940
+Stockholm,Liljeholmskajen,"Vingårdsgatan 46, 5 tr",3,77.5 ,3794,5170000,4250000,2003
+Solna,VästraSkogen,"Arvid Tydéns Allé 4, 6tr",2,38 ,2058,2730000,2395000,2016
+Stockholm,Kungsholmen,Sankt Göransgatan 153,1,22.5 ,1069,2350000,1950000,1950
+Stockholm,Hagastaden,"Nina Einhorns gata 10, 8tr",2,41 ,2610,3550000,3550000,2018
+Stockholm,Östermalm,"Östermalmsgatan 49, bv",1,28 ,1379,2995000,2995000,1883
+Stockholm,Kungsholmen,"Garvargatan 22, 3tr",2,44 ,1820,4200000,3495000,1931
+Stockholm,Västertorp,"Störtloppsvägen 42, vån 3 av 3",4,91 ,4875,4250000,3795000,1956
+Solna,Solna,"Virebergsvägen 24, 7 tr",3.5,78 ,3492,4000000,3795000,1957
+Stockholm,Enskede,"Majrovägen 16, 2 tr",2,53 ,3056,2560000,2295000,1947
+Nacka,Kummelnäs,Sångfågelvägen 11A,4,135 ,6525,8450000,7950000,1907
+Nacka,Finntorp,Blomstervägen 36,3,79.5 ,3893,3400000,3495000,1907
+Stockholm,Kungsholmen,"Kellgrensgatan 10, 10 tr",2,53.5 ,3473,4200000,4150000,2015
+Stockholm,Skärmarbrink,Thunbergsgatan 6,3,60 ,4059,3920000,3495000,2015
+Stockholm,Vasastan,"Dalagatan 86D, 4tr",2,55 ,3110,5000000,4595000,1919
+Stockholm,Vasastan,Dalagatan 44 A,2,44 ,985,4400000,3995000,1884
+Stockholm,HammarbySjöstad,"Fredriksdalsgatan 1, 3tr",2,62.5 ,3388,4350000,4195000,2016
+Stockholm,Kungsholmen,John Bergs Plan 4,2,38 ,1552,3100000,2775000,1936
+Stockholm,Älvsjö,Rävsnäsvägen 34 2 tr,3,83 ,4414,3150000,2850000,1966
+Stockholm,Södermalm,"Rosenlundsgatan 18, 5tr",3.5,71 ,3767,6000000,5475000,1931
+Nacka,Saltsjöbaden,"Gamla Skolvägen 28, 3 tr",3,66 ,2743,2950000,3200000,1960
+Stockholm,Liljeholmen,"Liljeholmsvägen 34, 4 tr",4,76 ,4005,5400000,4995000,1960
+Stockholm,Vasastan,"Roslagsgatan 54A, 2 tr ög",2,51 ,2929,4450000,4450000,1905
+Stockholm,Vasastan,"Upplandsgatan 37, 1.5 tr",3,88 ,3257,7500000,7350000,1881
+Stockholm,Vasastan,"Sankt Eriksgatan 64, 5tr",2,46 ,1890,4300000,3950000,1929
+Stockholm,Vasastan,"Upplandsgatan 52, 3tr",3,121 ,1089,12250000,11500000,1905
+Stockholm,HammarbySjöstad,"Seglatsgatan 14, 4tr",3,82 ,4587,6050000,5695000,1905
+Stockholm,Östermalm,Birger Jarlsgatan 103 B,2,51 ,2890,5200000,4950000,1884
+Stockholm,Östermalm,"Sibyllegatan 43, 4tr",4,85 ,420,10200000,9500000,1884
+Stockholm,Kungsholmen,"Celsiusgatan 5, 4tr",1,31 ,1543,3230000,2995000,1937
+Stockholm,Östermalm,Floragatan 18,2,67 ,2953,7800000,6995000,1883
+Stockholm,Bagarmossen,"Kolbäcksgränd 19, 1tr",3,72 ,4515,3640000,3500000,1954
+Stockholm,Kungsholmen,"Geijersvägen 6, 2tr",1,36.5 ,1944,2850000,2695000,1954
+Stockholm,Vasastan,"Vulcanusgatan 15, 3tr",3,87 ,3761,8310000,7495000,1927
+Stockholm,Vasastan,"Torsplan 8, 15 tr",3,64 ,3909,7750000,7295000,2018
+Stockholm,Vasastan,"Ynglingagatan 27, 1tr",2,60 ,2676,4495000,4495000,1924
+Stockholm,Östermalm,"Skeppargatan 77, 3 tr.",1,33.5 ,1856,3285000,2695000,1933
+Stockholm,Katarina,"Folkungagatan 69, 4 tr",3,90 ,2673,6700000,5950000,1971
+Stockholm,Östermalm,Storskärsgatan 4,3,84 ,3869,7550000,7495000,1932
+Sollentuna,Helenelund,Sollentunavägen 77 B,2,76 ,4290,2850000,2495000,2009
+Stockholm,Stureby,"Götaforsvägen 3, 3 tr",2,55 ,3510,2375000,1950000,1952
+Stockholm,Södermalm,Marmorgatan 11,2,51 ,4031,3510000,2995000,1952
+Stockholm,Kungsholmen,"Parkgatan 8, 2 tr",3,80 ,4473,8950000,6950000,1898
+Stockholm,Stockholm,Norrbackagatan 44.,2,48 ,1758,4550000,4475000,1910
+Stockholm,Midsommarkransen,"Tellusborgsvägen 90, vån 2",1.5,37 ,2116,2715000,2195000,2012
+Solna,SolnaJärvastaden,"Dammtorps Allé 3, vån 3",2,47 ,2857,2820000,2395000,2013
+Sundbyberg,CentralaSundbyberg,Brunnsgatan 2 B,1,41 ,2898,2410000,1995000,1944
+Sollentuna,Rotsunda,Bergkällavägen 68B,4,97.8 ,7502,1950000,1995000,1989
+Sundbyberg,Rissne,Valkyriavägen 7,3,77 ,4349,2285000,1995000,1988
+Stockholm,Bromma,Björnsonsgatan 138,1,31 ,1632,1950000,1790000,1952
+Solna,Råsunda,Näckrosvägen 35,2,59 ,3263,3610000,2995000,1944
+Stockholm,Katarina,Skånegatan 51,3,69 ,2602,6300000,5495000,1904
+Sundbyberg,SundbybergStoraUrsvik,Skördegatan 4,2,52.2 ,3195,2450000,2195000,2013
+Stockholm,Årsta,Årstavägen 3,5,109 ,5831,5630000,5395000,2016
+Stockholm,Ormkärr,Olshammarsgatan 56,3,73 ,4572,2120000,1975000,1958
+Stockholm,Södermalm,Assessorsgatan 16A,2.5,62 ,2279,5125000,4495000,1924
+Stockholm,Hässelby,"Aprikosgatan 19A, 2 tr",2,53 ,3247,2150000,1995000,2002
+Stockholm,Kungsholmen,"Industrigatan 14, 1,5 tr",1,36 ,2372,2810000,2900000,1934
+Stockholm,Årsta,Johanneshovsvägen 102,3,81 ,4596,4950000,4295000,2017
+Sollentuna,Tureberg,Vänortsstråket 59 C,3,87.3 ,3974,2490000,1995000,1967
+Sundbyberg,Ursvik,Milstensvägen 27,4,81 ,4025,3200000,2995000,2012
+Sundbyberg,CentralaSundbyberg,Vintergatan 4       ,3,76 ,4768,3400000,2795000,2012
+Stockholm,Midsommarkransen,"Valborgsmässovägen 36, 3tr",1.5,34.5 ,2291,2520000,1995000,1939
+Stockholm,Vasastan,"Västmannagatan 87A, 3tr",3,85 ,2815,8050000,7850000,1939
+Stockholm,Högalid,"Tantogatan 41, 9tr",2,42.5 ,1803,3240000,2850000,1965
+Stockholm,Liljeholmskajen,Marieviksgatan 42,2,70 ,3784,4500000,3995000,2010
+Stockholm,Aspudden,Torsten Alms Gata 31,2.5,58 ,3631,3820000,3095000,1949
+Stockholm,Spånga,"Almbygatan 10, 10tr",2,40 ,2333,1730000,1750000,2018
+Stockholm,Enskededalen,Gamla Tyresövägen 351 D,3,68 ,2859,3625000,3095000,2012
+Stockholm,Kärrtorp,Fyrskeppsvägen 15,3,71 ,4421,2800000,2800000,1949
+Nacka,Finntorp,Fredrik Jahns gränd 8,2,59.5 ,2989,2780000,2595000,1951
+Stockholm,Bagarmossen,"Emågatan 34, 2tr",2,57 ,3223,2850000,2295000,1954
+Nacka,Jarlaberg,Landåvägen 4,3,89.5 ,5946,4995000,4995000,1989
+Stockholm,Södermalm,"Folkskolegatan 5, 3 tr",1,33 ,2382,2810000,2495000,1937
+Stockholm,Södermalm,Södermannagatan 55,3,76 ,1553,7500000,5995000,1930
+Solna,Råsunda,Viktor Sjöströms Väg 5,5,116.5 ,6996,7700000,6250000,2006
+Stockholm,SödraÄngby,Zornvägen 45,6,103 ,3929,6710000,5950000,1937
+Solna,Skytteholm,"Ankdammsgatan 30, entréplan",2,53 ,2852,2690000,2295000,1959
+Solna,GamlaHuvudsta,"Polhemsgatan 1, 1tr",2,68 ,2645,3275000,2750000,1950
+Stockholm,Vasastan,Hälsingehöjden 11,2,68 ,2942,6000000,5395000,1924
+Stockholm,Södermalm,Östgötagatan 68,2,53 ,1361,4700000,4195000,1912
+Solna,Järvastaden,Fridensborgsvägen 139,3,79 ,4443,3915000,3650000,2017
+Sundbyberg,CentralaSundbyberg,Vintergatan 2D,1,35 ,1935,2800000,2800000,2017
+Solna,Råsunda,Viktor Sjöströms väg 8,3,89 ,4786,7200000,5695000,2009
+Stockholm,Fruängen,Anna Sandströms gata 4,4,80 ,3630,3940000,2995000,1957
+Sollentuna,Sjöberg,Sidensvansvägen 36,4,103 ,5668,4000000,3695000,1991
+Stockholm,Kungsholmen,Badstrandsvägen 20,1.5,45 ,2168,3000000,2495000,1929
+Stockholm,Södermalm,Brännkyrkagatan 44,3,67 ,3084,5670000,4995000,1929
+Stockholm,Katarina,"Katarina bangata 60, 4tr",3,75 ,3198,6200000,5395000,1987
+Stockholm,Stockholm,"Sankt Eriksgatan 103, 4 tr",3,106 ,3598,8820000,7950000,1927
+Solna,Råsunda,"Råsundavägen 168, VÅN 5, 2-1503",2,50 ,2792,3450000,3500000,2019
+Stockholm,Vasastan,Tomtebogatan 48 A,2,61 ,2340,5550000,5175000,1906
+Stockholm,Bandhagen,Mosstenabacken 5,2,56.5 ,3324,2700000,2095000,1955
+Stockholm,Telefonplan,Bäckvägen 89,2,45 ,3190,2710000,2295000,1940
+Stockholm,SpångaTensta,Skäftingebacken 21,4,94 ,6447,2050000,1995000,1969
+Solna,SolnaHagalund,"Hagalundsgatan 20, vån 12",4,89 ,4397,3650000,2995000,1973
+Stockholm,Södermalm,Tavastgatan 23 - Vind,1.5,39 ,1665,6115000,3995000,1883
+Stockholm,Midsommarkransen,Midsommarvägen 28,2,59 ,3798,3425000,2695000,1944
+Sundbyberg,Sundbyberg,Vattugatan 1B,4,84 ,3045,4140000,3395000,1961
+Stockholm,NorraDjurgårdsstaden,Jaktgatan 33,1,36 ,1950,3210000,2695000,2016
+Stockholm,Södermalm,"Högbergsgatan 75A, 5 tr",2,56 ,1923,5250000,4650000,1984
+Stockholm,Aspudden,Hägerstensvägen 167,2,45 ,2925,3080000,2595000,1947
+Stockholm,Kungsholmen,"Adlerbethsgatan 15, 2tr",2,45 ,2453,3600000,3195000,1947
+Stockholm,Midsommarkransen,"Responsgatan 12, vån 3",1,35 ,2193,2395000,2395000,2019
+Stockholm,Sköndal,Mandelbrödsvägen 16,2.5,57 ,3082,2450000,2095000,1950
+Stockholm,Vasastan,"Markvardsgatan 4, 2 tr",3,63 ,2987,6570000,5975000,1900
+Stockholm,Johanneshov,"Karlskronavägen 23, 3 tr",5,107 ,6193,6910000,5500000,1900
+Stockholm,Vasastan,Dalagatan 72A,2,59 ,3233,5900000,4995000,1904
+Stockholm,Bagarmossen,"Bergsrådsvägen 18, 1tr",1,19 ,1574,1700000,1475000,1953
+Stockholm,Hägersten,Sandalmakarbacken 11,2,65 ,2754,2720000,2350000,1970
+Stockholm,Gärdet,"Banérgatan 81, 2 tr",4,107 ,4086,9100000,9495000,1951
+Stockholm,Kungsholmen,"Karlsviksgatan 9, 2tr",2.5,71 ,2872,5900000,5195000,1926
+Stockholm,Södermalm,Wollmar Yxkullsgatan 3A,2,46 ,3065,4920000,3900000,1926
+Stockholm,Gröndal,"Gröndalsvägen 182, 1tr",3,81 ,2438,4800000,4495000,1981
+Stockholm,Aspudden,Torsten alms gata 13,3,74 ,3608,4900000,3995000,1949
+Stockholm,Aspudden,"Hägerstensvägen 105, vån 2 av 4",1,32 ,1741,2650000,2295000,1911
+Solna,Frösunda,"Gustav III:s Boulevard 135, 2 tr",4,87 ,5156,4900000,4900000,2008
+Stockholm,Vällingby,Vittangigatan 5,2,58 ,3470,2100000,1695000,1953
+Solna,Råsunda,Charlottenburgsvägen 34,2,73 ,4032,3840000,3595000,1910
+Sollentuna,Edsberg,Kruthornsvägen 32A,3,70 ,3647,2000000,1895000,1964
+Stockholm,Vasastan,Döbelnsgatan 91,4,93 ,1826,9900000,8750000,1972
+Stockholm,Svedmyra,Jönåkersvägen 9,2,57 ,2772,2950000,2395000,1950
+Solna,VästraSkogen,"Armégatan 36D, 5tr",4,94 ,5022,5540000,4895000,2015
+Stockholm,Kungsholmen,"Pipersgatan 32, 3tr",3,96.1 ,2863,8500000,8595000,1888
+Stockholm,LillaEssingen,Primusgatan 53,3,91.5 ,4765,4950000,4850000,2005
+Solna,Frösunda,Gustav III:s Boulevard 115,3,79 ,4692,4050000,3795000,2007
+Stockholm,HammarbySjöstad,Heliosgatan 16A,3,77 ,4274,5275000,5295000,2019
+Sundbyberg,Rissne,Mjölnerbacken 32,2,48 ,2404,2400000,2395000,1985
+Stockholm,Liljeholmskajen,Förmansvägen 21,3,87 ,3682,5200000,4695000,2004
+Stockholm,Snösätra,"Bäverdammsgränd 88, etage",4.5,124 ,6641,3000000,2395000,2004
+Stockholm,Vasastan,Dalagatan 86 B,2,54 ,3078,4300000,3995000,1919
+Stockholm,Hammarbyhöjden,Falköpingsvägen 5,2,42 ,2609,2760000,2390000,1942
+Stockholm,Hammarbyhöjden,"Skärmarbrinksvägen 16, 2 tr",2,46 ,2426,2900000,2575000,1944
+Stockholm,Östermalm,Kungstensgatan 3,2.5,64 ,2836,7400000,7900000,1914
+Stockholm,Vasastan,Karlbergsvägen 70B,2,66 ,2918,5450000,5095000,1898
+Sollentuna,Kvarnskogen,"Kvarnskogsvägen 8, bv",2.5,73 ,4073,2695000,2695000,2009
+Stockholm,Bromma,Bäckbornas Väg 21,4.5,101 ,5576,3300000,3095000,1992
+Stockholm,Kungsholmen,"Pipersgatan 16, 6tr",1,28.5 ,2220,2875000,2495000,1935
+Stockholm,Kungsholmen,"Ernst Ahlgrens Väg 2, 4tr",1,29 ,1712,2820000,2450000,1933
+Stockholm,Kungsholmen,"Rålambsvägen 29, 4 tr",2,51 ,2922,3425000,2975000,1943
+Stockholm,Vasastan,"Sigtunagatan 11 B, ö g",2,43 ,2115,4050000,3495000,1901
+Solna,Råsunda,Förrådsgatan 4,3,68 ,3959,5100000,4495000,1901
+Stockholm,LångbroPark,"Stora Kvinns väg 74, 1tr",4,109.5 ,6501,6850000,6495000,1910
+Stockholm,Vasastan,"Robert Almströmsgatan 3, 0.5 tr.",1,27 ,1529,2950000,2495000,1929
+Stockholm,Högdalen,"Harpsundsvägen 125, 1tr",1,28.5 ,1721,2000000,1695000,1929
+Stockholm,Södermalm,"Hallandsgatan 26, 2 tr",2.5,61 ,2742,5250000,4775000,1929
+Stockholm,Gröndal,"Storsegelvägen 8, 7tr",5,152 ,7600,10800000,11500000,1929
+Stockholm,Södermalm,"Hornsgatan 141C, 7 tr",3.5,95 ,4116,7800000,7595000,1929
+Stockholm,Kungsholmen,Ture Nermans Gränd 6,2,47 ,1112,4500000,3995000,1930
+Stockholm,Hägersten,Bandyvägen 44,2,53 ,3211,3050000,3195000,1930
+Stockholm,Kungsholmen,Fleminggatan 109,1,35 ,1893,3510000,2975000,1909
+Stockholm,Liljeholmskajen,Vingårdsgatan 3,3,71.5 ,4311,4900000,4275000,2005
+Stockholm,Vasastan,"Atlasgatan 13, 2tr",2.5,64 ,2727,6400000,5750000,1928
+Stockholm,Kungsholmen,Pontonjärgatan 30,2,64 ,4324,4750000,4295000,1925
+Solna,Råsunda,"Ryttargatan 10, 3tr",3,72 ,3540,5100000,5100000,1912
+Nacka,Finntorp,Finntorpsvägen 11,2,53 ,2903,2750000,2750000,1953
+Stockholm,Vasastan,"Karlbergsvägen 50, 4 tr.",4,103 ,5158,9675000,8750000,1903
+Solna,Hagalund,"Hagalundsgatan 44, 13tr",3,67.5 ,2734,3120000,2695000,1971
+Stockholm,Ulvsunda,Lindstigen 3,2,42 ,3388,2275000,2275000,1940
+Stockholm,Abrahamsberg,Registervägen 28,3,78 ,3512,3800000,3495000,1945
+Stockholm,Maria,"Sankt Paulsgatan 28 A, 3tr",2,57 ,3208,5725000,4650000,1881
+Stockholm,Maria,Bengt Ekehjelmsgatan 9,2,31 ,2364,3560000,2795000,1906
+Stockholm,Skarpnäck,"Horisontvägen 75, 1tr",3,80 ,5424,2200000,1895000,1984
+Stockholm,Katarina,Tideliusgränd 5,1,53 ,3313,3090000,2850000,2019
+Stockholm,NorraDjurgårdsstaden,Jaktgatan 33,2,48 ,2810,4375000,4195000,2016
+Sundbyberg,Sundbyberg,"Ågatan 20, 7 tr",3,75 ,3776,5210000,4390000,1998
+Solna,Råsunda,Näckrosvägen 9,2,54.5 ,3133,3800000,3350000,1944
+Sundbyberg,LillaAlby,Humblegatan 31B,3,71.5 ,4096,3830000,3495000,1995
+Stockholm,Östermalm,"Furusundsgatan 7, 2tr",3,69 ,4346,5450000,4995000,1941
+Stockholm,Ekhagen,Ekhagsvägen 10,3,71 ,3893,4850000,4250000,1935
+Stockholm,Gamla Stan,Pelikansgränd 2,1,42 ,2168,4200000,4200000,1600
+Stockholm,Östermalm,"Sandelsgatan 14, 3tr",1,34 ,1695,3150000,2695000,1962
+Stockholm,Husby,"Lofotengatan 23, 4tr",4,91 ,5914,2550000,1995000,1974
+Stockholm,Vasastan,"Rådmansgatan 75, 5tr",1.5,36 ,1645,3400000,2850000,1971
+Stockholm,Kista,"Kastrupgatan 14, 2 tr",4,100 ,5988,3200000,3195000,1977
+Stockholm,Södermalm,Slipgatan 2,1,33 ,1983,2700000,2595000,1939
+Stockholm,Liljeholmen,"Liljeholmstorget 18, vån 4",2,51.5 ,2539,3870000,3495000,2005
+Sundbyberg,CentralaSundbyberg,Vintergatan 1,2,43 ,2209,3050000,2495000,2015
+Stockholm,Östermalm,Östhammarsgatan 72A,2,41 ,2369,3995000,3995000,2019
+Stockholm,HammarbySjöstad,Heliosgatan 16C,1,31 ,2172,2175000,1995000,2018
+Stockholm,HammarbySjöstad,Heliosgatan 16C,1,34 ,2103,2250000,2250000,2018
+Solna,Arenastaden,"Evenemangsgatan 40, 12 tr",3,69 ,4399,4020000,3695000,2019
+Stockholm,Bromma,Broderivägen 19,2,43 ,2509,2650000,1995000,1945
+Stockholm,Stockholm,"Riddargatan 3B, 3 tr",3,66 ,3531,6050000,5875000,1980
+Solna,Skytteholm,"Framnäsbacken 14, ök",5,103 ,5528,4420000,4420000,1959
+Solna,Järvastaden,Honnörsgatan 27,4,99 ,4459,4800000,4395000,2008
+Stockholm,Kista,"Helsingörsgatan 38, 3tr",6,118 ,7278,3300000,2995000,1979
+Stockholm,Vasastan,"Torsgatan 42, 2tr",2,43 ,2185,4325000,3850000,1926
+Stockholm,Kungsholmen,Essingetorget 40,2,45 ,3123,2500000,2395000,1926
+Stockholm,Södermalm,Bellmansgatan 32,2,45 ,2655,4400000,3595000,1884
+Solna,Råsunda,"Råsundavägen 160, 4 tr",3,69.5 ,4220,4550000,3495000,1953
+Stockholm,Vasastan,"Tomtebogatan 33, 5 tr",4,127 ,4543,13550000,11500000,1911
+Solna,Råsunda,"Råsundavägen 162, 5tr",1,17 ,1324,1800000,1495000,1952
+Solna,SolnaCentrum,Centralvägen 15,1,19 ,910,2150000,1695000,1951
+Stockholm,Sköndal,Sköndalsvägen 88,3,79.3 ,4263,3150000,2495000,1995
+Stockholm,Bromma,Klintbacken 60 A,2,56 ,3525,2990000,2495000,2004
+Stockholm,Årsta,Steningevägen 5 / 8tr,2.5,62 ,3333,4200000,3695000,1946
+Solna,Ulriksdal,"Banmästargatan 4, 4 tr",2,69 ,3594,3400000,2795000,2011
+Stockholm,Vasastan,"Karlbergsvägen 82A, 4tr",2,54 ,2260,5275000,4850000,2011
+Stockholm,Stockholm,Älvsåkersgränd 29,3,83 ,4944,2375000,1995000,1968
+Stockholm,Kista,"Helsingörsgatan 14, 2tr",2,45 ,3123,1800000,1750000,1978
+Stockholm,Gärdet,Olaus Petrigatan 10,2,56 ,2985,4300000,4075000,1953
+Stockholm,Hägerstensåsen,Bäckvägen 161,2,52 ,2200,3025000,2495000,1944
+Solna,Järvastaden,Fridensborgsvägen 157,2,53.5 ,3018,2875000,2595000,2017
+Stockholm,Telefonplan,Flygelgatan 4,1,30 ,2072,2550000,2095000,2012
+Stockholm,Östermalm,"Valhallavägen 149, 3 tr",1,29 ,1266,2950000,2600000,1932
+Stockholm,Bromma,"Björkbacksvägen 57, vån 1",2,50 ,3096,2400000,1995000,1918
+Stockholm,Bromma,Björnsonsgatan 130,2,59 ,3224,2470000,2195000,1952
+Stockholm,Fredhäll,Frödingsvägen 4,2.5,49 ,2506,3425000,2995000,1931
+Stockholm,Gärdet,Furusundsgatan 11,2,34 ,2094,3200000,3300000,1938
+Stockholm,Östermalm,"Birger Jarlsgatan 72, 4 tr",2,44 ,1384,4475000,4475000,1994
+Stockholm,Stockholm,Sköntorpsvägen 118,2,54 ,2877,2650000,2700000,1945
+Stockholm,Akalla,Helsingforsgatan 23,2,39 ,2701,1315000,1295000,1975
+Sundbyberg,Sundbyberg,"Ursviksvägen 17,  2 tr",2,54.5 ,3160,3080000,2595000,1995
+Stockholm,Södermalm,Allhelgonagatan 7,2,50 ,2011,3950000,4050000,1936
+Stockholm,Vasastan,Tre Liljor 3,2,40 ,1676,4450000,4295000,1923
+Stockholm,AndelibostadsföreningHornstull,"Långholmsgatan 16, 4 tr",2,37 ,2071,3640000,2995000,1913
+Stockholm,Kungsholmen,"Ulriksborgsgatan 7, 12tr",3,71 ,3912,5260000,5150000,2007
+Stockholm,Kungsholmen,"John Ericssonsgatan 16, 3 tr",1,25 ,1635,2650000,2195000,1934
+Stockholm,Kungsholmen,Franzéngatan 80,3,88 ,4958,6400000,5975000,1934
+Stockholm,Fruängen,Eva Bonniers Gata 37,4,87 ,4819,4100000,3550000,1956
+Stockholm,Östermalm,"Artillerigatan 29, 2 tr",1,23 ,1376,3000000,2695000,1936
+Stockholm,Hagsätra,Frövigatan 20,3,66 ,3440,2050000,1995000,1958
+Stockholm,Vasastan,"Norrbackagatan 15, 2 tr",2,32 ,945,3520000,2995000,1906
+Stockholm,Södermalm,Maria Prästgårdsgata 41,3,68 ,2975,5900000,5495000,1906
+Stockholm,Aspudden,Sigfridsvägen 7,3,86 ,3058,6200000,5495000,1980
+Stockholm,Kungsholmen,Pontonjärgatan 16,2,55 ,3382,5000000,4395000,1930
+Stockholm,Vasastan,"Robert Almströmsgatan 8, 2tr",3,62 ,2388,6925000,5895000,1927
+Stockholm,Vasastan,Atlasgatan 5C,5,145 ,3736,14900000,14995000,1927
+Stockholm,Vasastan,"Norra Stationsgatan 119, 2,5 tr",1,31 ,1808,3150000,2795000,1913
+Stockholm,Högdalen,"Harpsundsvägen 65, 2tr",1,29 ,1501,1970000,1595000,1913
+Stockholm,Vasastan,"Tomtebogatan 16, 4tr",2,50 ,1751,5825000,4750000,1905
+Stockholm,Bandhagen,Trollesundsvägen 52,2,65.5 ,5493,1750000,1750000,1905
+Stockholm,Östermalm,Linnégatan 51,4,123 ,2422,13300000,10750000,1940
+Stockholm,Södermalm,"Tavastgatan 26A, 1tr",3,69 ,3409,7450000,6900000,1885
+Stockholm,Spånga,"Bygärdesvägen 4A, Vån 2",2,56 ,3524,1900000,1695000,1964
+Stockholm,Kärrtorp,Arkövägen 21A,1.5,38.5 ,1833,2275000,2275000,1950
+Stockholm,Årsta,"Storsjövägen 35, 3tr",4,89 ,5659,5610000,4995000,2007
+Solna,Vireberg,"Virebergsvägen 11, 5 vån",3,72 ,1890,4000000,3795000,1957
+Stockholm,HammarbySjöstad,"Virkesvägen 17, NB UTEPLATS",2,61 ,3523,3600000,3795000,1957
+Stockholm,Kungsholmen,"Igeldammsgatan 38, våning 4",2,42 ,2576,3400000,3250000,1930
+Stockholm,SpångaSolhem,Bennebolsgatan 34,3,67.5 ,4465,2700000,2590000,2005
+Stockholm,Kungsholmen,"Orvar Odds Väg 8, 5/5 tr",2,41 ,1877,4200000,3475000,1935
+Stockholm,Kungsholmen,Fridhemsgatan 16,2,34 ,2334,3115000,3100000,1896
+Sundbyberg,CentralaSundbyberg,"Vintergatan 4, 3 av 3tr",1,47 ,3269,3000000,2995000,1936
+Sundbyberg,CentralaSundbyberg,"Vintergatan 4, 3 av 3tr",1,47 ,3269,3000000,2995000,1936
+Stockholm,Södermalm,"Sankt Paulsgatan 28B, 3 tr",2,58 ,3265,5700000,4750000,1881
+Stockholm,Kungsholmen,"Ulriksborgsgatan 16, 8 tr",4,97 ,3864,6850000,6950000,2010
+Stockholm,Fruängen,Ellen Keys Gata 59,1,29 ,1763,2100000,1495000,1955
+Sundbyberg,AndelibostadsföreningSundbyberg,Landsvägen 51,2,32 ,1017,2825000,2490000,1912
+Stockholm,Vasastan,Surbrunnsgatan 43 B,2,51 ,2684,5100000,4495000,1909
+Stockholm,Skarpnäck,"Ballonggatan 10, Etage!",4.5,110 ,6769,3650000,2995000,1909
+Solna,Rudviken,Regnstigen 10,2,43 ,2030,2775000,2775000,1985
+Sollentuna,Tureberg,"Bagarbyvägen 6D, 1tr",3,81.1 ,3891,2750000,2295000,1968
+Sundbyberg,Järvastaden,Vinthundsgatan 111,2,54 ,2926,2470000,2375000,2012
+Stockholm,Östermalm,"Birger Jarlsgatan 42, 4 tr",2,78 ,2500,8100000,6995000,1918
+Stockholm,Gärdet,Blanchegatan 18,1.5, 1.5 ru,2081,3000000,3000000,1937
+Nacka,Henriksdalsberget,Henriksdalsringen 67,3,81 ,4874,3200000,2895000,1971
+Stockholm,Vasastan,Birkagatan 26,3,85 ,3627,8900000,7250000,1904
+Nacka,Saltängen,Beckasinvägen 37,1,39 ,2621,1800000,1777000,1955
+Stockholm,Södermalm,"Fatburs Brunnsgata 31, 2 tr",1.5,31.5 ,2118,2910000,2695000,1990
+Solna,Bergshamra,Åbergssons Väg 5,3,90 ,3725,4600000,3795000,1990
+Stockholm,Sofia,"Ringvägen 138, 2tr",2.5,52 ,2587,3600000,3295000,1974
+Stockholm,Aspudden,Blommensbergsvägen 130,3.5,82.5 ,5321,4800000,4195000,2003
+Stockholm,Kungsholmen,"Arbetargatan 28 A, 3 tr",2,68 ,2425,4600000,4750000,1969
+Stockholm,Södermalm,"Heleneborgsgatan 36, 1/2 tr",4,80 ,4858,6720000,5650000,1929
+Solna,Råsunda,"Gustafsvägen 14 B,  2 tr",3,66 ,2793,3525000,3600000,1929
+Stockholm,Vasastan,"Frejgatan 22, 2 tr",3,75 ,2696,7025000,7200000,1925
+Stockholm,Beckomberga,"Bäckbornas Väg 23, vån 4",3,66.5 ,4029,2300000,1995000,1991
+Stockholm,Västertorp,Skridskovägen 9C,3,70 ,4045,3625000,3650000,2008
+Stockholm,Östermalm,Grev Magnigatan 17 C,2,57 ,1626,6275000,5495000,1886
+Stockholm,Liljeholmen,"Nybohovsbacken 68, vån 5",2,52 ,3506,3770000,3295000,2008
+Stockholm,Östermalm,"Surbrunnsgatan 4, 1 tr",2,77 ,3009,6500000,5775000,1897
+Stockholm,Södermalm,"Metargatan 13, 3 tr",1,33 ,1777,2990000,2990000,1897
+Stockholm,Vasastan,"Gästrikegatan 20, 4 tr",2,65 ,2231,6100000,5995000,1904
+Stockholm,Årsta,"Järnlundsvägen 31, 3tr",4,88 ,5137,4800000,3695000,1904
+Nacka,Henriksdalsberget,"Henriksdalsringen 93, 5tr",3,81 ,4214,3195000,2995000,1904
+Stockholm,Katarina,"Tideliusgränd 5, 5 tr",3,86 ,4629,6795000,6795000,2019
+Stockholm,Traneberg,"Mössebergsvägen 28, 1tr",4,79 ,4488,4750000,4750000,1938
+Stockholm,Midsommarkransen,Tegelbruksvägen 42,3,67 ,4415,4110000,3650000,2006
+Nacka,VästraOrminge,Utövägen 16,3,93 ,5565,2120000,1995000,2006
+Sundbyberg,Järvastaden,"Brogatan 8, 4 tr",3,79.5 ,4180,4100000,3595000,2014
+Nacka,Ekudden,Ekuddsvägen 1,3,69 ,5502,2810000,2495000,2014
+Sundbyberg,Sundbyberg,"Hästhagsgatan 14, 2 tr",1,40 ,2202,2280000,1995000,1934
+Stockholm,Bromma,"Tunnlandsvägen 91, vån 6",2,61 ,2731,2735000,2695000,1998
+Nacka,Alphyddan,Alphyddevägen 35,4,96 ,4464,3330000,3295000,1962
+Stockholm,Östermalm,"Smedsbacksgatan 20, 4 tr",2,39 ,2939,3300000,2895000,1939
+Stockholm,Gullmarsplan,Grafikvägen 14,3,62 ,3215,3700000,3450000,1945
+Stockholm,JohannelundsTrädgårdsstad,"Rabattvägen 44, 2 tr",3,69.5 ,4373,2675000,2675000,2013
+Stockholm,Kungsholmen,Pontonjärgatan 4,2,59 ,4092,4850000,4650000,1931
+Stockholm,Bromma,Tallbacksvägen 12 3tr,3,71 ,3935,4200000,3325000,1918
+Stockholm,Liljeholmskajen,Vingårdsgatan 46,2,49.5 ,2677,3650000,3095000,2003
+Stockholm,Vasastan,"Hagagatan 17 B, 3tr",3,77 ,3545,7000000,7000000,1981
+Stockholm,Kungsholmen,"Fridhemsgatan 10, 2 tr",2.5,75 ,4024,5805000,5475000,1927
+Stockholm,Vasastan,Tre Liljor 2A,1,29 ,1616,2955000,2995000,1924
+Stockholm,Vasastan,Tre Liljor 2A,1,29 ,1616,2955000,2995000,1924
+Stockholm,Riksby,Spångavägen 52,2,42 ,3380,2300000,2300000,1924
+Stockholm,Vasastan,Sankt Eriksgatan 120,2,40 ,2896,3610000,3395000,1924
+Solna,Järvastaden,"Honnörsgatan 18, 2tr",3,71 ,4486,3595000,3595000,2008
+Stockholm,Kungsholmen,Geijersvägen 16 vån 3 av 4,3,75.5 ,3540,5300000,4995000,1980
+Sundbyberg,LillaAlby,Hamngatan 26,2,41.5 ,2602,2800000,2495000,2012
+Stockholm,Bagarmossen,Svartågatan 47,3,59.5 ,4060,3075000,3150000,1954
+Stockholm,HammarbySjöstad,Heliosgatan 16B,1,34 ,2103,2200000,1995000,2018
+Stockholm,Bandhagen,Läggestavägen 16,2,57 ,3148,2470000,1995000,1953
+Sollentuna,Edsberg,Kruthornsvägen 28,3,66 ,3525,2030000,1895000,1964
+Sundbyberg,LillaAlby,Hamngatan 26,1.5,34 ,2485,2675000,2750000,2012
+Stockholm,Kungsholmen,Fridhemsplan 25,2,36 ,1996,3175000,2995000,1938
+Stockholm,Kärrtorp,Gåshällsvägen 10,3,70 ,3975,3575000,2950000,1952
+Solna,VästraSkogen,Infanterigatan 27,3,66.5 ,3561,3300000,3300000,1952
+Stockholm,Älvsjö,"Kavelbrovägen 10, 4 tr",5,136 ,6533,6150000,5650000,2013
+Stockholm,Hässelby,"Enspännargatan 12a, 5tr",1,33 ,1994,1650000,1650000,2018
+Stockholm,Vasastan,"Rörstrandsgatan 54, 5tr",2,60 ,3046,5565000,4995000,1908
+Stockholm,Sätra,Eksätravägen 414,2,44 ,2897,2175000,2095000,1908
+Solna,SolnaVästraSkogen,Armégatan 36F,3,81 ,4458,4100000,4100000,2015
+Stockholm,Södermalm,"Lundagatan 36A, 2 tr",2,45.5 ,2277,3900000,3495000,1930
+Stockholm,Kungsholmen,"Fridhemsgatan 10, 2 tr",3,75 ,4024,5805000,5475000,1927
+Solna,Råsunda,Backvägen 1,3,77 ,3568,3875000,3995000,1954
+Stockholm,Bromma,Gustav III:s Väg 52,2.5,58 ,3109,3200000,2995000,1992
+Solna,Råsunda,"Idrottsgatan 6, 5 tr",3,86 ,4354,5200000,5300000,1911
+Stockholm,Vasastan,Tomtebogatan 16,1.5,39 ,1297,3925000,3295000,1904
+Stockholm,GamlaEnskede,Nynäsvägen 337,3,75 ,3839,4300000,4400000,1927
+Stockholm,Kungsholmen,Sankt Eriksgatan 4,2,65 ,3245,4600000,4495000,1926
+Stockholm,Björkhagen,Läckövägen 8,3,53 ,2903,3100000,2595000,1943
+Sundbyberg,Sundbyberg,"Vattugatan 9, 4 av 4 tr",4,107.5 ,4641,5610000,4995000,1958
+Stockholm,Vasastan,Upplandsgatan 49,1,29 ,1686,3200000,2995000,1971
+Sollentuna,Edsberg,Kaplansbacken 5 B,1,29 ,1874,1450000,1495000,1962
+Stockholm,Östermalm,Erik Dahlbergsgatan 71,4,104 ,4483,7695000,7695000,1992
+Stockholm,Vällingby,"Östersundsgatan 7, 10 tr",1.5,54 ,2731,2200000,1995000,1992
+Stockholm,Spånga,Stridsbergavägen 2,2,62 ,4789,1800000,1695000,1965
+Stockholm,Vasastan,"Tomtebogatan 11, 3 tr",2,70 ,2749,6750000,6750000,1965
+Stockholm,Högalid,"Brännkyrkagatan 88, 5+6 tr",5,94 ,4863,8810000,7750000,1933
+Sundbyberg,CentralaSundbyberg,Vintergatan 17,2,53 ,2750,3275000,2695000,1996
+Stockholm,Vasastan,"Norrtullsgatan 36, 1,5tr.",2.5,49 ,2659,3810000,3495000,1939
+Nacka,HammarbySjöstad,Skeppsmäklargatan 49,3,82 ,3757,4600000,4600000,2019
+Stockholm,Hornstull,"Slipgatan 5, mini 2:a",1,24 ,1260,2725000,2495000,1939
+Stockholm,GamlaEnskede,Enskedevägen 98A,2,58 ,2294,3120000,2695000,1939
+Stockholm,Hornstull,"Drakenbergsgatan 8, 7tr",3,85 ,3533,6110000,5150000,1967
+Stockholm,Vasastan,"Tomtebogatan 1 B, 6tr.",2.5,71 ,2019,7350000,6495000,1929
+Stockholm,Telefonplan,Hökmossevägen 68,2,39 ,2672,2180000,1795000,1929
+Stockholm,Årsta,"Årstavägen 73, 2/4tr",2,44.5 ,3033,2700000,2095000,1945
+Stockholm,Vällingby,"Råcksta gårdsväg 21, Vån 1",2,47 ,3141,2195000,2195000,2012
+Stockholm,Enskededalen,Grusåsgränd 84,2,64 ,2931,2750000,2495000,1979
+Stockholm,Hässelby,"Blomsterkungsvägen 116A, Vån 1",2,59.5 ,2871,2055000,1995000,2019
+Stockholm,Östermalm,"Sandelsgatan 16, 1 tr",3,77.5 ,3562,7400000,6550000,1963
+Nacka,Eknäs,Höjdvägen 5B,3,74 ,4165,2650000,2495000,1963
+Stockholm,Medborgarplatsen,Tjärhovsgatan 14,2,42 ,1046,3900000,3495000,1914
+Stockholm,Telefonplan,Mobilgatan 10,4,101 ,5377,6200000,5495000,2015
+Stockholm,Husby,Lofotengatan 16,2,55 ,4017,1900000,1595000,2015
+Stockholm,Södermalm,"Kocksgatan 28, 1 tr ög",2,60 ,2088,5225000,4975000,1904
+Solna,Råsunda,Solnavägen 98B,1.5,34 ,2624,2670000,2295000,2017
+Stockholm,ÄlvsjöLångbroPark,"Blågransvägen 6, 1 tr",4,84 ,5259,4100000,4195000,2005
+Stockholm,Kungsholmen,Rålambsvägen 16 A,4,104 ,5709,6950000,5995000,2005
+Stockholm,Hjorthagen,Lanforsvägen 27,2,44 ,2961,3300000,2995000,1936
+Stockholm,Tensta,"Skäftingebacken 25, Våning 4 av 4",4,94 ,6447,2100000,1850000,1969
+Sollentuna,Kärrdal,Lomvägen 617,2,69 ,4415,1900000,1850000,1973
+Sollentuna,Silverdal,Tegelhagsvägen 8 D,4,76 ,5028,3600000,3600000,2005
+Stockholm,Hägerstensåsen,"Lotterivägen 4, vån 3 av 3",2,58 ,3149,3125000,2695000,1946
+Solna,Huvudsta,"Jungfrudansen 56, vån 6/6",2,60.5 ,2582,3220000,2995000,1971
+Solna,VästraSkogen,"Armégatan 5, vån 6",3,81 ,4729,4340000,3995000,1971
+Solna,Råsunda,"Gränsgatan 22, vån 6/8",2,55 ,3015,3700000,3795000,2019
+Stockholm,Spånga,Erik Tegels Väg 41,1.5,49 ,2700,1750000,1595000,1963
+Stockholm,Kärrtorp,"Söderarmsvägen 1, 3tr",3,59 ,3086,2910000,2450000,1949
+Stockholm,Södermalm,Kocksgatan 40,2,34 ,2118,3250000,2850000,1939
+Stockholm,Vasastan,"Birger Jarlsgatan 115 B, 6tr VUP L8",2,56 ,2198,5850000,5750000,1913
+Stockholm,Kungsholmen,Kungsholmsgatan 12 ,4,103 ,4347,9800000,8750000,1906
+Stockholm,Vasastan,"Dalagatan 39, 1tr",3,99 ,4616,9400000,8350000,1912
+Stockholm,Vasastan,"Hälsingegatan 31, 4tr",1,40.5 ,1700,3730000,2995000,1924
+Sollentuna,Edsbacka,Platåvägen 30,3,81 ,5004,3050000,2995000,1985
+Stockholm,Kista,"Helsingörsgatan 34, 3 tr ",3,81 ,4902,2480000,2295000,1976
+Solna,Råsunda,"Råsundavägen 168, VÅN 2, 2-1203",2,50 ,2792,3200000,3200000,2019
+Stockholm,Spånga,Holmingegränd 13,2,62 ,4430,1600000,1600000,1968
+Sollentuna,Edsbacka,Platåvägen 24,2,67.5 ,4167,3150000,3150000,1985
+Stockholm,Midsommarkransen,"Tellusborgsvägen 81, vån 4/4",3,73 ,4093,4620000,4195000,2011
+Stockholm,Bandhagen,"Fjugestagränd 23, 1tr",3,67 ,3386,2200000,1750000,1960
+Stockholm,Södermalm,"Pokalvägen 4, 6tr",2,40 ,2416,3200000,3200000,1944
+Stockholm,Södermalm,"Anders Reimers Väg 8, 2tr",2,44 ,2853,3370000,3395000,1943
+Stockholm,Skarpnäck,Pilottorget 5,4,101.5 ,5784,3750000,2995000,1943
+Stockholm,Hammarbyhöjden,"Ystadsvägen 79, 2 tr",2,52 ,3075,3080000,2795000,1947
+Stockholm,Östermalm,"Rindögatan 24, 3tr",1,23 ,1537,2700000,2195000,1938
+Stockholm,Östermalm,"Furusundsgatan 14, 2tr",2,57 ,2943,4800000,3995000,1938
+Stockholm,Enskede,Rangstagatan 18,2,45 ,2817,2535000,2145000,2017
+Stockholm,Stockholm,Fridhemsgatan 6,3,108 ,3893,8725000,7995000,1923
+Stockholm,Bromma,Holbergsgatan 148,3.5,69 ,3831,3100000,2790000,1952
+Stockholm,Katarina,Fiskargatan 9,2.5,66 ,2575,6800000,6495000,1906
+Solna,Frösunda,Gustav III:s Boulevard 105,4,106 ,5604,5470000,4950000,2006
+Stockholm,Gamla Stan,"Skeppar Karls Gränd 6, 3 tr",2,50 ,937,5320000,4795000,1618
+Solna,Råsunda,Lövgatan 64,1.5,42 ,1772,2900000,2695000,1911
+Stockholm,Bromma,Gustav lll:s väg 78,4,97 ,5235,5400000,4995000,2009
+Stockholm,Vasastan,"Birkagatan 10, 2 tr",3,66 ,1458,6470000,5795000,1927
+Stockholm,Södermalm,Tjärhovsgatan 22,1,19 ,2183,2150000,1795000,1939
+Stockholm,Södermalm,Jägargatan 1,4,78 ,3649,6000000,4995000,2005
+Stockholm,Stadshagen,"Ulriksborgsgatan 7, 16tr",2,59.5 ,3376,4410000,3995000,2006
+Solna,Bergshamra,Rådjursstigen 42,4,101.5 ,4172,5350000,4195000,1959
+Solna,Bergshamra,Barks Väg 16,3,86 ,4153,4700000,4195000,1986
+Stockholm,Örnsberg,"Gösta Ekmans Väg 37, 7tr",3,81.2 ,3923,5300000,4495000,1969
+Stockholm,Stockholm,Katarina Bangata 48,1,34 ,1825,3375000,2750000,1904
+Stockholm,Vasastan,"Rörstrandsgatan 15, 1 tr",1,29 ,1664,3250000,3250000,1928
+Stockholm,Vällingby,Jämtlandsgatan 154,2,60 ,3495,2370000,2095000,1953
+Solna,Råsunda,Åsvägen 5,1,27.5 ,1866,2300000,1795000,1948
+Stockholm,Vasastan,"Birkagatan 24, 1 tr ög",2,50 ,2523,5360000,4750000,1905
+Stockholm,Fruängen,"Doktor Widerströms Gata 36, 1TR",1,30 ,2232,1900000,1495000,1953
+Stockholm,Bagarmossen,Emågatan 38,2,66 ,3744,2950000,2395000,1952
+Stockholm,Stureby,Östrandsvägen 80,2,62 ,3324,2350000,2150000,1950
+Stockholm,Södermalm,Tideliusgatan 55,4.5,94 ,4174,6175000,5975000,1968
+Stockholm,Bromma,Minnebergsvägen 5,3,70 ,2677,5075000,4395000,1938
+Stockholm,Aspudden,"Hägerstensvägen 191, vån 3",2,47 ,3303,2850000,2295000,1936
+Stockholm,Kungsholmen,"Ernst Ahlgrens Väg 5, 1,5tr",2,38 ,2112,3300000,2895000,1933
+Stockholm,Ålsten,Ålstensgatan 14,2,51 ,1086,3350000,2895000,1934
+Stockholm,Årsta,Årstavägen 66,3,73 ,3863,4020000,3475000,1946
+Solna,Skytteholm,"Ankdammsgatan 25, 3 tr",2,61 ,3041,3100000,2595000,1958
+Stockholm,HornsbergsStrand,"Warfvinges väg 15, 2 tr",2,46 ,2062,3850000,3600000,1958
+Stockholm,Högalid,"Lundagatan 36B, 3tr",1.5,30 ,1610,2800000,2495000,1930
+Stockholm,Kungsholmen,Alströmergatan 45,3,72 ,3017,6750000,5895000,1911
+Stockholm,Aspudden,Vallfartsvägen 6,1,35 ,2201,2500000,2295000,1939
+Stockholm,Årsta,Siljansvägen 49,2,57 ,3544,3000000,2475000,1947
+Stockholm,Kungsholmen,Atterbomsvägen 38,2,49 ,2438,3650000,3450000,1935
+Stockholm,Vällingby,"Jämtlandsgatan 99, Vån 7 (13072)",1,36 ,1905,2100000,1750000,2018
+Stockholm,Skarpnäck,Horisontvägen 87D,2,68 ,4788,2275000,1895000,1989
+Stockholm,Kungsholmen,"Polhemsgatan 8, 1 tr",4,98 ,3780,7700000,7750000,1934
+Stockholm,Hässelby,Melongatan 22,2,42 ,3035,1925000,1795000,2010
+Nacka,Saltängen,Ugglevägen 32A,1,28 ,1553,1800000,1695000,1950
+Stockholm,Hammarbyhöjden,Petrejusvägen 16,3,85 ,4728,5025000,4295000,1993
+Stockholm,Södermalm,Hornsgatan 107 / Drakenbergsgatan 8,2,64 ,2660,4700000,3895000,1967
+Stockholm,Årsta,"Slätbaksvägen 18, 1tr",2,44.5 ,2758,2740000,2350000,1943
+Stockholm,Årsta,Sköntorpsvägen 95,2,55 ,2727,3200000,2695000,1945
+Stockholm,Beckomberga,Beckombergavägen 213,3,69 ,4267,3725000,3475000,2014
+Solna,Jungfrudansen,Jungfrudansen 40,2,72 ,3117,3325000,2995000,1971
+Stockholm,Vällingby,"Jämtlandsgatan 150, 6tr",2,60 ,3573,2200000,1995000,1952
+Stockholm,Fruängen,Lotta Svärds Gränd 7,2,59 ,3263,2900000,2595000,2014
+Stockholm,Östermalm,Östermalmsgatan 68A,5,201 ,8268,22400000,23000000,1906
+Solna,Råsunda,"Hasselstigen 5, vån 3 av 5",1,25 ,1588,2350000,1990000,1948
+Stockholm,Kungsholmen,"Kungsholms strand 103, 4tr",3,73 ,4857,6200000,5495000,1997
+Stockholm,Kungsholmen,"Lars Forssells gata 34, 6 tr",4,102 ,5601,8500000,7750000,2013
+Stockholm,Gamla Stan,"Skottgränd 7, 4 & 5 tr",2,54 ,3967,4850000,4950000,1623
+Stockholm,Östermalm,Karlavägen 84,2,71 ,2077,6250000,6495000,1897
+Stockholm,Södermalm,"Ringvägen 161, 3 tr",2,40 ,1431,3725000,2995000,1897
+Nacka,Nackastrand,"Augustendalsvägen 23, vån 6",2.5,107 ,5558,5950000,5950000,1995
+Stockholm,Riksby,Spångavägen 16,2,56 ,3870,2370000,1995000,1995
+Stockholm,Södermalm,"Skaraborgsgatan 6A, 3tr",4,77 ,5541,7000000,6750000,1856
+Stockholm,Mariehäll,Fredriksbergsvägen 12,2,51 ,3399,2680000,2680000,1929
+Stockholm,Östermalm,Grevgatan 35,3,79 ,4213,8800000,8500000,1928
+Nacka,NackaForum,Romansvägen 44,3,83.5 ,4666,3800000,3495000,1928
+Stockholm,Älvsjö,Blågransvägen 6 1tr,3,84 ,5259,4850000,4995000,2005
+Stockholm,Hägersten,"Piruettvägen 5, vån 11",3,91 ,4761,6400000,5895000,2009
+Stockholm,Hägersten,"Piruettvägen 5, vån 11",3,91 ,4761,6400000,5895000,2009
+Stockholm,Östermalm,Linnégatan 32,3.5,115 ,3896,13500000,13900000,1888
+Nacka,NackaForum,Per Hallströms Väg 12,3,81 ,4908,2775000,2500000,1962
+Stockholm,Vasastan,"Luntmakargatan 59, 2tr.",1,27 ,1681,3345000,2695000,1943
+Solna,Hagalund,"Kyrkbacken 5, 2tr",2,64 ,4037,2800000,2800000,1973
+Stockholm,Högalid,"Tantogatan 63, 10 tr",3,80 ,3425,7350000,7495000,1965
+Stockholm,Kärrtorp,Söderarmsvägen 6,2,57 ,3355,2975000,2975000,1950
+Sundbyberg,Ursvik,Forskargränd 1,4,107 ,5303,5050000,4995000,2018
+Nacka,Jarlaberg,Diligensvägen 116,6,132.5 ,8840,2975000,2975000,1987
+Stockholm,Kista,"Helsingörsgatan 16, 5tr",3,77 ,4892,2285000,2195000,1978
+Stockholm,Östberga,Stamgatan 21,3,69.5 ,4765,2290000,2290000,1959
+Stockholm,Örnsberg,Hägerstensvägen 231,4,82 ,4905,4925000,4195000,2010
+Nacka,FinnbodaHamn,Finnboda parkväg 22B,3,77 ,4166,4000000,3995000,2009
+Stockholm,Vasastan,Hagagatan 15 E,3,77 ,3545,6520000,5850000,1979
+Stockholm,Katarina,Hallandsgatan 46 A,1,26 ,1751,3000000,2495000,1929
+Stockholm,Katarina,"Södermannagatan 37, 2 tr",1,36.8 ,1414,3010000,2775000,1973
+Stockholm,Årsta,"Slätbaksvägen 13, 2tr",2,44.5 ,2905,2425000,2095000,1943
+Stockholm,Vällingby,"Abiskovägen 6, våning 8",3,70 ,3647,3150000,2395000,1954
+Stockholm,Stockholm,Heliosgatan 16B,1,33 ,2103,2200000,1995000,2018
+Stockholm,HammarbySjöstad,Fredriksdalsgatan 12,1.5,43.5 ,2422,3000000,2895000,2017
+Stockholm,Gärdet,"Kallskärsgatan 5, 2 tr",2.5,51 ,2360,4500000,3950000,1935
+Stockholm,Kista,"Borgarfjordsgatan 21 B, våning 5",3,80 ,4585,2800000,2800000,1935
+Stockholm,Kista,Lollandsgatan 5,2,56 ,3468,1750000,1750000,1980
+Stockholm,Gröndal,Gröndalsvägen 118,1,25 ,1242,2170000,1695000,1959
+Solna,SolnaFristaden,Skytteholmsvägen 41,2,45 ,2841,2790000,1995000,2003
+Stockholm,Årsta,"Sköntorpsvägen 18, 3 tr",3,76 ,3717,4330000,3795000,1948
+Stockholm,Bromma,Björnsonsgatan 58,3,69 ,4332,3200000,2990000,2006
+Stockholm,Bromma,Holbergsgatan 98,3,69 ,3831,2950000,2790000,1952
+Stockholm,Bromma,Wergelandsgatan 36,3,70 ,3613,2850000,2790000,1951
+Stockholm,Kungsholmen,"Sankt Eriksgatan 41, mot gård, 2 tr",1,28 ,819,2760000,2395000,1937
+Stockholm,Kista,Sorögatan 15,4,100 ,5100,3125000,2695000,1937
+Stockholm,Globen,"Bildhuggarvägen 10, 4 tr",3,61 ,3464,4245000,3495000,1937
+Stockholm,Aspudden,Hägerstensvägen 139,2,32 ,2060,2775000,2195000,1939
+Stockholm,Fruängen,Elin Wägners gata 43,2,55 ,3871,2760000,1995000,1958
+Stockholm,Råcksta,Multrågatan 122,1,46 ,2834,1740000,1595000,1953
+Stockholm,Nytorget,Brännerigatan 5,2,48 ,2683,4100000,3900000,1953
+Stockholm,Hägerstensåsen,Inteckningsvägen 66,1,35 ,2441,2450000,1695000,1945
+Solna,GamlaHuvudsta,"Huvudstagatan 12, 2 tr",4,111 ,4392,4140000,3795000,1967
+Stockholm,Enskede,Sockenvägen 480,2,56 ,4055,3200000,3200000,1945
+Nacka,VästraOrminge,Ormingeringen 3,4,93 ,5770,2230000,1995000,1968
+Stockholm,Liljeholmen,"Marieviksgatan 44, 3tr",3,87 ,4502,4850000,4995000,2010
+Stockholm,Bromma,"Tackjärnsvägen 14, 2 tr",3,78.5 ,3404,5125000,4495000,1989
+Stockholm,Södermalm,Kvarngatan 2,1,42.5 ,2347,3370000,3250000,1989
+Stockholm,Gubbängen,Karmstolsvägen 2,2,60 ,3262,2670000,2250000,1947
+Stockholm,Midsommarkransen,Telefonvägen 23 ,3,72 ,3945,4450000,3695000,1993
+Solna,Järvastaden,"Fridensborgsvägen 125, 3tr av 4 ",5,108 ,5696,5350000,5350000,2018
+Solna,Arenastaden,"Evenemangsgatan 34, VÅNING 14",3,69 ,4370,4300000,3995000,2018
+Stockholm,Midsommarkransen,"Fastlagsvägen 34, 2tr",3,65 ,4387,4480000,3495000,1949
+Sundbyberg,SundbybergJärvastaden,"Boplatsvägen 4, 2tr",4,85 ,4725,3775000,3495000,2017
+Stockholm,Gröndal,Sjöbjörnsvägen 20,2.5,58 ,3650,4125000,3795000,1946
+Solna,SolnaUlriksdal,Drottning Kristinas Esplanad 65,2,42 ,2415,2700000,2295000,2014
+Stockholm,Södermalm,"Lundagatan 48B, 2 tr",1.5,27 ,1503,3150000,2495000,1937
+Stockholm,JohanneshovGloben,Skulptörvägen 6,2,52 ,3761,2490000,2395000,1945
+Stockholm,Östermalm,"Sandelsgatan 28, 3tr",4,93 ,3216,8400000,7250000,1951
+Stockholm,NorraDjurgårdsstaden,"Drevergatan 3, 1 tr",2,54.5 ,2792,4475000,4475000,2017
+Stockholm,Östermalm,"Sandhamnsgatan 25, 5tr",2,60 ,1992,4300000,3995000,1962
+Stockholm,Hägersten,Kristallvägen 50,2,44 ,2001,2300000,1895000,1950
+Stockholm,Bromma,Stångjärnsvägen 8,2,46 ,2641,2325000,1995000,1946
+Stockholm,Bromma,Gubbkärrsvägen 29E,1,27 ,1785,2025000,1995000,1950
+Stockholm,Kungsholmen,"Pontonjärgatan 35, 2 tr",2,42 ,1786,3850000,3495000,1931
+Stockholm,Östermalm,"Grev Magnigatan 10a, 1 tr ög",2,44 ,2142,4770000,4750000,1894
+Stockholm,Stureby,Tussmötevägen 188,2,50 ,2845,3125000,2950000,1929
+Stockholm,Enskededalen,Kyrkogårdsvägen 57,1,40 ,2172,2850000,2195000,1921
+Solna,SolnaCentrum,"Klippgatan 24C, 4tr",2,59.5 ,1828,3260000,2495000,1964
+Solna,Järvastaden,Fridensborgsvägen 127,2,45 ,3000,2550000,2475000,2017
+Stockholm,Bromma,Mariehällsvägen 8,2,40.7 ,3039,2455000,2295000,2003
+Stockholm,GamlaEnskede,Fågelkärrsvägen 2C,1.5,44 ,2473,2585000,2350000,1927
+Solna,Bergshamra,Björnstigen 129,4,94 ,3232,4450000,4425000,1959
+Stockholm,Kungsholmen,Kronobergsgatan 7,2,57 ,2553,4970000,4295000,1905
+Stockholm,Kungsholmen,Love Almqvists väg 4a,2,44.5 ,3395,3500000,2950000,1935
+Solna,Järvastaden,Våtmarksvägen 33,5,111.5 ,3744,6080000,5795000,2015
+Stockholm,Östermalm,"Jungfrugatan 64, 1/2 tr",1,28 ,658,3100000,2495000,1936
+Stockholm,Bandhagen,Trollesundsvägen 28B,2,62 ,5428,2050000,1950000,1993
+Stockholm,Kungsholmen,Lindhagensgatan 59,2,50 ,2569,3635000,3395000,1929
+Stockholm,Kungsholmen,Lidnersplan 10,1,32 ,1880,2675000,2495000,1939
+Solna,Råsunda,"S:t Ansgars väg 10 A, 2 tr",2,32 ,2189,2620000,2195000,1940
+Stockholm,Kungsholmen,Kristinebergsvägen 7,2,38 ,1896,3450000,2995000,1926
+Stockholm,Södermalm,Lundagatan 52,3,76 ,3549,7680000,6395000,1932
+Stockholm,Hagastaden,"Nina Einhorns gata 10, 4tr",2,54 ,3230,4000000,3900000,2018
+Stockholm,Östermalm,Östhammarsgatan 77,2,55.6 ,3428,4500000,3875000,1944
+Stockholm,Vasastan,Västmannagatan 28A,3,97.6 ,4225,8150000,6995000,1898
+Sollentuna,SollentunaHelenelund,Parkvägen 12,1,31 ,1809,2050000,1795000,2015
+Stockholm,Kungsholmen,"Essingestråket 29, vån 2",2,47 ,2826,3200000,2995000,1939
+Stockholm,Årsta,Eklångsvägen 19,2,42.7 ,2300,2550000,2295000,1944
+Stockholm,NedreGärdet,"Strindbergsgatan 44, 1/2 tr",2,39 ,2233,3600000,3600000,1932
+Stockholm,Årsta,Åmänningevägen 18,3,66 ,3996,4150000,3375000,1947
+Stockholm,Årsta,Årstavägen 83,1,25.5 ,1899,2230000,1895000,1945
+Stockholm,Vasastan,Birger jarlsgatan 104 I,1,24 ,1499,2650000,2395000,1929
+Stockholm,HammarbySjöstad,"Lugnets allé 54, vån 2",3,92.5 ,5320,5770000,5495000,2000
+Stockholm,Telefonplan,Mellanbergsvägen 21,2,44 ,3014,2300000,1995000,1943
+Solna,Huvudsta,Göran perssons väg 43,3,80 ,4445,3120000,2895000,1970
+Stockholm,STUREBY,Skönviksvägen 315,3,69 ,4231,3270000,3200000,1952
+Stockholm,Södermalm,Brännkyrkagatan 45,1,35 ,2151,2950000,2795000,1911
+Stockholm,Midsommarkransen,"Svandammsvägen 30, vån 2/3",2,37 ,3225,2600000,2375000,1938
+Stockholm,Liljeholmskajen,Hildebergsvägen 24,1.5,38 ,2970,2465000,1995000,2005
+Nacka,Jarlaberg,Diligensvägen 34,3,75 ,4771,2795000,2795000,1988
+Stockholm,Högdalen,Skebokvarnsvägen 376,1,33 ,2382,1820000,1695000,2007
+Stockholm,Skärmarbrink,Pastellvägen 14,3.5,75 ,3299,3650000,3195000,1943
+Stockholm,Kungsholmen,"Sankt Eriksgatan 19, 3 tr",3,72 ,1934,6450000,5975000,1912
+Nacka,Saltsjöbaden,"Svartkärrsvägen 12, 3tr",3,86.3 ,4617,2350000,2395000,1970
+Stockholm,Blåsut,Hållövägen 14,2,61 ,3558,3710000,2995000,2011
+Stockholm,Södermalm,Siargatan 11,3,80 ,3999,5075000,4500000,1965
+Stockholm,Kungsholmen,Pontonjärgatan 8,2,39 ,1478,3520000,2995000,1934
+Sundbyberg,Hallonbergen,Lötsjövägen 35,3,82.1 ,3693,2700000,2295000,1970
+Stockholm,Hammarbyhöjden,Finn Malmgrens väg 67,3,70 ,4332,4400000,3750000,1943
+Stockholm,Vasastan,Hagagatan 46 A,3,67 ,3448,6475000,5950000,1908
+Stockholm,Södermalm,S:t Paulsgatan 35 B,5,168 ,7097,17250000,14500000,1890
+Stockholm,Kungsholmen,Ernst Ahlgrens väg 3,1,33.5 ,1825,2950000,2950000,1890
+Stockholm,LillaEssingen,"Primusgatan 82, 6tr",3,84.5 ,4828,7300000,7495000,2004
+Nacka,Sickla,"Sickla Allé 9, 3tr",2,50 ,3312,3360000,2995000,2007
+Stockholm,Östermalm,Rådmansgatan 11,5,126 ,2967,14000000,13750000,2007
+Stockholm,Östermalm,Kaptensgatan 14A,2,53 ,1785,5825000,5475000,1882
+Stockholm,Vasastan,Birger Jarlsgatan 104 N,1,20.5 ,1559,2620000,2095000,1929
+Stockholm,Vasastan,"Dalagatan 86 F, 1/2 tr",1,36 ,1836,3255000,2995000,1929
+Stockholm,Östermalm,Grev Turegatan 59 A,3,90 ,4239,10500000,10500000,1898
+Stockholm,Östermalm,Jungfrugatan 64,2,50 ,1128,4550000,4250000,1936
+Stockholm,Örby,Bettnavägen 46 2tr,1,44 ,1919,2330000,1795000,1963
+Stockholm,Riksby,Galonvägen 14,1.5,44 ,2258,2700000,2395000,1943
+Stockholm,Årsta,"Sandfjärdsgatan 17, 3tr",1.5,40 ,2314,2300000,1895000,1961
+Stockholm,Gullmarsplan,Etsarvägen 4,5,102 ,4505,6050000,5995000,1946
+Sollentuna,Kärrdal,Lomvägen 32,1,35 ,2242,1550000,1550000,1972
+Stockholm,Beckomberga,Beckombergavägen 216,5,103.5 ,5412,4695000,4695000,2014
+Stockholm,Årsta,"Gullmarsvägen 29, 1tr",1,25 ,2651,2100000,1795000,1946
+Stockholm,Årsta,"Sköntorpsvägen 118, 2tr",2,54 ,2657,2930000,2495000,1945
+Stockholm,Liljeholmskajen,"Sturehillsvägen 6, 4tr",2,70 ,4366,4100000,3495000,2016
+Stockholm,Vasastan,"Odengatan 30, 5 tr",2,43 ,941,5000000,4295000,1966
+Sundbyberg,LillaAlby,Albygatan 118,2,47 ,2901,2830000,2595000,1966
+Stockholm,Vasastan,"Norra Stationsgatan 119, 1 tr",2,60 ,3499,4600000,4495000,1913
+Stockholm,Annedal,Dartanjangs gata 46,2,54 ,3447,2920000,2595000,2013
+Nacka,NackaForum,Serenadvägen 7 C,3,79.5 ,4706,3300000,3495000,2008
+Stockholm,Högalid,Tantogatan 13,2,53 ,4188,3400000,3195000,1952
+Stockholm,Kungsholmen,"Igeldammsgatan 12, 5 tr",1,37 ,1830,3450000,2995000,1929
+Solna,Skytteholm,Nybodagatan 2,3,85.7 ,4264,3500000,3500000,1959
+Stockholm,Bromma,"Registervägen 24, 3/3 tr",2,40 ,1828,2670000,2195000,1944
+Stockholm,Bromma,Askängsbacken 44,6,139 ,5591,8330000,7450000,2013
+Stockholm,Hammarbyhöjden,Thunbergsgatan 6,2,45 ,3210,2750000,2450000,1939
+Stockholm,Stockholm,Drottningholmsvägen 9,2,64 ,1623,5290000,4995000,1905
+Stockholm,HornsbergsStrand,"Hornsbergs Strand 15D, Vån 3",3,79 ,3950,6510000,5895000,2015
+Stockholm,Södermalm,"Maria Prästgårdsgata 24, 2 tr",1,37 ,2083,3800000,3275000,1882
+Sundbyberg,CentralaSundbyberg,"Tulegatan 6D, 4/4tr",2,33 ,1910,3000000,2395000,1936
+Stockholm,Globen,"Pelargatan 4, 3 tr",1,30 ,2914,2400000,1995000,1942
+Stockholm,Vällingby,Jämtlandsgatan 102,2,59 ,3462,1995000,1995000,1952
+Stockholm,Vasastan,"Karlbergsvägen 74, 4tr",3,78 ,2536,6170000,5995000,1985
+Nacka,FinnbodaHamn,Kvarnholmsvägen 39A,3,81.5 ,5222,4600000,4395000,2008
+Nacka,FinnbodaHamn,Finnboda Parkväg 20a,3,77 ,4080,4800000,4495000,2009
+Stockholm,Södermalm,Lundagatan 36C,2,42 ,2029,4175000,3495000,1930
+Solna,HagaNorra,Broddgatan 1,2,63 ,2803,3350000,2795000,1930
+Solna,GamlaHuvudsta,Polhemsgatan 7,3,83 ,3725,3750000,3495000,1979
+Stockholm,Hammarbyhöjden,Åkerbladsgatan 6,2,43 ,3095,2700000,2700000,1936
+Stockholm,Vasastan,"Torsgatan 72, 5tr",3,82 ,3751,8200000,6995000,1929
+Stockholm,Vasastan,"Hagagatan 44, 2tr",2,72 ,3052,5800000,5295000,1909
+Stockholm,Johanneshov,Nathorstvägen 38,2,41 ,3152,2655000,2395000,1995
+Stockholm,Farsta,Molkomsbacken 7,1,38 ,1832,2140000,1795000,1959
+Stockholm,Kungsholmen,"Kungsklippan 20, 4 tr",2,32.5 ,2548,3060000,2650000,1934
+Stockholm,Liljeholmskajen,Sturehillsvägen 39,2,55 ,3508,3400000,2795000,2009
+Stockholm,Vasastan,"Hagagatan 22, 3tr",4,120 ,5456,11000000,9995000,1924
+Sundbyberg,Rissne,Mjölnerbacken 72,2,53 ,2634,2425000,1995000,1986
+Stockholm,Bromma,Klintbacken 1,1,25 ,1622,2150000,1695000,1944
+Stockholm,Sköndal,Bengt Bagares Gränd 2C,5,119.5 ,6520,4700000,4200000,2002
+Sundbyberg,Hallonbergen,Bergshöjden 66,1.5,50.5 ,2369,1775000,1795000,1972
+Stockholm,Liljeholmen,Nybodaringen 39,1.5,37 ,3130,2400000,1750000,1936
+Stockholm,Gröndal,"Sjöbjörnsvägen 18, 1tr",2.5,58 ,3650,3650000,3595000,1946
+Stockholm,Midsommarkransen,"Tellusborgsvägen 108, vån 3",3,86.5 ,3979,5200000,4650000,2010
+Stockholm,Midsommarkransen,"Midsommarvägen 21, vån 3/4",3,53 ,4008,3350000,2750000,1943
+Solna,Solna,Storgatan 50,2.5,64.2 ,3143,3180000,2695000,1983
+Sundbyberg,CentralaSundbyberg,Franstorpsvägen 4A,2,62.5 ,4849,3150000,2850000,1962
+Solna,SolnaJärvastaden,"Fridensborgsvägen 131, Högst upp",4,94 ,5309,5300000,4795000,2017
+Stockholm,Södermalm,"Flintbacken 4, 2tr",3,80.5 ,3207,5500000,4295000,1962
+Stockholm,Södermalm,"Bergsunds Strand 25, 6tr",3,71 ,4239,7330000,6295000,1937
+Stockholm,Stockholm,"Luftskeppsgatan 8, 3tr",3,79 ,5443,2610000,1995000,1989
+Stockholm,Östberga,Förlandagränd 82,3,83 ,4311,2200000,1995000,1969
+Stockholm,Östermalm,Smedsbacksgatan 10,2,35 ,1976,3050000,2795000,1938
+Stockholm,NorraDjurgårdsstaden,Drevergatan 3,4,96 ,4565,8495000,8495000,2017
+Stockholm,Stockholm,"Atlasgatan 1, 4tr",3,72 ,3310,5920000,5495000,1929
+Stockholm,Kungsholmen,"Kungsholms Strand 179, 2tr",3,81 ,4298,5650000,5650000,1930
+Stockholm,Vasastan,Norrbackagatan 40,2,66 ,3237,6300000,5475000,1906
+Solna,Huvudsta,Krysshammarvägen 8 7tr,3,82.3 ,2708,4020000,4020000,1966
+Stockholm,Bromma,"Björketorpsvägen 7, 1tr",4,96 ,5188,3700000,3700000,2009
+Sollentuna,Tureberg,"Turebergs Allé 11, 2tr",3,69 ,3845,2950000,2950000,2013
+Stockholm,HammarbySjöstad,"Virkesvägen 17, pl 9/9",4,99 ,5076,6710000,6495000,2019
+Stockholm,Vasastan,"Karlbergsvägen 20A, 3 tr",2,50 ,1833,5975000,4695000,1901
+Stockholm,Enskede,Majrovägen 8,3,68 ,3792,3125000,2695000,1947
+Stockholm,Hägersten,Ivar Vidfamnes Gata 1,4,75 ,4242,5550000,4395000,1948
+Stockholm,Stockholm,"Birger Jarlsgatan 104L, 2 tr",2,42.5 ,3058,4210000,3450000,1929
+Stockholm,Södermalm,"Tavastgatan 29 C, 2 tr",2,65 ,2543,5530000,4950000,1897
+Stockholm,Bromma,Nipfjällsvägen 10,2,62 ,2682,3800000,3295000,1984
+Stockholm,Kungsholmen,"Kungsholms Strand 185, 3 tr",4.5,116 ,3705,11420000,9500000,1929
+Stockholm,Fruängen,Doktor Widerströms Gata 60,2,56 ,3252,2620000,2195000,1954
+Stockholm,Högdalen,Harpsundsvägen 107,1,28.5 ,1672,2030000,1695000,1959
+Solna,Frösunda,"Gustav III:s Boulevard 167, 4 tr",2,59.5 ,3508,3575000,2850000,2009
+Solna,VästraSkogen,"Armégatan 36F, vån 9/9",2,47 ,3036,3340000,2695000,2016
+Stockholm,Vasastan,"Sveavägen 121 B, 3tr",1,32 ,1464,3370000,2900000,1929
+Stockholm,Södermalm,Högalidsgatan 11A,1,29 ,1330,2850000,2350000,1910
+Solna,Arenastaden,"Evenemangsgatan 40, vån 6",2,43 ,2741,2710000,2495000,2019
+Solna,Huvudsta,"Bygatan 25, 6 tr",3,88.4 ,4206,4550000,3995000,1968
+Stockholm,Kungsholmen,Luxgatan 6,1.5,39 ,1650,3350000,2595000,1930
+Solna,Råsunda,"Södra Långgatan 35A, 3tr",2,49 ,2585,3160000,2595000,1947
+Stockholm,Aspudden,Hägerstensvägen 148,2,53 ,2965,3350000,2795000,1945
+Stockholm,Abrahamsberg,Byggmästarvägen 19,2,51 ,3436,3015000,2495000,1939
+Stockholm,Aspudden,Sigfridsvägen 11,1,38 ,2290,2750000,2195000,1949
+Stockholm,Riksby,Galonvägen 16,1.5,44 ,2241,2400000,1995000,1944
+Stockholm,Kungsholmen,"Lindhagensgatan 67, 1.5tr",2,43 ,2459,3300000,2995000,1944
+Stockholm,Kungsholmen,"Essingetorget 37, 2 tr",3,75 ,4277,5900000,5475000,1938
+Solna,Näckrosen,Råsundavägen 166,2,56 ,3127,3250000,3250000,2019
+Stockholm,Kista,"Borgarfjordsgatan 5, lgh 148",2,59 ,3636,2000000,1845000,1990
+Stockholm,Fredhäll,"Stagneliusvägen 26, 1 tr",1,22 ,1504,2100000,1895000,1990
+Solna,BergshamraSödra,"Odlingsvägen 5, 5 tr",4,75 ,3830,4450000,3795000,1989
+Stockholm,Akalla,Kaskögatan 12,3,76 ,4500,2000000,1795000,1976
+Stockholm,Sätra,"Torvsätravägen 1, vån 4",4,103 ,6781,3700000,3490000,2019
+Stockholm,HammarbySjöstad,Hammarby Allé 149,2,44 ,3121,3050000,2795000,2003
+Stockholm,Bromsten,Erik Tegels Väg 39,4,93 ,5124,2475000,2195000,1963
+Stockholm,Kungsholmen,"Rålambsvägen 48, 3 tr",2,36 ,1979,3100000,3100000,1931
+Stockholm,Östermalm,Birger Jarlsgatan 98,5,124 ,6560,12850000,11500000,1905
+Stockholm,Högdalen,"Sjösabrinken 24, 2 tr.",2,56 ,3212,2500000,2500000,1955
+Stockholm,Östermalm,Engelbrektsgatan 33,3,90 ,3705,9900000,8950000,1881
+Stockholm,Södermalm,"Assessorsgatan 14, 1 tr",3,69 ,2354,6320000,5495000,1905
+Sundbyberg,Sundbyberg,Prästgårdsgatan 2,3,83 ,3567,5800000,5895000,2017
+Stockholm,Östermalm,Sibyllegatan 16,6,204 ,5699,22000000,22900000,1888
+Stockholm,Kungsholmen,Industrigatan 9,1,23 ,1208,2560000,2195000,1933
+Nacka,Hedvigslund,"Vinkelhaksvägen 28, nb",2,48 ,3287,2000000,1895000,1993
+Sundbyberg,Sundbyberg,"Vintergatan 4, 3 tr",1,42 ,2979,2500000,2495000,1936
+Stockholm,Vällingby,"Jämtlandsgatan 107, Vån 7 (11075)",1,36 ,1905,2100000,1750000,2019
+Stockholm,Kungsholmen,"Sankt Eriksgatan 39, 4tr",2,48 ,1404,4100000,3695000,1937
+Nacka,Alphyddan,"Alphyddevägen 63, 10tr",3,79 ,3601,4270000,3695000,1965
+Stockholm,Bandhagen,Skeppstavägen 33,3,69 ,4092,2570000,2190000,1953
+Stockholm,Vasastan,"Vikingagatan 3, 3 tr",2,49 ,2810,5180000,4795000,1907
+Stockholm,Södermalm,"Bastugatan 21, 2tr",1,25 ,1360,2700000,2700000,1929
+Stockholm,Västertorp,Terrängvägen 91,2,54.6 ,3970,2820000,2295000,1996
+Stockholm,Kungsholmen,"Lindhagensterrassen 9, 7tr",3,79 ,3297,5790000,5595000,2009
+Stockholm,Årsta,Bränningevägen 28 B,3,83 ,4103,5200000,4795000,2016
+Stockholm,Östermalm,Grev Turegatan 59 B,3,87 ,4061,9800000,9450000,1879
+Stockholm,Vasastan,"Atlasgatan 4, 4tr",2,40 ,2116,4310000,3750000,1928
+Nacka,Nacka,Henriksdalsringen 41,3,69 ,4151,2500000,2395000,1928
+Stockholm,Kungsholmen,Svarvargatan 3,2,42 ,1954,3870000,2995000,1932
+Nacka,Björknäs,Talluddsvägen 7D,3,69 ,4557,2495000,2495000,1932
+Stockholm,Vasastan,Vanadisvägen 7,2,60 ,2328,5280000,4950000,1926
+Stockholm,HammarbySjöstad,Sjöfartsgatan 15 B,2,47 ,2621,3350000,2995000,1926
+Stockholm,Vasastan,"Wallingatan 14 A, 3tr ög",3,66 ,2502,6200000,6150000,1892
+Stockholm,Kungsholmen,"Hantverkargatan 50, 4 tr",2,58 ,2270,5050000,4495000,1931
+Stockholm,Kungsholmen,Industrigatan 9,3,62 ,3304,5740000,4995000,1933
+Stockholm,HammarbySjöstad,"Rorgängargatan 15 B, vån 11",4,113 ,5285,8250000,8475000,2009
+Stockholm,Södermalm,Björngårdsgatan 16B,4,104 ,4520,9000000,9500000,1862
+Stockholm,Akalla,"Borgågatan 4, 5 tr",3,73 ,4787,1940000,1790000,1976
+Sundbyberg,CentralaSundbyberg,Bergsgatan 16B,2,38 ,2789,2850000,2495000,1937
+Stockholm,Maria,"Fatburs Brunnsgata 26, 3 tr",2,61 ,3222,4645000,4250000,1991
+Stockholm,Skarpnäck,"Segelflygsgatan 20, 3tr",4,101.5 ,6664,3750000,2895000,1985
+Sundbyberg,Ursvik,Ursviks Allé 41,3,62 ,3632,2620000,2495000,2015
+Stockholm,Vällingby,"Trolle Bondes gata 3, Vån 1",3,79 ,5243,2900000,2595000,2015
+Stockholm,Vasastan,Birger Jarlsgatan 65A,4,139 ,4204,11800000,11500000,1913
+Sundbyberg,CentralaSundbyberg,Eliegatan 10,2,55 ,4495,2125000,11500000,1996
+Sundbyberg,CentralaSundbyberg,Fredsgatan 25,1,22 ,920,2260000,1850000,1996
+Sundbyberg,Rissne,"Skvadronsbacken 16, 1 tr",3,79 ,3812,2620000,2490000,1982
+Stockholm,Enskede,"Tussmötevägen 120B, vån 2",3,78 ,4107,4920000,4995000,2019
+Stockholm,Örby,Gamla Huddingevägen 447,2,62 ,1763,2410000,1995000,1968
+Solna,Järvastaden,Järva Skjutbaneväg 52,3,78 ,4012,3840000,3840000,2013
+Stockholm,Bromma,Bällstavägen 51,1,36 ,1756,2400000,1995000,1943
+Stockholm,Bromma,"Ture Sventons Gata 1, 3tr",4,75 ,4398,4200000,3695000,2010
+Solna,VästraSkogen,Armégatan 11A,3,78 ,4225,5000000,5000000,2010
+Stockholm,Enskededalen,Täppgränd 105,3,88 ,4090,3425000,3500000,1982
+Stockholm,Aspudden,"Vapengatan 13, 4 tr",3,73 ,4259,5350000,4395000,1949
+Stockholm,Älvsjö,"Kavelbrovägen 16, 4 tr",5,136 ,6533,5710000,5490000,2013
+Stockholm,Vasastan,"Regeringsgatan 83, 3tr",2,84 ,4652,6950000,6995000,1891
+Stockholm,Högdalen,Stenkvistavägen 11,2,40 ,2574,2350000,1995000,2017
+Stockholm,Hjorthagen,"Ahlsellvägen 22, 2 tr",2,44.2 ,2943,3300000,2995000,1937
+Stockholm,NorraDjurgårdsstaden,"Hårdvallsgatan 13, 4tr",4,96 ,5530,7100000,6595000,2015
+Stockholm,Hjorthagen,"Älvkarleövägen 13, 2 tr",2,44.2 ,2941,3100000,2995000,1935
+Sollentuna,Tureberg,Engelbrekts väg 20,3,77.5 ,4505,3050000,2595000,2009
+Sollentuna,Silverdal,Margreteborgsvägen 25,2,66 ,4169,2950000,2950000,2013
+Stockholm,Midsommarkransen,"Cedergrensvägen 18, vån 1",2,35 ,2235,2725000,2150000,1940
+Solna,Solna,Brotorpsvägen 2,4,82 ,4169,4400000,4400000,2015
+Solna,Huvudsta,"Lundagatan 6B, 2 tr",2,54 ,2725,3010000,2395000,1952
+Solna,Råsunda,"Råsundavägen 172, VÅN 5, 3-1503",2,41 ,2289,2750000,2750000,2019
+Solna,Råsunda,Solnavägen 96,3,58 ,3829,3950000,3495000,2017
+Stockholm,Vasastan,Tomtebogatan 7,3,50 ,1755,5400000,4895000,2017
+Stockholm,Stockholm,Lysviksgatan 37A,4,88 ,4442,3135000,2595000,2017
+Stockholm,Vasastan,"Ruddammsvägen 29, 1tr",2,68.5 ,3563,4400000,3995000,1992
+Stockholm,Bromma,Karen Blixens Gata 5,3,74 ,4117,4350000,3995000,2014
+Stockholm,Bromma,"Tranebergsvägen 26, 2tr",3,62 ,4152,4125000,3295000,1936
+Stockholm,Midsommarkransen,Tellusborgsvägen 90,1.5,48 ,2784,2900000,2495000,2012
+Stockholm,Södermalm,"Bondegatan 74A, 5 tr",3.5,109 ,5629,10200000,8495000,1914
+Stockholm,Hammarbyhöjden,"Per Lindeströms Väg 79, 3tr",3,63 ,3905,4625000,3650000,1938
+Stockholm,Enskede,Bordsvägen 68,3,68 ,3718,3250000,2895000,1948
+Solna,Bergshamra,Carl Malmstens Väg 4,3,81.1 ,3758,3920000,3695000,1985
+Stockholm,ÄlvsjöÖrby,Toresundsvägen 2,3,74 ,3759,3200000,2995000,1966
+Stockholm,Vasastan,"Bråvallagatan 3, 3 tr",2,42 ,2859,4050000,3475000,1926
+Solna,Frösunda,Anders Lundströms Gata 20,5,117 ,6504,6450000,6650000,2005
+Sollentuna,Edsberg,"Kruthornsvägen 16, 3tr",2,57 ,3113,1700000,1700000,1963
+Stockholm,Bromma,Svartviksslingan 104,3,59.5 ,3410,3520000,3600000,1985
+Stockholm,Akalla,"Kotkagatan 15, 5 tr",3,73 ,4234,2020000,1790000,1975
+Stockholm,Kungsholmen,Polhemsgatan 36,1,26 ,895,2650000,2195000,1937
+Stockholm,Östermalm,Östermalmsgatan 49,1,31 ,1372,3250000,3300000,1883
+Stockholm,Östermalm,Ruddammsvägen 23,3,69.5 ,3503,4420000,4125000,1992
+Stockholm,Gärdet,"Armfeltsgatan 22, 2 tr",2,63 ,2200,5810000,5195000,1950
+Stockholm,Kungsholmen,"Industrigatan 7A, 4 tr",2,36 ,2850,2960000,2795000,1941
+Sundbyberg,Sundbyberg,Lötsjövägen 79,2,68.8 ,3095,2200000,1895000,1941
+Stockholm,Årsta,Järnlundsvägen 20,2,55 ,3599,2700000,2700000,1951
+Stockholm,Stockholm,"Valhallavägen 148 C, 1 tr",3,79 ,2826,7500000,6950000,1973
+Stockholm,Vasastan,"Tomtebogatan 46, 5tr",2,83 ,4397,6900000,4975000,1908
+Stockholm,Aspudden,Pilgrimsvägen 70,1,38 ,2485,2740000,2295000,1912
+Stockholm,Östermalm,Riddargatan 29 b,2,48 ,1507,4500000,4100000,1902
+Stockholm,Vasastan,"Sonja Kovalevskys gata 11, 11 tr",2,35 ,1750,3550000,3150000,2017
+Stockholm,Midsommarkransen,"Midsommarvägen 49, 2 tr ",3,70 ,3125,5300000,4395000,2017
+Stockholm,Södermalm,Fredmansgatan 7,2,44 ,2121,4600000,3995000,1878
+Stockholm,Östermalm,"Skeppargatan 102, 4tr",2,44.5 ,2291,4275000,3795000,1878
+Stockholm,Vasastan,"Kungstensgatan 53, 1/2 tr gårdshuset",2,54.5 ,3262,5110000,4395000,1884
+Sollentuna,Helenelund,Pilvägen 34,2,65 ,3740,2100000,1995000,1970
+Stockholm,Hornstull,Lundagatan 52,2,37 ,1919,3100000,2985000,1932
+Stockholm,Nytorget,"Bondegatan 24, 4tr",1,25 ,1439,2755000,2495000,1938
+Stockholm,Blåsut,Hållövägen 11,2,41.5 ,2612,3005000,2495000,1938
+Stockholm,Traneberg,Kebnekaisevägen 20,2,41 ,2528,2600000,2295000,1939
+Sollentuna,Edsängen,Hovslagarevägen 11,3,69 ,3955,2800000,2295000,2019
+Stockholm,Södermalm,Tideliusgatan 67 ,1.5,31 ,1314,2600000,2095000,2019
+Solna,SKYTTEHOLM,"Ankdammsgatan 28, vån 6 av 6",2,56 ,2776,2900000,2900000,1959
+Stockholm,Vasastan,"Västmannagatan 86, 2 tr",2,42 ,2024,4200000,4200000,1906
+Nacka,Nacka,"Ektorpsvägen 11, 2 tr",1.5,32 ,1373,2000000,1795000,1906
+Stockholm,Södermalm,"Kristinehovsgatan 5 B, 1tr",1,26 ,1702,2500000,1995000,1906
+Stockholm,Östermalm,Östermalmsgatan 83,6,192 ,7165,22600000,17900000,1903
+Stockholm,Gröndal,Ekensbergsvägen 118 A,3.5,81 ,4576,4010000,2995000,1947
+Stockholm,Östermalm,Torstenssonsgatan 7,5,127 ,4664,16700000,13950000,1894
+Stockholm,Östermalm,"Grev Magnigatan 17C, 3 tr. ö.g.",2,57 ,1627,6400000,5750000,1886
+Stockholm,Kungsholmen,Harry Martinsons gata 11,4,98 ,4224,7500000,7250000,2012
+Stockholm,Gärdet,"Sandhamnsgatan 75B, 8tr",2,47 ,3017,4700000,4495000,2018
+Stockholm,Vasastan,"Rådmansgatan 46, 4 tr",1,24 ,1534,2520000,2350000,2011
+Stockholm,Kungsholmen,Levertinsgatan 3,3.5,80 ,4758,4725000,4450000,1931
+Stockholm,Vasastan,Gästrikegatan 16A,2,32 ,1242,3680000,2975000,1901
+Stockholm,Östermalm,Styrmansgatan 14 A,3,105 ,3431,11000000,11000000,1917
+Sundbyberg,CentralaSundbyberg,Vintergatan 1,2,53 ,2623,3750000,3495000,2016
+Stockholm,Traneberg,Tranebergsvägen 58,2,54 ,3193,3400000,2995000,1938
+Sollentuna,Norrviken,Länsmansvägen 51,2,70 ,3262,3020000,2995000,1970
+Sollentuna,Helenelund,"Stupvägen 65, 1 tr",3,78 ,3868,2795000,2650000,1970
+Solna,Huvudsta,"Ingentingsgatan 5, 2 tr",4,118.5 ,5140,5100000,4895000,1962
+Sundbyberg,CentralaSundbyberg,Friluftsvägen 3,2,59 ,1521,3150000,2995000,1954
+Stockholm,Gubbängen,Sicklingsvägen 6,4,78 ,4410,3695000,3695000,1947
+Sundbyberg,CentralaSundbyberg,"Tulegatan 18, 4 tr",4,84 ,3943,6600000,5995000,2014
+Stockholm,HammarbySjöstad,Ljusslingan 36,1.5,31 ,2060,2725000,2725000,1930
+Stockholm,NorraDjurgårdsstaden,"Slåttervallsgatan 1, 3tr",3,79 ,4387,5700000,2725000,2016
+Stockholm,Kungsholmen,"Sysslomansgatan 24, 1tr",1,35 ,1743,2700000,2395000,1939
+Stockholm,Kungsholmen,Kungsklippan 14,1.5,30 ,2424,2800000,2495000,1934
+Stockholm,Älvsjö,Stamgatan 57 NB,1.5,37 ,2762,1600000,1490000,1957
+Stockholm,Solberga,Kristallvägen 22,4,83 ,3746,3400000,3150000,1950
+Stockholm,Vasastan,"Torsplan 8, vån 7",3,79 ,4611,7700000,7700000,2019
+Nacka,Neglinge,Syrenparken 19,1,51 ,3718,2400000,2400000,2019
+Stockholm,Kungsholmen,"Sankt Göransgatan 96, 4tr",2.5,58 ,3021,4320000,3995000,1992
+Nacka,Sickla,"Sickla Allé 9, 2tr",3,85 ,4739,4795000,4795000,2006
+Nacka,JärlaSjö,Gustaf de lavals torg 8,1,34 ,1984,2550000,2395000,2017
+Stockholm,Hägerstensåsen,"Inteckningsvägen 13, 2 tr",2,55 ,2426,2710000,2350000,1945
+Stockholm,Kungsholmen,Pontonjärgatan 4,1,27 ,1873,2700000,2275000,1931
+Stockholm,Kungsholmen,Igeldammsgatan 10,2,47 ,2785,4125000,3575000,1929
+Stockholm,NedreGärdet,Värtavägen 33,2,74 ,3185,6540000,5995000,1934
+Solna,Bergshamra,Illerstigen 14,4,97 ,5014,6000000,5995000,1968
+Stockholm,Årsta,"Steningevägen 3, 7tr",3,69 ,3112,5500000,4795000,1947
+Stockholm,Östermalm,Furusundsgatan 6,2,49.5 ,2953,3600000,3495000,1938
+Stockholm,Bromma,Ståltrådsvägen 26,2,54 ,2500,2420000,2195000,1945
+Stockholm,Kungsholmen,Svarvargatan 7,4,103 ,5324,9895000,9900000,1897
+Solna,Järvastaden,Honnörsgatan 19,2,57 ,2983,3200000,2895000,2009
+Stockholm,Vasastan,Rörstrandsgatan 56A,4,96 ,5477,8550000,7995000,1907
+Nacka,Björknäs,Talluddsvägen 7D,2,52 ,3583,2250000,1995000,1960
+Stockholm,Bromma,"Käglestigen 6, 2tr",2,53 ,3835,3150000,3150000,1938
+Nacka,Alphyddan,"Alphyddevägen 53, 1 tr",3,76 ,3977,3750000,3295000,1963
+Stockholm,Farsta,Arvikagatan 31,2.5,72 ,3506,2600000,2150000,2011
+Stockholm,Bagarmossen,Svartågatan 63,2,54 ,3870,2900000,2295000,1954
+Stockholm,Bromma,Brålunden 13,1,37 ,1604,2400000,1995000,1935
+Stockholm,Vasastan,Bigarråvägen 4,2.5,73 ,3681,3910000,3850000,1992
+Stockholm,Vårberg,Båtholmsbacken 19,3,83 ,3935,2400000,2400000,1967
+Stockholm,StoraEssingen,"Badstrandsvägen 31, 2tr",2,38 ,1742,2750000,2495000,1938
+Solna,Solna,Meanderslingan 36,4,95 ,5545,4650000,4700000,2015
+Stockholm,Vällingby,"Östersundsgatan 4, Markplan med uteplats (22012)",2,61 ,3228,2610000,2195000,2017
+Stockholm,Midsommarkransen,Lötmogatan 7,2,45 ,3825,3450000,2995000,1940
+Stockholm,Ekhagen,Ekhagsvägen 6,2,67 ,3711,4225000,3895000,1935
+Stockholm,Vällingby,"Jämtlandsgatan 107, Markplan med uteplats (11011)",2,66 ,3493,2800000,2800000,2019
+Stockholm,Vasastan,Sveavägen 134,2,32 ,1817,2700000,2750000,1937
+Stockholm,Telefonplan,Snickerigatan 9,2,65 ,3852,3350000,3150000,2015
+Stockholm,Aspudden,"Fastlagsvägen 55, 2tr",3.5,66 ,3737,4100000,3395000,1943
+Stockholm,Stockholm,"Gröndalsvägen 170, våning 3",4,83 ,2498,4500000,4750000,1981
+Stockholm,Vasastan,"Döbelnsgatan 53, 3 tr",3,87 ,3917,9000000,9000000,1909
+Stockholm,Akalla,Saimagatan 3,3,73 ,3919,2140000,1995000,1976
+Stockholm,Farsta,"Molkomsbacken 24, VÅN8",5,100 ,3437,3600000,3600000,1959
+Stockholm,Högdalen,"Skebokvarnsvägen 247, 2 tr",2,57.5 ,3128,2365000,2150000,1956
+Stockholm,Norrmalm,Regeringsgatan 86,3,121 ,5068,12000000,10950000,1904
+Stockholm,Vasastan,Dalagatan 24,2,36 ,1703,3820000,3495000,1884
+Stockholm,Östermalm,Artillerigatan 50,3,86 ,3206,10400000,8950000,1898
+Stockholm,Östermalm,Artillerigatan 53,4,132 ,5113,15175000,13000000,1886
+Stockholm,Östermalm,Wittstocksgatan 3 C,4,120 ,1451,15300000,14500000,1925
+Stockholm,NorraDjurgårdsstaden,Bobergsgatan 12,2,43.5 ,2763,3375000,3495000,2014
+Stockholm,Riksby,Drottningholmsvägen 310,4,78 ,4897,3800000,3775000,1943
+Stockholm,Årsta,"Järnlundsvägen 10, 3/3tr",2,55 ,3599,2750000,2450000,1950
+Stockholm,Spånga,"Holmingegränd 15, 1tr",2,61.5 ,4460,1570000,1450000,1968
+Stockholm,Kungsholmen,Creutzgatan 11,2,37 ,1994,3200000,2950000,1968
+Stockholm,Östermalm,Narvavägen 8,4,122 ,5201,20000000,20000000,1909
+Sollentuna,Häggvik,Ugglevägen 9,2,52 ,3012,2300000,2295000,2014
+Stockholm,Södermalm,"Östgötagatan 29, 2 tr",4,84 ,2101,8350000,6895000,1912
+Sollentuna,Kärrdal,"Lomvägen 55, bv",2,69 ,3527,2250000,1995000,1975
+Stockholm,Östermalm,Skeppargatan 58,2,59 ,2195,6000000,5500000,1924
+Stockholm,Aspudden,Vallfartsvägen 6,2,39 ,2432,2860000,2495000,1939
+Nacka,Nacka,Finnboda Parkväg 22A,2,68 ,3871,3250000,3295000,1939
+Stockholm,Södermalm,Allhelgonagatan 10,2,76 ,4305,5250000,4995000,1930
+Sundbyberg,Ursvik,Ursviks allé 35,2,39 ,2619,2250000,2250000,2014
+Stockholm,Spånga,Flystagränd 1,3,79 ,4190,2600000,2295000,1948
+Stockholm,Älvsjö,Stora Kvinns väg 78,2,73 ,4693,4000000,3795000,1910
+Sollentuna,Silverdal,Johannesbergsplan 22,2,66 ,4169,3100000,3000000,2013
+Stockholm,Midsommarkransen,Bäckvägen 81,2,44 ,3405,2600000,2050000,1940
+Sollentuna,Tureberg,Bygatan 46,3,87 ,4904,2650000,2495000,1940
+Sollentuna,CentralaSollentuna,"Sofielundsvägen 13, 1tr",4,96 ,5050,3510000,3450000,1989
+Stockholm,Katarina,Dalslandsgatan 7,2,37.5 ,1761,3575000,3150000,1931
+Stockholm,Bromma,Follingbogatan 6,2,77 ,3374,3850000,3595000,1930
+Stockholm,Gröndal,Gröndalsvägen 23,1.5,32 ,1449,2600000,2395000,1913
+Stockholm,Vasastan,Upplandsgatan 36 B ,3,64 ,3159,7500000,6395000,1882
+Stockholm,Västertorp,Västertorpsvägen 12,4,92 ,5911,4200000,4200000,1996
+Stockholm,Kungsholmen,"Kungsklippan 11, vån 4",1,27 ,2287,2565000,2395000,1938
+Stockholm,Kungsholmen,Mitisgatan 4,4,83 ,4325,6500000,6500000,1896
+Stockholm,Gubbängen,"Sicklingsvägen 13, 2tr",3,68 ,3812,2750000,2495000,1947
+Stockholm,Fruängen,Ellen Fries Gata 13,4,99 ,5821,4050000,3600000,1958
+Nacka,Ekudden,"Ekuddsvägen 6, 5 tr",2,64 ,3285,3600000,3495000,2011
+Stockholm,Östermalm,"Strindbergsgatan 38, 3 tr",3,77.5 ,3720,6700000,5995000,1973
+Stockholm,Kungsholmen,"Creutzgatan 3, 3 tr",1.5,38 ,1223,3495000,3195000,1927
+Stockholm,Liljeholmen,Liljeholmstorget 6,2.5,75.5 ,3458,4175000,4295000,1927
+Stockholm,Midsommarkransen,Kransbindarvägen 49,2,35 ,2235,2650000,2195000,1940
+Stockholm,Bagarmossen,"Svartågatan 41, 2tr",2,54 ,3870,2420000,2195000,1954
+Stockholm,HammarbySjöstad,Hammarby Allé 55B,3,85 ,4695,5810000,5495000,2014
+Stockholm,Östermalm,Smedsbacksgatan 28,1,34 ,1990,2800000,2495000,1939
+Stockholm,Maria,Hornsgatan 70,2,70 ,3979,5650000,5450000,1907
+Stockholm,Katarina,"Folkungagatan 69, 6tr ",2,48 ,1456,4350000,3995000,1907
+Stockholm,Örnsberg,Ivar Vidfamnes gata 1,2,54 ,3048,3600000,5795000,1948
+Sundbyberg,CentralaSundbyberg,Mariagatan 6,1.5,30 ,2071,2420000,1995000,1930
+Stockholm,Midsommarkransen,Tellusborgsvägen 92,1.5,36 ,2060,2725000,2195000,2012
+Stockholm,Vällingby,Vällingbyvägen 134,2,60 ,3010,2150000,2150000,1956
+Stockholm,Älvsjö,Älvsjö Torg 19,3,77 ,3258,3650000,2995000,2015
+Stockholm,NorraDjurgårdsstaden,"Settergatan 8, 2tr",3,71 ,3920,5800000,2995000,2018
+Stockholm,Telefonplan,"Riksdalervägen 9, 1 tr.",2.5,63 ,2295,3100000,2795000,1948
+Sundbyberg,Sundbyberg,Hamngatan 13B,4,91.5 ,4567,6775000,6775000,2017
+Stockholm,Årsta,"Sköntorpsvägen 108, 3 tr",2,57 ,3017,2900000,2495000,1945
+Nacka,Sickla,"Sickla Allé 13, 11tr",2.5,47.5 ,2699,3275000,2995000,1959
+Stockholm,Husby,"Stavangergatan 32, 5tr",3,76 ,5084,1850000,1795000,1974
+Stockholm,Vasastan,"Hagagatan 38, 4tr",5,119 ,5134,10550000,9495000,1926
+Stockholm,Vasastan,"Rådmansgatan 76C, 4tr",3,78 ,3108,6800000,6295000,1979
+Stockholm,Örnsberg,"Jarl Kulles Gata 1, vån 5 av 5",2,62 ,3493,3800000,3195000,2011
+Sollentuna,Silverdal,Margreteborgsvägen 13,3,73 ,3837,3500000,3395000,2011
+Stockholm,Älvsjö,Stamgatan 90,3,78 ,5201,2400000,2095000,1960
+Stockholm,Vasastan,Tomtebogatan 9,2,61 ,2415,5200000,4995000,1905
+Sollentuna,Tureberg,Engelbrekts väg 73 G,3,88.8 ,4715,2950000,2795000,1998
+Nacka,Finntorp,Blomstervägen 2 ,2,63.5 ,3264,3100000,2695000,1977
+Nacka,Saltsjö,Gnejsvägen 20A,4,107 ,3895,4820000,4995000,1977
+Stockholm,Kungsholmen,Strålgatan 8,2,45 ,3136,2700000,2995000,1938
+Stockholm,Kungsholmen,"Pär Lagerkvists Gata 6, vån 7/7",2,64 ,3156,4700000,4250000,2008
+Nacka,Ekudden,Ekuddsvägen 6,3,85 ,4350,3850000,3495000,2008
+Stockholm,Örby,Åkerögränd 10,3,76 ,4962,2350000,1995000,1959
+Sundbyberg,SundbybergCentrum,Råstensgatan 10,2,53 ,2750,3525000,2695000,1996
+Stockholm,Globen,Gullmarsvägen 12,2,53 ,3571,3500000,2995000,1946
+Stockholm,HammarbySjöstad,Aktergatan 26,2,44 ,3135,3120000,2695000,2002
+Stockholm,Vasastan,"Döbelnsgatan 47, 1,5tr",3,79 ,3791,6800000,6395000,1929
+Stockholm,Bromma,"Bällstavägen 52, 5tr",3,86 ,3763,4400000,3895000,2015
+Stockholm,Hammarbyhöjden,Kalmgatan 26,4,86 ,5198,5000000,4695000,1992
+Sollentuna,Edsängen,Frestavägen 28,3,71 ,3693,2625000,2595000,2012
+Stockholm,Kungsholmen,"Norr Mälarstrand 88, 3 tr",2,35.7 ,1419,3850000,3295000,1926
+Stockholm,Gröndal,"Maskinistgatan 9, 2tr",1.5,35 ,2591,2760000,1995000,1926
+Stockholm,Liljeholmen,"Liljeholmstorget 54, vån 4",3,75 ,2079,5480000,5250000,2004
+Stockholm,Gröndal,"Fregattvägen 77, 2tr",2,47 ,3373,2850000,2295000,1943
+Stockholm,Hägersten,Hertigvägen 16,3,70 ,4133,4300000,4350000,1948
+Sundbyberg,CentralaSundbyberg,Svalgränd 3B,1.5,39 ,2616,2450000,2250000,1932
+Stockholm,Årsta,"Sköntorpsvägen 115, 3 tr.",2,41 ,2852,2720000,2245000,1963
+Stockholm,Enskede,Bastuhagsvägen 4,2,57 ,3243,2735000,1995000,1952
+Stockholm,Bromma,"Björketorpsvägen 7, vån 5",4,96 ,5188,3950000,3795000,2008
+Stockholm,Kungsholmen,"Sankt Göransgatan 153, vån 9",1,24.5 ,1523,2360000,1995000,1949
+Stockholm,Vasastan,"Tomtebogatan 51, 1 tr",2,57 ,3042,5460000,5250000,1907
+Stockholm,Vasastan,"Upplandsgatan 53, 3 tr",2,60 ,1886,6000000,5895000,1898
+Stockholm,Kungsholmen,"Lidnersgatan 2, 5 tr",2,48 ,3860,3650000,3250000,1938
+Stockholm,Bromma,Karen Blixens gata 13,2,61 ,3567,2625000,2395000,2014
+Stockholm,Bredäng,"Järnbärarvägen 16, 6 tr",3,82 ,3931,2675000,2675000,1966
+Stockholm,Mariehäll,Kratsbodavägen 50B,3,71 ,4198,4130000,3495000,2016
+Stockholm,Östermalm,"Grevgatan 20, Bv ",1,24 ,1128,3100000,2695000,1884
+Stockholm,Annedal,Dartanjangs gata 14,3,83.5 ,3607,4300000,3895000,2014
+Solna,SolnaC,Klippgatan 16C 8 tr,1.5,46 ,2405,2670000,2395000,2014
+Stockholm,Kungsholmen,Kungsbro strand 19,3,72 ,5235,8345000,8495000,1934
+Solna,Bergshamra,Hjortstigen 2C,4,87.4 ,5255,5660000,4895000,1998
+Stockholm,Älvsjöcentrum,Sjättenovembervägen 209,4,140 ,5421,5800000,5195000,2013
+Stockholm,Kungsholmen,Lindhagensterrassen 19,2,59.5 ,2506,4200000,4150000,2009
+Solna,Frösunda,"Gustav III:s Boulevard 117, 6 tr",3,68 ,4249,4057000,3595000,2007
+Stockholm,Hammarbyhöjden,Björnståhlsgatan 2A,2,51 ,3186,2900000,2495000,1939
+Stockholm,HammarbySjöstad,"Rorgängargatan 9, 6tr",3,84 ,4131,5600000,5495000,2006
+Stockholm,Södermalm,Södermannagatan 8,1,29 ,1153,3150000,2695000,1913
+Stockholm,Kungsholmen,"Stagneliusvägen 26, 3tr",2,47.5 ,3304,3515000,3395000,1937
+Stockholm,Älvsjö,Johan Skyttes Väg 370,3.5,111 ,6797,4850000,4490000,1909
+Stockholm,Älvsjö,Prästgårdsgränd 10,3,75 ,4005,3245000,2850000,1985
+Stockholm,Hornsbergsstrand,Lars Forssells gata 26,2,49 ,3145,4000000,3795000,2013
+Nacka,Hedvigslund,"Lillvägen 7, 1tr",2,66 ,4010,2200000,2195000,1993
+Stockholm,Kungsholmen,"Norr Mälarstrand 86, 1/2 tr",3,87 ,3213,5850000,5750000,1927
+Stockholm,Norrmalm,"Sveavägen 60, 5 tr",4,124 ,6717,8800000,8495000,1931
+Stockholm,Skärmarbrink,Palandergatan 23,2,40 ,2741,2600000,2295000,1939
+Nacka,Ältacentrum,"Almvägen 11, 5 tr",2,63 ,5321,1660000,1580000,1993
+Sundbyberg,Rissne,Lavettvägen 44,4,96.7 ,5209,3050000,2895000,1983
+Sundbyberg,Sundbyberg,Järnvägsgatan 58,4,86 ,4379,4325000,3995000,1965
+Stockholm,Södermalm,"Åsögatan 106, 1 tr",2,70 ,3609,4710000,4475000,1999
+Stockholm,Östermalm,"Brantingsgatan 32, 2 tr",1,26 ,1724,2830000,2800000,1938
+Stockholm,Gröndal,"Gröndalsvägen 159, 1tr",3,83 ,4209,4600000,4450000,1982
+Stockholm,Östermalm,"Linnégatan 3, 3 tr",5,120 ,6573,11950000,11950000,1937
+Stockholm,Södermalm,"Högbergsgatan 46, 6 tr",2,45 ,1637,4310000,3495000,1977
+Stockholm,Västertorp,Skidvägen 16,2,55 ,3101,2870000,2395000,1949
+Stockholm,Västertorp,Bandyvägen 44,3,78 ,3997,4050000,3375000,1953
+Nacka,Orminge,Ornövägen 32,1.5,37 ,2394,1600000,1575000,1970
+Nacka,Nacka,Tollare Torg 2,3,81 ,3801,3700000,3595000,1970
+Stockholm,Hökarängen,"Pepparvägen 45, bv",3,80 ,5413,3045000,2695000,2011
+Stockholm,Gärdet,"Kampementsgatan 4, 3 tr",3,85 ,4005,5200000,4975000,1963
+Stockholm,Fredhäll,"Ernst Ahlgrens väg 8, 1,5tr",2,41 ,2260,3410000,4975000,1931
+Stockholm,Östermalm,Artillerigatan 14,3,70 ,2455,9600000,7500000,1906
+Stockholm,Östermalm,Bältgatan 5,3,73 ,3695,9500000,9500000,2018
+Stockholm,Östermalm,Grev Magnigatan 17B,4,99 ,4131,13750000,13900000,1929
+Stockholm,Katarina,Tideliusgränd 7,3,75 ,4237,5690000,5690000,2019
+Solna,CentralaSolna,"Sagagatan 13, bv",5,113 ,5185,4350000,4350000,1952
+Stockholm,Östermalm,Storskärsgatan 3,2,41 ,1881,3970000,3495000,1938
+Stockholm,Hornstull,Hornsbruksgatan 5A,3,79.4 ,3381,6015000,5495000,1971
+Stockholm,Sickla,"Korphoppsgatan 28, 3tr",2,60 ,4004,4400000,3995000,2003
+Solna,Råsunda,Södra Långgatan 41,2,68 ,4146,4550000,3895000,1926
+Stockholm,Katarina,Nytorgsgatan 15,2,56 ,2988,4350000,3995000,1938
+Stockholm,Katarina,Hallandsgatan 34,1,34 ,1823,2960000,2695000,1927
+Stockholm,Sätra,"Kungssätravägen 29 B, 4 tr",2,56.1 ,3542,2310000,1890000,2001
+Stockholm,Hässelby,"Hundlokegränd 20, Vån 2",3,63 ,3774,2565000,2295000,2018
+Stockholm,Hornstull,Heleneborgsgatan 3,3,75 ,2941,6420000,5495000,1912
+Stockholm,Abrahamsberg,Stopvägen 116,3.5,66 ,3835,3675000,2995000,1943
+Stockholm,Älvsjö,Slättåkragränd 15,2,71 ,3659,2200000,1790000,1968
+Stockholm,Hägerstensåsen,Sparbanksvägen 45,2,42 ,2990,2710000,1995000,1946
+Stockholm,Östermalm,Styrmansgatan 57,2,62 ,2920,7000000,6195000,1932
+Stockholm,Hornstull,"Heleneborgsgatan 6C, högst upp!",1.5,37 ,2211,3800000,3495000,1925
+Solna,Bergshamra,"Järvstigen 9 , vån 5 av 5",4,86 ,4030,4600000,4050000,1960
+Stockholm,Bromma,"Hunnebergsvägen 16, 2tr",1,31 ,2077,2325000,1995000,1935
+Sundbyberg,CentralaSundbyberg,Starrbäcksgatan 6,2,30 ,1528,2500000,2095000,1935
+Stockholm,Högalid,Ringvägen 11H,3,74 ,2447,4910000,4795000,1983
+Stockholm,Högdalen,"Rangstagatan 18, vån 15 / 15",4,85 ,4858,4150000,4150000,2017
+Stockholm,Södermalm,"Hornsgatan 35 B, 2 tr",3,72 ,2550,6150000,5600000,1975
+Solna,Bergshamra,Ripstigen 3,4,90 ,4029,5200000,5200000,1960
+Stockholm,Stockholm,"Regeringsgatan 70 E, 3 tr",3,79 ,3640,6500000,5500000,1982
+Stockholm,Liljeholmskajen,Karaffgatan 4,2,54 ,2925,4350000,3695000,2012
+Stockholm,Stockholm,Norrtullsgatan 26A,1,29 ,1328,2950000,2695000,1905
+Stockholm,Fruängen,"Agnes Lagerstedts Gata 12, 4 tr",3,68 ,3647,3000000,2595000,1955
+Stockholm,Midsommarkransen,"Tellusborgsvägen 92, vån 5/6",2,48 ,2673,3275000,2675000,2012
+Stockholm,Stureby,Tussmötevägen 188,3.5,87 ,4951,6220000,5495000,1929
+Stockholm,Vasastan,"Torsgatan 78, 2tr",3,70 ,3556,5250000,5250000,1928
+Stockholm,Fruängen,"Lina Sandells plan 2, 8 tr",3,68 ,4825,2850000,2850000,1953
+Nacka,Finntorp,"Finntorpsvägen 8, 1tr",2,58 ,2888,2550000,2495000,1951
+Sollentuna,SollentunaEdsberg,"Lodvägen 14, 4tr",3,75 ,4398,2100000,2195000,1961
+Solna,Råsunda,Råsundavägen 133A,1,41 ,2315,2800000,2495000,1940
+Stockholm,Fruängen,Ada Nilssons Gata 5,2,58 ,3048,2860000,2590000,2010
+Stockholm,Bromma,Holbergsgatan 96A,4,114 ,5586,4050000,3950000,1952
+Nacka,Alphyddan,Alphyddevägen 45,3,78.6 ,4172,3000000,2995000,1962
+Solna,Huvudsta,Huvudstagatan 13,3,85 ,4981,4200000,3995000,2006
+Stockholm,Bromma,Mälarblick 7,1,31 ,1586,2130000,1695000,1963
+Stockholm,Blåsut,Garagevägen 22,2,40.5 ,2137,2850000,2495000,2019
+Stockholm,Vällingby,Östersundsgatan 7,2,54 ,2731,2300000,1995000,1957
+Stockholm,Sofia,Barnängsgränd 6,4,98 ,5800,7400000,7125000,2003
+Stockholm,Liljeholmskajen,"Marieviksgatan 48, vån 7 av 7",3,74 ,3935,4750000,4295000,2010
+Stockholm,Blackeberg,Björnsonsgatan 150,5,118 ,6432,4600000,4195000,2010
+Sollentuna,Silverdal,Johannesbergsplan 22,3,80 ,4913,3930000,3800000,2013
+Solna,Järvastaden,Brotorpsvägen 4,2,50 ,2820,2850000,2495000,2015
+Stockholm,Östermalm,"Brahegatan 28, 2tr",2.5,53 ,2559,5150000,4995000,1943
+Stockholm,Enskede,"Gamla Tyresövägen 351D, 1 tr",2,50 ,2102,3320000,2950000,2012
+Stockholm,Kungsholmen,Rålambsvägen 69,2,37 ,2537,3000000,2695000,1935
+Stockholm,Bromma,"Registervägen 32, 1tr",2,55 ,2539,2795000,2595000,1945
+Stockholm,Enskede,Stora Gungans Väg 6B,2,41.5 ,1952,2950000,2450000,1929
+Nacka,Sickla,Sickla Strand 35,1,25 ,1031,2050000,1850000,1948
+Sundbyberg,Hallonbergen,Bergshöjden 10,2,68.8 ,3191,1900000,1950000,1972
+Stockholm,Gröndal,"Fregattvägen 42, 1tr",2,44.5 ,3026,2550000,2150000,1946
+Solna,Råsunda,"Tottvägen 7, 1 tr",2,51.5 ,1632,3060000,2895000,1944
+Stockholm,Södermalm,"Wollmar Yxkullsgatan 48D, 1 tr",1.5,38.5 ,2407,3300000,3300000,1927
+Stockholm,HammarbySjöstad,Hammarbyterrassen 7,2,55 ,3779,3800000,3495000,2015
+Nacka,HammarbySjöstad,"Skeppsmäklargatan 53, 6 tr",2,39 ,2391,2995000,2495000,2019
+Stockholm,Östermalm,Brantingsgatan 23,1.5,41 ,2305,3320000,2895000,1939
+Stockholm,EnskedeBlåsut,"Blåsutvägen 5, 6tr",3,48 ,3543,2975000,2650000,1943
+Stockholm,Älvsjö,Stamgatan 29,2,48 ,3425,2000000,1795000,1958
+Stockholm,Stockholm,"Sankt Eriksgatan 2, 2tr",2,58 ,2108,4750000,4195000,1927
+Stockholm,Vasastan,"Birger Jarlsgatan 95, 4 tr",2,55 ,2198,5360000,4975000,1916
+Stockholm,Kungsholmen,"Alströmergatan 32C, högst upp",2,36 ,1699,3575000,2995000,1929
+Stockholm,Kungsholmen,"Lindhagensgatan 141, 7tr",3,89 ,5004,7150000,6600000,2013
+Stockholm,Södermalm,Svartensgatan 8A,3.5,87 ,3204,9000000,7750000,1892
+Stockholm,Norrmalm,"Rehnsgatan 10A, 1 tr ö.g",1,20 ,1208,2410000,1950000,1887
+Solna,Huvudsta,"Storgatan 72A, vån 9/9",1,46 ,2626,2775000,2495000,2013
+Stockholm,Vasastan,"Sigtunagatan 11 B, 3tr ö.g.",1.5,43 ,2240,4250000,3775000,1901
+Stockholm,Bandhagen,Sjösavägen 17,1,36.3 ,2093,2300000,1890000,1953
+Solna,Frösunda,"Gustav III:s Boulevard 92, 5 tr",2,64 ,3519,3540000,2995000,2011
+Solna,Råsunda,Edvin Adolphsons Väg 12,3,70.5 ,4559,5075000,5075000,2008
+Stockholm,Midsommarkransen,Vattenledningsvägen 83,2,43 ,2880,2900000,2495000,1946
+Stockholm,Vasastan,Atlasgatan 6 - Townhouse,4,103 ,3822,8750000,7775000,1929
+Stockholm,Södermalm,Kvarngatan 20,2,71 ,2619,7100000,5950000,1893
+Stockholm,Farsta,Larsbodavägen 80 8tr,5,123 ,6987,3500000,3250000,1958
+Stockholm,Hammarbyhöjden,Finn Malmgrens väg 3B (55+ boende),2,68 ,5763,2450000,2450000,1992
+Stockholm,Södermalm,Repslagargatan 18,4,99.5 ,6469,7000000,6495000,1991
+Stockholm,Örnsberg,"Hägerstensvägen 209, 2 tr",1,23 ,2202,2175000,2245000,1938
+Stockholm,Stockholm,Ludvigsbergsgatan 39,3,81 ,2240,6500000,5995000,1963
+Solna,VästraSkogen,"Infanterigatan 25, vån 10/10",2,59.5 ,2772,3200000,2595000,1962
+Nacka,Ektorp,Frihetsvägen 85,2,59.2 ,3181,2400000,2295000,1985
+Solna,Råsunda,"Ekensbergsvägen 97, 5 tr",4,80.5 ,4961,4230000,3595000,1956
+Solna,Råsunda,"S:t Ansgars väg 10 B, 1 tr",1,27 ,1847,2320000,1995000,1940
+Stockholm,Östermalm,"Artillerigatan 33, 1 tr",1.5,38 ,1787,4200000,3795000,1940
+Stockholm,Vasastan,"Karlbergsvägen 66B, 5 tr",1,19 ,900,2450000,1995000,1906
+Stockholm,Aspudden,"Lilla Aspuddsvägen 2, vån 3 av 4",4,95 ,4727,7550000,6495000,1912
+Stockholm,Årsta,Dellensvägen 12,2,58 ,3783,2800000,2495000,1943
+Stockholm,HammarbySjöstad,"Sickla kanalgata 75, 4tr",3,72 ,4720,4495000,4495000,2000
+Nacka,VästraOrminge,Skarpövägen 35,3,81 ,5530,2300000,1995000,2000
+Solna,SolnaCentrum,"Skytteholmsvägen 20, 6 tr",4,96 ,4789,5505000,4895000,1950
+Stockholm,HammarbySjöstad,"Hammarby allé 55B, 3tr",2,64 ,3518,4620000,4295000,2014
+Stockholm,Vasastan,"Gävlegatan 9, 3 tr",2,43 ,1741,3900000,3495000,1926
+Stockholm,Kungsholmen,"Igeldammsgatan 22B, 1,5 tr",2,56 ,3070,4200000,3800000,1897
+Stockholm,Vasastan,"Karlavägen 6, 1 tr",2,41 ,1316,4050000,3950000,1994
+Stockholm,Midsommarkransen,Kyndelsmässogränd 6,2,66.6 ,5585,3150000,3395000,1993
+Stockholm,Gröndal,"Ormbergsvägen 12, 7/7 tr",3,75 ,3266,6400000,5750000,1993
+Sundbyberg,Duvbo,Ekovägen 45e,2,47 ,3367,2150000,2150000,1993
+Stockholm,Södermalm,"Brännkyrkagatan 77 B, 6 tr",3,80.5 ,2538,6870000,6450000,1969
+Solna,Råsunda,"Råsundavägen 119, 4 vån",3,74 ,2540,4700000,4775000,1910
+Stockholm,Bromma,Kratsbodavägen 50A vån 5/5,2,51 ,3335,3200000,2995000,2016
+Stockholm,Kungsholmen,"Pipersgatan 18, 3tr",2,37.5 ,2886,3750000,3750000,1934
+Stockholm,Birkastan,Tomtebogatan 1,2,52 ,1664,5200000,4995000,1926
+Stockholm,Sturehillshöjden,Sturehillsvägen 5,4,91 ,4541,5625000,5395000,2012
+Solna,Råsunda,"Parkvägen 23, 1.5tr",1.5,40 ,2005,2900000,2495000,1937
+Sundbyberg,Ursvik,"Forskargränd 26, 3tr",4,95 ,4651,4000000,3795000,2009
+Stockholm,NorraDjurgårdsstaden,"Hårdvallsgatan 11, 3tr",4,97 ,5350,6830000,6495000,2016
+Sundbyberg,Ursvik,Ladugårdsgatan 10,1.5,34.5 ,2265,2200000,1875000,2017
+Stockholm,Vasastan,"Valhallavägen 49, 1 tr",1,30 ,1543,3100000,2495000,1931
+Sundbyberg,Sundbybergcentrum,"Ursviksvägen 2A, 1tr",1,37 ,2082,2450000,2450000,1928
+Stockholm,Södermalm,Skånegatan 59B,2,56 ,2384,4300000,3890000,1905
+Stockholm,Gröndal,"Gröndalsvägen 48, 2 tr",3.5,100 ,5844,5550000,5395000,1905
+Nacka,Nacka,Ormingeringen 16A,4,91 ,5584,2500000,2195000,1905
+Stockholm,Gärdet,Smedsbacksgatan 7,2,37 ,2190,3125000,3150000,1939
+Stockholm,Kungsholmen,Svarvargatan 18,2,44 ,1636,3870000,3250000,1933
+Stockholm,Södermalm,"Heleneborgsgatan 11C, ög",2.5,47 ,2400,3950000,3490000,1913
+Stockholm,Södermalm,"Flintbacken 4, 3 tr",1.5,36 ,1435,2850000,2850000,1913
+Stockholm,Södermalm,Krukmakargatan 24,2,40 ,2129,3700000,3250000,1964
+Stockholm,HammarbySjöstad,"Hammarby Allé 165, 7tr",4,106.5 ,6211,7300000,6750000,2002
+Stockholm,Vasastan,"Tulegatan 41, 8 tr",2,60 ,2394,4750000,4450000,1963
+Stockholm,Östermalm,Styrmansgatan 21,4,115 ,4847,14225000,13900000,1897
+Sundbyberg,Sundbyberg,Prästgårdsgatan 2,1.5,35 ,1686,2825000,2650000,2017
+Stockholm,Kungsholmen,Frödingsvägen 6,2,48 ,1977,3400000,3400000,1933
+Stockholm,Östermalm,Grev Magnigatan 12B,3,80 ,2571,9825000,9250000,1884
+Nacka,Saltsjöbaden,Fidravägen 73,2,55 ,2980,2000000,1895000,1884
+Stockholm,Gärdet,"Värtavägen 33, 1 tr",1.5,36 ,1501,3335000,2750000,1934
+Nacka,Nacka,"Setterwalls väg 4, 9tr",2,58 ,3030,3150000,2950000,1934
+Stockholm,Kungsholmen,"Harry Martinsons gata 10, 2 tr",2,65 ,2855,4800000,4590000,2009
+Stockholm,Bromma,Rundkyrkoallén,5,118 ,2282,7700000,7700000,2019
+Stockholm,Hornstull,Högalidsgatan 25,1,27 ,1749,2760000,2450000,1930
+Stockholm,Rågsved,Bäverdammsgränd 106,5,108 ,6617,2650000,1875000,1983
+Solna,Järvastaden,Fridensborgsvägen 145 vån 5 av 5 ,5,111 ,5635,5800000,5800000,2016
+Sundbyberg,LillaAlby,Humblegatan 13,4,98.5 ,5627,4950000,4495000,1960
+Stockholm,Maria,"Krukmakargatan 4, 3 tr",1,33 ,1686,3330000,2650000,1896
+Stockholm,Sofia,"Tegelviksgatan 38, 3 tr högst upp ",3,88 ,5295,6600000,5995000,2003
+Nacka,SaltsjöbadenLjuskärrsberget,Ljuskärrsvägen 29,2,63 ,3360,2200000,1995000,2003
+Stockholm,Abrahamsberg,Arkitektvägen 67,3,74 ,4720,4810000,3995000,1938
+Solna,Råsunda,Näckrosvägen 18,2,55 ,3218,3720000,2995000,1946
+Stockholm,Vasastan,"Birger Jarlsgatan 115 A, 6tr, VUP",3,72 ,2864,7995000,7995000,1913
+Sundbyberg,CentralaSundbyberg,Eliegatan 1B,4,85 ,4788,5395000,4895000,2011
+Stockholm,Vasastan,"Frejgatan 25, 3 tr",2,69 ,3428,6500000,5495000,1903
+Solna,Järvastaden,"Järva Skjutbaneväg 56, 4tr ",3,80 ,3449,4375000,4375000,2012
+Stockholm,Kista,"Helsingörsgatan 12, 4 tr",4,100 ,6121,2960000,2960000,1978
+Stockholm,NorraDjurgårdsstaden,"Storängsgatan 1, 6 tr ",4,94 ,5823,7200000,6900000,2014
+Stockholm,Fruängen,"Fruängsgatan 39, våning 8",4,108.7 ,5867,5300000,4195000,2008
+Stockholm,Liljeholmskajen,Sjöviksvägen 45,4,84 ,4887,5200000,4895000,2006
+Stockholm,Hägersten,"Olof Skötkonungs Väg 2, 2 tr",2,51 ,3269,3220000,2695000,1938
+Stockholm,SpångaSolhöjden,Norrskensbacken 1B,3,86.5 ,6008,3375000,2775000,2000
+Stockholm,Bromma,Björnsonsgatan 140,2,57 ,3000,2920000,2290000,1952
+Stockholm,Årsta,"Siljansvägen 21, 3 tr",2.5,56.5 ,3964,2950000,2495000,1945
+Stockholm,Östbergahöjden,Morupsgränd 11 ,4,95 ,4761,2600000,2495000,1969
+Stockholm,Bromma,Synålsvägen 20,3,75 ,3847,3700000,3495000,1943
+Stockholm,Kungsholmen,"Garvargatan 22, 2 tr",1.5,34 ,1433,2970000,3100000,1943
+Solna,Bergshamra,"Mårdstigen 13, Vån 2",3,74.5 ,3586,3570000,2795000,1953
+Stockholm,Kungsholmen,"Stadshagsplan 10, 2tr",1,26 ,1928,2440000,2095000,1953
+Stockholm,Bromma,"Tunnlandsvägen 91, vån 6",3,93 ,3888,4600000,4295000,1998
+Sollentuna,Edsberg,Kruthornsvägen 38,3,66 ,3525,1980000,1595000,1964
+Sollentuna,Edsberg,Viltstigen 4,1,35 ,2686,1785000,1375000,2015
+Nacka,FinnbodaHamn,Finnboda Varvsväg 14A,3,78.5 ,4261,5250000,5250000,2013
+Solna,Huvudsta,"Jungfrudansen 18, 4 tr",2,36 ,1786,2860000,2295000,2013
+Stockholm,Stockholm,Grönbrinksgatan 1,3,87 ,4110,6250000,5195000,2003
+Stockholm,Rågsved,Bjursätragatan 96,1,27 ,1856,1570000,1650000,1957
+Stockholm,Blåsut,Hållövägen 13,2,46 ,2835,3140000,2695000,2014
+Stockholm,Kungsholmen,Sankt Eriksgatan 4,3,60 ,3527,5450000,4675000,1929
+Stockholm,Bromma,Beckomberga Ängsväg 14,3,75 ,4645,3450000,3350000,1929
+Stockholm,Bromma,Beckomberga skogsväg 4,3,70 ,4081,3375000,3295000,2017
+Stockholm,Bromma,Norrbyvägen 16,2,34 ,3060,2060000,1695000,1939
+Sollentuna,Tureberg,Turebergs Allé 43,3,65 ,3109,3610000,3350000,2017
+Stockholm,Vasastan,"Birkagatan 21B, 2tr",1,34 ,1223,3675000,2995000,1905
+Stockholm,Globen,"Konstgjutarvägen 20, 3 tr",3,63 ,3128,3725000,2995000,1944
+Stockholm,Södermalm,Kristinehovsgatan 5A,2,40 ,2328,2930000,2900000,1941
+Stockholm,Hägersten,"Hägerstensvägen 183, Vån 3/3",2.5,58 ,2156,3680000,2995000,1936
+Stockholm,Årsta,"Marviksvägen 5, 1tr",3,79 ,4551,4550000,3995000,2008
+Solna,Råsunda,Råsundavägen 64,4,85 ,4340,4800000,4195000,1949
+Solna,Råsunda,"Förrådsgatan 3, 3 tr",2,39 ,2463,2760000,2395000,1939
+Stockholm,Östermalm,"Erik Dahlbergsgatan 24, 3 tr",2,42 ,2204,3850000,3195000,1934
+Stockholm,Bromma,Mariehällsvägen 6,3,70 ,4608,4050000,3750000,2005
+Stockholm,Hammarbyhöjden,Per Lindeströms Väg 88,2,49 ,3735,2550000,2395000,1939
+Sollentuna,SollentunaCentrum,"Blåklockevägen 12, 5tr",4,102 ,6015,4010000,3875000,2009
+Stockholm,HammarbySjöstad,Redargatan 8,4,100 ,5537,5800000,5695000,2009
+Stockholm,Vasastan,"Karlbergsvägen 35 B, ÖG",3,61 ,2305,6585000,6000000,1903
+Solna,Råsunda,"Tottvägen 4 B, 4 tr",2,58 ,2773,3400000,3595000,1910
+Solna,Frösunda,"Signe Tillischgatan 15, 4 tr",3,78 ,4598,4675000,3895000,2006
+Stockholm,Kista,"Gallehusgränd 3, bv",2,60 ,4648,2000000,2000000,2000
+Stockholm,Vasastan,"Tomtebogatan 51, 3 tr",1,26 ,1558,2870000,2475000,2000
+Solna,Råsunda,"Vasavägen 31, plan 1",3,71 ,4118,3400000,3195000,1938
+Stockholm,Kungsholmen,Bergsgatan 34A,3,64 ,3269,5760000,5250000,1882
+Stockholm,Bromma,Grundtvigsgatan 17,1,41 ,1754,2240000,1925000,1951
+Stockholm,Kärrtorp,"Vikstensvägen 9, vån 2",4,69 ,4370,4020000,3450000,1950
+Stockholm,Kungsholmen,"Svarvargatan 17, 1tr",2,44 ,2255,3860000,3350000,1932
+Solna,Västraskogen,Trubadurvägen 1,2,47 ,2546,3000000,2695000,2015
+Sundbyberg,Ursvik,Oxenstiernas Allé 33,3,77.4 ,4695,3310000,2995000,2010
+Nacka,Kvarnholmen,Kvarnholmsvägen 84,1,37 ,2413,2575000,2495000,2010
+Stockholm,Kungsholmen,"Kungsholmsgatan 13,  3 tr",1,28 ,2189,2685000,2195000,1934
+Stockholm,Fruängen,Elin Wägners Gata 5,3,70 ,4802,3300000,2995000,1958
+Stockholm,Midsommarkransen,Ringdansvägen 1F,4,114 ,6082,8620000,7895000,1911
+Nacka,Finnberget,Finnbergsvägen 14,2,58 ,3285,3380000,2495000,1950
+Stockholm,Blåsut,"Fyrvaktarkroken 42, 2 tr",2,43.5 ,2634,3050000,2495000,2009
+Stockholm,Aspudden,Schlytersvägen 41,2,52 ,3465,3520000,2995000,1947
+Stockholm,Fruängen,Doktor Widerströms gata 82,2,55 ,3195,2610000,2095000,1954
+Stockholm,Stockholm,Arvodesvägen 18,2,53 ,3044,2900000,2395000,1947
+Stockholm,Kungsholmen,"Pipersgatan 16, 5tr",1,27.5 ,2237,2600000,2495000,1935
+Stockholm,Maria,Samaritgränd 9,2,42 ,2407,4225000,3295000,1928
+Stockholm,Vasastan,"Tomtebogatan 42, 1 tr",4,91 ,3434,8600000,7395000,1907
+Stockholm,Hammarbyhöjden,Mariestadsvägen 16,2,43 ,3194,2780000,2250000,1943
+Stockholm,Årsta,Svärdlångsvägen 55 ,1,38.5 ,3088,2420000,1895000,1951
+Nacka,Nacka,Fyrspannsvägen 66,2,63 ,4824,2080000,2080000,1951
+Stockholm,Södermalm,Folkskolegatan 3,3,75 ,3591,7200000,7200000,1931
+Stockholm,Högdalen,Skebokvarnsvägen 376,2,50 ,3602,2150000,1995000,2007
+Stockholm,Vällingby,"Östersundsgatan 2, Vån 2 (21022)",2,46 ,2434,2550000,1895000,2017
+Stockholm,Hägersten,Skridskovägen 9E,4,101 ,5517,5550000,4750000,1956
+Stockholm,Vasastan,Luntmakargatan 65,2.5,78 ,2069,6400000,6475000,1882
+Nacka,Nacka,"Tollareslingan 24, 4 tr",3,87 ,4223,5000000,4995000,1882
+Stockholm,Vasastan,"Döbelnsgatan 67B, 3 tr",2,72 ,2472,6750000,5950000,1888
+Stockholm,Vasastan,Rödabergsbrinken 16,1,45.5 ,2642,3800000,3675000,1925
+Stockholm,Östermalm,"Valhallavägen 116, 1,5 tr",3,90 ,3314,7700000,7495000,1889
+Stockholm,Kungsholmen,"Parmmätargatan 22, 1,5tr",2,51 ,2891,4500000,4195000,1912
+Stockholm,Kungsholmen,"Sankt Eriksgatan 55, 3tr",1,32 ,1486,2950000,2695000,1904
+Stockholm,Vasastan,Sveavägen 111,2,52 ,1668,4300000,3850000,1925
+Stockholm,Vällingby,"Östersundsgatan 4, Vån 3 (22032)",2,64 ,3387,2900000,2195000,2017
+Stockholm,Östermalm,"Birger Jarlsgatan 104D, 4tr",1,35 ,2698,3225000,2995000,1929
+Stockholm,Kungsholmen,"Vitalisvägen 7, 2tr",2,42.5 ,2313,3250000,3195000,1933
+Stockholm,Södermalm,"Siargatan 9, 3 tr",2,62 ,3273,4350000,3650000,1965
+Nacka,Älta,Älta Idrottsväg 6H,4,100 ,5487,4100000,3995000,2015
+Stockholm,Årsta,Dellensvägen 15,2,58 ,3550,2725000,2495000,1947
+Stockholm,Gröndal,"Sjöbjörnsvägen 48, 2tr",2.5,58 ,3650,3775000,3695000,1946
+Stockholm,Liljeholmen,"Nybohovsbacken 77, 3tr",3,71 ,2945,3495000,3495000,1961
+Solna,Frösunda,"Nämndemansgatan 19, 3 tr",4,102 ,5074,5650000,4950000,2014
+Stockholm,HammarbySjöstad,"Sickla Kanalgata 62, 4 & 5 tr",6.5,143 ,8137,10100000,8950000,2003
+Stockholm,Vasastan,"Karlbergsvägen 87A, 5 tr",2,60 ,2942,5200000,4950000,1912
+Solna,Karolinska,Fogdevreten 4,3,67 ,4236,3550000,2995000,1972
+Stockholm,Kungsholmen,Ulriksborgsgatan 9,2,59.5 ,3376,4250000,3995000,2007
+Sundbyberg,Ursvik,"Gamla Enköpingsvägen 176, Vån 3",3,66 ,3815,2780000,2780000,2016
+Stockholm,Södermalm,Kocksgatan 40,1,26 ,2008,3000000,2595000,2016
+Stockholm,City,Regeringsgatan 70F,3.5,72 ,3190,5800000,5450000,1982
+Stockholm,Östermalm,Brahegatan 3B,2,50 ,2064,5600000,5250000,1897
+Stockholm,Skärmarbrink,Arkadvägen 4,2,47 ,3466,2700000,2700000,1897
+Stockholm,Karlaplan,Gumshornsgatan 9,1.5,32 ,1706,3560000,3195000,1930
+Stockholm,HammarbySjöstad,"Lugnets allé 67, 2tr",1,49 ,3442,3055000,2650000,1930
+Stockholm,Södermalm,"Bondegatan 1 D, 2 tr",1,29 ,1606,3040000,2595000,1885
+Stockholm,Vasastan,Rådmansgatan 39B,3,97 ,3845,9200000,8950000,1901
+Stockholm,Stockholm,Götalandsvägen 179 i,2,52 ,4462,1925000,1925000,1992
+Stockholm,Kungsholmen,Pontonjärgatan 27,2.5,76 ,2843,7100000,5975000,1932
+Stockholm,Vasastan,"Hagagatan 20A, 3tr",1.5,35 ,1493,4080000,3495000,1906
+Stockholm,Södermalm,"Folkungagatan 101, 5 tr",1,29 ,1155,3100000,2395000,1975
+Stockholm,Björkhagen,Simrishamnsvägen 12,2,52 ,2564,2800000,3000000,1945
+Stockholm,Kungsholmen,"Vitalisvägen 5, vån 3",2,38 ,2025,3100000,2750000,1931
+Stockholm,Hägerstensåsen,Valutavägen 86,3.5,74 ,4834,3975000,3195000,1931
+Stockholm,Östermalm,"Valhallavägen 80 A, 3 tr ög",2,45 ,2405,4700000,3995000,1897
+Solna,Huvudsta,"Krysshammarvägen 2, 6tr",3,82.3 ,2708,4000000,3595000,1965
+Stockholm,Hornstull,Bergsundsgatan 19,2,44 ,2527,4000000,3350000,1930
+Stockholm,Globen,Konstgjutarvägen 10,2,52 ,3294,3000000,2495000,1944
+Sundbyberg,CentralaSundbyberg,Tulegatan 7,3,78 ,4405,4225000,3995000,2011
+Stockholm,Vasastan,"Tegnérgatan 55C, 3tr.",1.5,39 ,2565,4100000,3495000,2011
+Stockholm,NorraDjurgårdsstaden,Husarviksgatan 16,1,38.5 ,1797,3350000,3350000,2016
+Stockholm,Spånga,"Erik Tegels väg 2B, Vån 2",3,76.5 ,3921,2200000,2200000,1965
+Stockholm,Vällingby,Vittangigatan 16,1,23 ,1631,1650000,1495000,1953
+Stockholm,Vasastan,Tomtebogatan 5C,2,59 ,842,5700000,5395000,1909
+Solna,Huvudsta,Storgatan 56,2,62.5 ,2964,2850000,2595000,1983
+Stockholm,City,"Kammakargatan 27, 4 tr - vind",3,114 ,5118,13500000,13500000,1899
+Solna,Filmstaden,"Mauritz Stillers Väg 14, 1/2 tr",3,78 ,4523,4950000,4495000,1899
+Solna,VästraSkogen,"Epistelvägen 1B, vån 10",3,82 ,4442,4830000,4830000,2016
+Stockholm,Bredäng,Odd Fellowvägen 31,3,76 ,4342,2315000,2395000,1991
+Sollentuna,Häggvik,Smedjevägen 3,5,122.5 ,5677,3775000,3650000,1982
+Stockholm,Bagarmossen,Ätravägen 22A,1,32 ,2350,2200000,2200000,2017
+Stockholm,Vasastan,Frejgatan 42,1,38 ,1499,3950000,3295000,1886
+Nacka,Saltsjöqvarn,Bageribacken 8,3,75.6 ,3722,4400000,3995000,2001
+Stockholm,Bromma,"Mariehällstorget 7, vån 3",2,52 ,2275,3200000,2595000,2016
+Stockholm,Ormkärr,Olshammarsgatan 64,5,110 ,6970,3230000,2750000,1960
+Solna,Skytteholm,Nybodagatan 3,4.5,97.5 ,4200,4700000,4195000,1957
+Stockholm,Östermalm,"Kampementsgatan 16, 3 tr",3,87.2 ,4065,5605000,5295000,1963
+Stockholm,Midsommarkransen,Midsommarvägen 31,2.5,54 ,2612,3725000,2995000,1946
+Sundbyberg,Sundbyberg,Artillerivägen 1A,1,33.9 ,2604,1850000,1495000,1999
+Stockholm,FarstaSköndal,Sköndalsvägen 126,4,85 ,4200,3450000,3500000,1960
+Stockholm,Katarina,"Nytorgsgatan 15, 1,5 tr.",2,38 ,2182,3850000,2995000,1938
+Stockholm,Husby,"Lofotengatan 15, 2tr",4,91 ,5849,2630000,1995000,1974
+Stockholm,Akalla,"Nystadsgatan 8, 2 tr",3,73 ,3988,2050000,1800000,1974
+Stockholm,Bromma,"Alpvägen 17, vån 2",3,84 ,4341,4300000,3995000,2017
+Stockholm,Vasastan,"Kungstensgatan 35, 4tr",3,85 ,3965,8200000,7695000,1885
+Solna,VästraSkogen,"Tecknarvägen 5, 1tr",1.5,33 ,2048,2720000,1995000,2016
+Sundbyberg,LillaAlby,Högklintavägen 14,2,73 ,4117,4310000,3695000,2002
+Stockholm,Bromma,Follingbogatan 12,3,101.5 ,4158,5100000,4995000,1930
+Stockholm,Midsommarkransen,Vattenledningsvägen 48B,2,61 ,3532,4410000,3995000,1911
+Stockholm,Vasastan,"Sveavägen 120, 6/6tr",3,94 ,1141,9625000,7995000,1905
+Stockholm,HammarbySjöstad,Hammarby Allé 44,2,59 ,3971,4725000,4725000,2008
+Solna,VästraSkogen,"Trubadurvägen 1, vån 3",2,47 ,2524,3100000,2695000,2016
+Stockholm,Bandhagen,Axbergsgränd 29,2,60 ,3519,1780000,1795000,1957
+Nacka,VästraOrminge,Edövägen 14D,2.5,59 ,4113,1875000,1750000,1957
+Stockholm,Annedal,"Tummelisas gata 3, 2 tr.",1.5,36 ,2784,2250000,1895000,2013
+Stockholm,Årsta,Rämensvägen 3,1,32.5 ,2210,2205000,1895000,1945
+Stockholm,Hässelby,Strandliden 53,1,49 ,2515,2225000,1995000,1957
+Stockholm,Skarpnäck,Glidflyktsgatan 3,2,61.5 ,4388,2150000,1950000,1985
+Stockholm,Bromma,Karen Blixens gata 7,2,50 ,3088,2550000,2295000,2014
+Stockholm,Östermalm,Grev Magnigatan 10,2,60 ,3058,5150000,5350000,1894
+Stockholm,Södermalm,"Varvsgatan 14, 4 tr",3,81 ,2723,7190000,6450000,1913
+Stockholm,Södermalm,"Wollmar Yxkullsgatan 3, 2 tr",2,44 ,2786,4210000,3295000,1906
+Solna,Solna,Fyrgränd 4,3,67 ,2643,3600000,2995000,1950
+Stockholm,Vasastan,Torsgränd 4,2,46 ,2417,4400000,3995000,1905
+Stockholm,Stockholm,Grevgatan 19,2,37 ,1646,4600000,4250000,1931
+Sollentuna,Tegelhagen,Tegelhagsvägen 15,2,61 ,3854,2900000,2900000,1976
+Stockholm,Fruängen,Agnes Lagerstedts Gata 12,3,68 ,3884,3130000,2575000,1955
+Stockholm,Hammarbyhöjden,Läckövägen 11,2,47 ,3368,3150000,2575000,1955
+Stockholm,Vasastan,"Döbelnsgatan 69, 3 tr",3,107 ,3646,12200000,8995000,1902
+Stockholm,HammarbySjöstad,"Fendergatan 8, 4 av 4 tr",2,44 ,3143,3400000,3195000,2009
+Solna,Huvudsta,"Infanterigatan 17, 7 tr.",3,79 ,3787,3920000,3495000,1962
+Solna,Råsunda,Östervägen 14B,1.5,41 ,2362,2450000,2195000,1938
+Stockholm,Södermalm,Folkskolegatan 12,1.5,28 ,2300,2600000,2250000,1929
+Stockholm,Vasastan,"Hälsingegatan 9A, 2 tr ög",2,63 ,2741,6625000,5895000,1900
+Stockholm,Bagarmossen,Kolbäcksgränd 32,2,62 ,4073,2800000,2395000,1954
+Nacka,Sickla,"Atlasvägen 39, 7tr",1.5,37 ,1652,2465000,2295000,1958
+Stockholm,Södermalm,"Fatburs Kvarngata 27, 5 tr",3,69 ,4133,5320000,4495000,1991
+Stockholm,Östermalm,"Riddargatan 29D, 3tr-ög",2,42 ,1664,4550000,4250000,1902
+Stockholm,Kungsholmen,Kronobergsgatan 19,1,35 ,1798,3350000,2995000,1905
+Stockholm,Hägerstensåsen,"Inteckningsvägen 56, 2tr",3,58 ,4046,3150000,2795000,1945
+Stockholm,Södermalm,Maria prästgårdsgata 12,1,36 ,1097,3340000,3340000,1945
+Stockholm,Farsta,"Ekshäradsgatan 81, 9 tr.",1.5,45 ,2731,2325000,1995000,1983
+Nacka,Saltsjöqvarn,"Bageribacken 4, 3tr",3,88.5 ,4322,5420000,5550000,1983
+Solna,Järvastaden,Fridensborgsvägen 119,3,72 ,3899,3700000,4060000,2018
+Stockholm,Bromma,"Tranebergsvägen 24, 3tr",2,57 ,2996,3575000,3195000,1935
+Stockholm,AndelibostadsföreningHögalid,Krukmakargatan 50,3,87 ,3771,8000000,6950000,1909
+Stockholm,Hässelby,"Hässelby Torg 2, vån 4",3,73 ,4275,1850000,1695000,1956
+Stockholm,Hagsätra,"Hallsbergsgatan 20, 3tr",2,42 ,2901,2060000,1695000,2015
+Stockholm,Fruängen,Ellen Keys Gata 24 ,1.5,37 ,3235,2000000,1790000,2008
+Stockholm,Vasastan,"Luntmakargatan 59, 5tr.",2,63 ,3922,6550000,5695000,1943
+Stockholm,Spånga,Erik Tegels väg 11,1,45 ,3099,1600000,1695000,1961
+Sundbyberg,Duvbo,Duvkullavägen 40A,2,63 ,2953,2150000,1895000,1957
+Stockholm,Södermalm,Lundagatan 36F,1.5,41 ,2112,4550000,3500000,1957
+Stockholm,Kungsholmen,Jakob Westinsgatan 7,4,141.5 ,5775,11500000,11395000,1957
+Stockholm,Vasastan,"Frejgatan 53, 2 tr",2,51 ,2114,4350000,3995000,1926
+Stockholm,Kungsholmen,"Bergsgatan 51, 4tr",1.5,34 ,1434,3200000,2995000,1963
+Stockholm,Telefonplan,Hökmossevägen 30,2,42 ,2871,2600000,1995000,1943
+Stockholm,Kungsholmen,Fleminggatan 93,2,53 ,2440,5300000,4575000,1900
+Stockholm,Bromma,Sareksvägen 11,1,33 ,1569,2500000,1995000,1937
+Solna,Huvudsta,Bygatan 15,1.5,41 ,2100,2640000,2295000,1937
+Stockholm,Gröndal,Storsegelvägen 8,2,54 ,2925,4100000,4100000,2018
+Sundbyberg,Rissne,Rissneleden 165,2,47 ,2681,2295000,2295000,2018
+Sundbyberg,Sundbyberg,Oxenstiernas Allé 21,2,39 ,2507,2215000,1895000,2014
+Solna,Råsunda,Råsundavägen 59,3,77 ,3669,4350000,3995000,1936
+Solna,SolnaSkytteholm,Ankdammsgatan 30,1,25.3 ,1259,2150000,1650000,1959
+Stockholm,Östermalm,"Furusundsgatan 11, 5tr",1,26 ,1623,2650000,2395000,1939
+Stockholm,Bromma,Dartanjangs Gata 68,5,109 ,5625,4600000,4395000,2012
+Solna,Järvastaden,Järva skjutbaneväg 62,4,86 ,3654,5025000,4450000,2011
+Stockholm,Kungsholmen,Kungsholmsgatan 50,2,43 ,1844,4600000,3995000,1901
+Stockholm,ÄlvsjöSolberga,Sandalmakarbacken 11,4,104 ,4073,3850000,3495000,1970
+Stockholm,Spånga,Dagsverksvägen 205,2,54 ,2907,1650000,1595000,1958
+Nacka,NackaForum,"Serenadvägen 11, 2 tr",3,68 ,3952,3600000,2877000,2009
+Solna,Hagalund,"Hagalundsgatan 30, 11tr",4,96.2 ,3828,3780000,3195000,1972
+Sollentuna,Edsberg,Rudbecks väg 147,4,81 ,4174,3650000,3450000,2018
+Nacka,Finnboda,Kvarnholmsvägen 39C,3,81 ,5194,4610000,3995000,2018
+Stockholm,Skärmarbrink,Arkadvägen 16,2,38 ,2406,2670000,2295000,1942
+Stockholm,Liljeholmskajen,"Sturehillsvägen 7, 1tr",2,55 ,3154,3300000,3295000,2013
+Stockholm,Vasastan,Surbrunnsgatan 17,3,72 ,1294,8800000,7950000,1896
+Stockholm,Södermalm,Samaritgränd 7,1.5,42 ,2573,3800000,3700000,1927
+Stockholm,Östermalm,Regeringsgatan 70 F,2,62 ,2945,4600000,4495000,1982
+Stockholm,Vasastan,Upplandsgatan 32,3,85.5 ,4458,6850000,6495000,1967
+Stockholm,Telefonplan,Dansbanevägen 45,1,39 ,2781,2250000,1975000,1946
+Stockholm,Farsta,Värmlandsvägen 9c,4,91 ,5416,3400000,3150000,2011
+Stockholm,Vasastan,Kungstensgatan 59,3,73 ,1974,7850000,3150000,1883
+Stockholm,Bromma,Björnsonsgatan 120,4,114 ,6229,4300000,3895000,1951
+Stockholm,Enskede,Dalgränd 52,4.5,103 ,5832,4550000,4350000,1981
+Stockholm,FarstaSköndal,"Dalbobranten 27, 2tr",3,73 ,3600,2600000,2450000,1959
+Sollentuna,Kärrdal,"Lomvägen 65, 1tr",3,83 ,4443,2150000,2095000,1975
+Stockholm,Fredhäll,Atterbomsvägen 58,2,42 ,2090,3695000,3195000,1935
+Stockholm,Södermalm,"Lilla Erstagatan 6, 2 tr",2,49 ,2262,4700000,4250000,1930
+Stockholm,LillaEssingen,"Luxgatan 19, 3tr",2,58.5 ,3337,4250000,3900000,2007
+Stockholm,Kungsholmen,"Polhemsgatan 31, vån 5/6",3.5,91.6 ,3381,7935000,7250000,2007
+Stockholm,Södermalm,Drakenbergsgatan 8,2,60 ,2494,4275000,4275000,2007
+Stockholm,Älvsjö,Elkabelgatan 1,4,92 ,4787,4400000,4495000,2017
+Nacka,Bastuhöjden,"Barnhemsvägen 11, 1tr",3,72 ,4070,3050000,3095000,2008
+Nacka,Skogalundsklippan,"Skogalundsklippan 26, 2tr",2,59.5 ,4046,2430000,2295000,2008
+Stockholm,Vasastan,Sankt Eriksplan 17,2,58 ,2299,5000000,4495000,1927
+Stockholm,Skärholmen,Falkholmsgränd 5,3,68.5 ,4626,2000000,1790000,1967
+Nacka,FinnbodaHamn,Finnboda Kajväg 12E,2,60.5 ,3396,5300000,5195000,1967
+Stockholm,Fruängen,Ada Nilssons Gata 3,2,68 ,3751,2720000,2495000,2011
+Stockholm,Mariaberget,Tavastgatan 22,2,50 ,2145,3900000,3495000,1929
+Solna,Råsunda,Östervägen 16B,3,60 ,3206,3600000,3195000,1945
+Nacka,Saltsjöbaden,Fidravägen 67,2,55 ,3205,1860000,1795000,2016
+Sollentuna,Edsängen,Frestavägen 32,3,71 ,3693,2600000,2600000,2011
+Sundbyberg,Sundbyberg,Vattugatan 21B,1,36 ,2451,2300000,2095000,2011
+Stockholm,Kungsholmen,Hornsbergs Strand 15D,3,79.5 ,3975,5795000,5795000,2015
+Stockholm,Kungsholmen,"Alströmergatan 45D, 5 tr",3,70 ,3802,7400000,7995000,1927
+Sollentuna,Kärrdal,Lomvägen 43,3,83 ,4273,2150000,2300000,1975
+Nacka,Ljuskärrsberget,Ljuskärrsvägen 70,2,63.3 ,3260,1800000,1850000,1975
+Sollentuna,Edsberg,Lodvägen 4,3,75.5 ,4512,2330000,2375000,1962
+Stockholm,Hornstull,Folkskolegatan 12,2,28 ,2324,2800000,2495000,1929
+Stockholm,Enskede,Bäckaskiftsvägen 11A,2,24 ,1376,2250000,2270000,1952
+Stockholm,Älvsjöstaden,Kabelverksgatan 42,3,80 ,4550,3760000,3850000,2019
+Stockholm,Riksby,Galonvägen 2,2,44 ,2202,2620000,2495000,1944
+Stockholm,Östermalm,"Sibyllegatan 26, 1,5 tr.",2,72 ,2439,5800000,6000000,1934
+Stockholm,Högdalen,Trollesundsvägen 159,2,61 ,3155,2560000,1995000,1955
+Stockholm,NorraÄngby,Björketorpsvägen 7,3,72 ,3990,3300000,3250000,2009
+Stockholm,Vällingby,Ullvidevägen  43,2,71 ,3618,1990000,1795000,1986
+Stockholm,Bromma,"Alpvägen 17, vån 3",3,84 ,4341,4225000,3995000,2017
