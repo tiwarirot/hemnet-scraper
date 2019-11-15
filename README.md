@@ -13,9 +13,9 @@ This script fetches house price information ("slutpriser") from hemnet.se and ou
 * initial_price
 * year_built
 
-It browses specifically the counties of: Stockholm, Nacka, Sollentuna, and Sundbyberg. 
+It browses specifically the counties of: *Stockholm*, *Nacka*, *Sollentuna*, and *Sundbyberg*. 
 
-To change the default run settings (starting page, number of pages) ,modify the last line:
+To change the default run settings (starting page, number of pages), modify the last line:
 
 ```
 SlutPriserScraper(start_page=1,num_of_pages=50,use_google_maps_api=False).to_csv()
@@ -23,8 +23,8 @@ SlutPriserScraper(start_page=1,num_of_pages=50,use_google_maps_api=False).to_csv
 
 Note that the number of pages cannot be higher than 50.
 
-If you wish to use Google API to calculate the distance to central station and that to your CSV data, you will need an API key (follow instructions here: https://developers.google.com/maps/documentation/distance-matrix/get-api-key). Set your API key value in config.py and change the paramter use_google_maps_api to True.
+If you wish to use Google API to calculate the distance to central station and add that to your CSV data, you will need an API key (follow instructions here: https://developers.google.com/maps/documentation/distance-matrix/get-api-key). Set your API key value in *config.py* and change the paramter _use_google_maps_api_ to True.
 
 
-
+The resulting CSV file is written to CSV directory.
 
